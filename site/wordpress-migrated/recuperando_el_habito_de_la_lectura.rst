@@ -1,0 +1,71 @@
+.. title: Recuperando el hábito de la lectura
+.. slug: recuperando_el_habito_de_la_lectura
+.. date: 2004-09-22 11:47:16 UTC-03:00
+.. tags: Libros
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+Erase una vez, el cHagHi vivía en Bella Vista y se pasaba 3hs por día
+arriba de un tren. Y leía. Mucho. Sinceramente no extraño el tren, pero
+si la lectura. Y lamentablemente, debo reconocer que tiempo para leer
+tengo, solo que invierto en TV (gracias FOX, por series como Nip Tuck,
+Lyon's Den, North Shore y Wonderfalls (sobre todo por las dos
+primeras)). El asunto es que hace unas semanas, me fuí al otro extremo,
+y (además de los artículos varios que leo de internet) estuve leyendo
+dos novelas "en paralelo":
+
+-  "Yo, Robot". La inspiración, obvio, fue la película. El libro ya lo
+   había leído, pero hace mucho, mucho tiempo atrás. Y son tantas las
+   cosas de Asimov que tengo mezcladas en la cabeza, y tan recurrentes
+   en sus novelas los robots, que no me acordaba de nada. Y después de
+   ver la película por primera vez, me quedó una sensación del estilo
+   "hummm... ¿tiene ésto algo que ver con el libro?". La respuesta es...
+   sí y no. El libro, es una colección de relatos cortos, que repasa mas
+   o menos la historia de los robots. El hilo conductor del relato es
+   una entrevista a la La Dra. Susan Calvin (uno de los personajes
+   principales en la peli), y el núcleo de la novela son las tres Leyes
+   de la Robótica, y diversos conflictos que resultan de su aplicación.
+   ¿Y la película? Bueno, la película, sin entrar en detalles para
+   quienes no la vieron, es un cuento que perfectamente podría haber
+   formado parte del libro, y que toma algunos personajes del libro... y
+   hasta ahí. El nudo también es un conflicto con las leyes de la
+   robótica, pero la historia está escrita especialmente para la
+   película. En cuanto al libro en si, sigo opinando que lo que mas me
+   gusta de Isaac Asimov es la serie de "La Fundación". Y me pasa que
+   con el correr de los años, cada vez es mas difícil volver a una
+   novela de Asimov y no ver como algo gracioso (y que a veces distrae
+   del núcleo principal) lo "tecnológicamente desactualizado" que ha
+   quedado el relato, al menos en ciertos aspectos. Por último, la
+   lectura me resultó extremadamente chata y simplista, con los
+   personajes muy poco elaborados. La traducción no es de las mejores, y
+   eso tampoco ayuda.
+-  "The curious incident of the dog in the night-time" (El curioso
+   incidente con el perro en la noche), de Mark Haddon. Este libro cayó
+   en mis manos como resultado de mi "visita bi-anual" a Amazon.com,
+   luego de leer una crítica del libro en la página de `Joel`_.
+   Maravilloso. Realmente disfruté mucho esta novela. Está escrita en
+   primera persona (algo bastante inusual), y pretende ser un relato de
+   Christopher Boone, un flaco de 15 años que sufre el mal de Asperger
+   (una clase de autismo). El autor tiene experiencia trabajando con
+   autistas, y se nota en el libro. Mucho. Meterse en la cabeza de este
+   pobre flaco es muy... loco, raro. La lectura es sumamente amena. Yo
+   quedé atrapado desde el comienzo con el personaje. Resulta que
+   Christopher encuentra al perro de una vecina muerto, clavado con un
+   rastrillo:
+
+Decidí que al perro probablemente lo asesinaron con el rastrillo porque
+no pude ver ninguna otra herida en el perro y no creo que alguien fuera
+a clavar un rastrillo en el perro después de que muriera por alguna otra
+razón, como cáncer por ejemplo, o un accidente en la calle. Pero no
+podía asegurarlo.
+
+Sobre esto, Joel escribió en su crítica: "Es gracioso, pero al mismo
+tiempo lógico, en la misma forma irritante en que muchos programadores
+son lógicos mas allá de la razón". Y entonces decidí que quería leer el
+libro.
+
+.. _Joel: http://www.joelonsoftware.com/items/2004/08/20.html

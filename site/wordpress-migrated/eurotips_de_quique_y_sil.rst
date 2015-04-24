@@ -1,0 +1,49 @@
+.. title: Eurotips de Quique y Sil
+.. slug: eurotips_de_quique_y_sil
+.. date: 2005-11-13 15:38:19 UTC-03:00
+.. tags: Viajes
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+Anoche fui a cenar a la casa de Sil y Quique, una pareja que conocí en
+mi primer viaje con Hielo Azul, y con quienes volvimos a coincidir en
+una travesía al año siguiente. Estuvo muy lindo, hacía ratazo que no los
+veía. Además estuvieron Luis, Irene y Pablo (de Hielo también). Luis,
+maestro de la cocina (fue raro verlo cocinar en una cocina propiamente
+dicha, y no en un fogón a orillas de un algo... jeje) se hizo unas
+quesadillas espectaculares.
+
+Varias de las personas que estaban cantan en un coro... que linda es una
+guitarreada con gente que sabe cantar a dos o tres voces... que lindo
+suena. Tomé nota mental de que tengo que ir a escucharlos cuando canten
+en algún lugar... y de que me gustaría probar como es esto de cantar en
+un coro. Aunque sea probar.
+
+Bueno, resulta que Sil y Quique estuvieron en Europa este año, así que
+vimos las fotos (me empaché de ellas), y me dieron pilas de tips sobre
+el viaje. Me vino más que bien, porque los chicos hicieron un viaje
+similar al que quiero hacer yo, en cuanto a como se movieron, por donde
+anduvieron, e incluso cantidad de días. Así que me vine con una
+detallada idea de precios, como se manejaron con la reserva de hostels,
+la comida, el transporte, los tiempos que estuvieron en cada ciudad...
+en fin, toda info de primera mano, fresquita, hiper-valiosa ahora que
+estoy empezando a planificar mi propio viaje.
+
+Hermosas fotos... y que difícil es decidir a donde ir, y que dejar
+afuera. Por ejemplo, yo pensaba que París no me interesaba... hasta que
+vi las fotos, y hablé con lo chicos. Y me convencieron de que en muchas
+ciudades es suficiente estar dos o tres días. Obivamente, desde un punto
+de vista meramente turístico y si se quiere "superficial". En dos días o
+en tres no se conoce una ciudad, su ideosincracia y su gente. Pero sí
+uno ve esas cosas típicas que vaya uno a saber si tendrá oportunidad de
+volver a ver. En resumen, quizás plantee el viaje de una forma un poco
+más "itinerante" de lo que pensaba hasta hace unas horas.
+
+Lugares que luego de ver las fotos no me gustaría perderme: Granada y
+Barcelona en España. Atenas y alguna isla griega en el mar Egeo. París.
+Roma. Florencia. Pero también está Madrid. Y Estocolmo. Y Gotenburgo.
+Así que algo tenrá que quedar afuera. Creo.

@@ -1,0 +1,75 @@
+.. title: El Laberinto del Fauno
+.. slug: el-laberinto-del-fauno
+.. date: 2007-02-04 23:14:48 UTC-03:00
+.. tags: Cine
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+Había visto los avances de `El Laberinto del Fauno`_ hace ya varios
+meses. Me había quedado rondando en la cabeza, con la idea de que
+parecía una película interesante, por varias cuestiones: Épica,
+fantasía, buenos efectos, no engendrada por Hollywood. Estaba convencido
+que aún no se había estrenado... y resulta que sí, hace ya un tiempo.
+Quería verla en cine sí o sí, así que hoy, en un acto compulsivo, fui a
+verla, ya que no hay tantas salas en Capital que la sigan proyectando.
+
+IM-PRE-SIO-NAN-TE. Me encantó. Es fantasía, pero no precisamente para
+chicos. La película tiene MUCHA violencia, violencia explícita, aunque
+no gratuita. Además, transcurre en la España de 1944, en un monte, con
+militares franquistas enfrentados con los "rebeldes". Creo que en
+retrospectiva una de las cosas que más llama la atención es como funde
+la fantasía, las criaturas mitológicas, las hadas y la magia con la
+cruda realidad de la vida de un puñado de personas (de uno y otro
+bando). Son casi dos historias completamente distintas, ajena una a la
+otra, pero al mismo tiempo son la misma. 
+
+
+.. figure:: /images/el_fauno.jpg
+   :alt: El Laberinto del Fauno 
+   :align: center
+
+   El Laberinto del Fauno 
+
+Está muy bien actuada. Hay un par de personajes fuertes (en particular,
+el del "Capitán") que realmente dan ganas de ir a bucear en IMdB a ver
+que otras cosas han hecho estos actores (que al menos para mí, no son
+conocidos). Tiene una excelente fotografía. Los efectos especiales,
+vestuario y maquillaje están BARBAROS. Y están en su justa medida. No es
+una película que derrame CGI en cada cuadro (al estilo Hollywood). Cada
+efecto está justificado, y está MUY pero MUY bien cuidado. Últimamente
+se viene desbandando el uso de CGI, y a veces termina resultando
+grotesco, o bien porque se usa en exceso, o bien porque se nota mucho
+que... bueno, que es CGI, que es un dibujito por computadora. Bueno, El
+Laberinto del Fauno NO es el caso.
+
+Quizás por esta cosa de que en definitiva no deja de ser cine europeo,
+la historia se sustenta en sus personajes antes que en los grandes
+despliegues visuales o los efectos especiales. Y realmente me encantó la
+combinación. Me encanta que cada vez sea más fácil hacer este tipo de
+producciones (en el sentido de que no tienen necesariamente que estar
+producidas por un superestudio de Hollywood con cientos de millones de
+dólares), y que podamos ver una película donde hacen falta muchos
+efectos, pero que los efectos estén puestos al servicio de narrar una
+historia, y no que pasen a ser los protagonistas (digo esto pensando en
+desastres como Matrix II y III, Terminator III, y tantas otras...)
+
+Me encantó también la dirección de Guillermo del Toro. El manejo de las
+cámaras, la luz, la ambientación, los juegos que hace con los planos y
+las transiciones de una escena a otra... ¿se nota que la peli me gustó
+MUCHO? El cine me gusta, lo disfruto, y hay muchas películas que me
+gustan, de diversos géneros. Pero El Laberinto de Fauno me ha resultado
+especial, original, distinta en varios aspectos. Más allá de que es
+fácil repasar mi blog y ver que últimamente hay muchas pelis que me
+gustaron, hacía rato que no salía del cine impresionado (en el buen
+sentido) por lo que acababa de ver. Quizás la última película que me
+dejó esa sensación (aunque por motivos completamente distintos) fue `Una
+Historia Violenta`_.
+
+ 
+
+.. _El Laberinto del Fauno: http://www.imdb.com/title/tt0457430/
+.. _Una Historia Violenta: http://chaghi.com.ar/blog/post/2005/12/03/una_historia_violenta

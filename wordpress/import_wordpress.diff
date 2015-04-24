@@ -1,0 +1,12 @@
+--- plugins/command/import_wordpress.py.bak	2015-04-21 22:03:18.431714970 -0300
++++ plugins/command/import_wordpress.py	2015-04-21 19:40:44.991254088 -0300
+@@ -353,7 +353,8 @@
+     def transform_multiple_newlines(self, content):
+         """Replaces multiple newlines with only two."""
+         if self.squash_newlines:
+-            return re.sub(r'\n{3,}', r'\n\n', content)
++            #return re.sub(r'\n{3,}', r'\n\n', content)
++            return re.sub(r'\n{3,}', r'</p>\n\n<p>', content)
+         else:
+             return content
+ 

@@ -1,0 +1,51 @@
+.. title: Gracias totales
+.. slug: gracias_totales
+.. date: 2007-10-21 22:54:05 UTC-03:00
+.. tags: Música,recitales
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+Soda Stereo, "Me verás volver", 20 de octubre, estadio River Plate:
+IM-PE-CA-BLE
+
+Qué buena banda. Qué bien que suenan arriba de un escenario, a pesar de
+sus supuestas diferencias personales, y de los 10 años que pasaron
+(cuando comentábamos esto al final del show con Facu, hizo una
+comparación bastante ocurrente respecto al añejado de un buen vino, que
+estuvo muy acertada). Qué buen espectáculo en cuanto a la puesta en
+escena. Fueron casi 3 horas de show que valieron la pena.
+
+Recapitulando, cuando Soda se disolvió, dejó un vacío que ninguna otra
+banda de rock argentina, y me atrevería a decir latinoamericana, volvió
+a llenar. Y creo que aunque demos por cierto el hecho de que en este
+retorno haya mucho de negocio, y muy poco de pasión por la música, igual
+tiene mérito, y quizás más: Si lo que Soda hizo este finde sobre el
+escenario fue un "trámite comercial", imagínense si se juntaran otra vez
+con ganas de hacer algo nuevo.
+
+Respecto al espacio vacío: Quizás la única banda latinoamericana que hoy
+por hoy es comparable a Soda en trascendencia y volumen de gente que
+convoca sea Maná, pero es muuuuuuy discutible, en principio, porque Maná
+hace otra música, más del lado de lo melódico y de lo romántico (aunque
+rockeen en varios temas), así que no se si la comparación vale. Y Maná
+no llena ni a palos 5 Rivers... aunque quizás si los llena en México
+(convengamos que jugar de locales para cualquier músico tiene
+ventajas). 
+
+En definitiva, Soda demostró que puede seguir haciendo la música que
+hacía, montar un show de calidad internacional (al menos para los
+estándares latinoamericanos), que sea rentable para mucha gente que
+pueda poner la mosca, y que deje más que conforme a todos los que
+quieren escuchar su música.
+
+Quizás, la única gran pregunta sin respuesta es, si volvieran a
+reunirse, y escribieran música nueva, ¿podrían superar, o al menos
+igualar, a su propio mito? Todo un tema.
+
+Pero no importa. Si no se animan... me conformo con que cada tanto
+(quizás con más frecuencia que cada 10 años, eso sí), hagan algo como lo
+de este finde, para volver a corear lo viejo.

@@ -1,3 +1,14 @@
+#
+# Nikola specific
+#
+site/.doit.db
+site/cache/
+site/output/
+
+#
+# GitHub suggestions
+#
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

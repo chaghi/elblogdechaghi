@@ -1,0 +1,68 @@
+.. title: Europa 06: Itinerario en Suecia
+.. slug: europa_06_itinerario_en_suecia
+.. date: 2006-02-17 04:07:37 UTC-03:00
+.. tags: suecia,Viajes
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+Pufff...! Costó (en coordinación y dinero :p), pero luego de un delicado
+ballet entre `SJ`_ (la página oficial de ferrocarriles de Suecia) y
+`European Hostels`_, terminé de definir como se repartirán mis días en
+Suecia:
+
+-  Las primeras 7 noches en Stockholm;
+-  Una noche en Göteborg;
+-  Un día (sin hacer noche) en Halmstad; (\*)
+-  Una noche en [STRIKEOUT:Köbenhavn] Köpenhamn (Dinamarca);
+-  Las últimas 3 noches en Stockholm
+
+La parte de Köpenhamn se me complicó, porque yo quería estar un día más
+fuera de Stockholm, y pasar por Malmö. De Malmö a Dinamarca ahora se
+cruza el charco con un puente, en un trayecto de tren de solo 35'. Pero
+resulta que no puedo encontrar Hostels en Malmö. Y no me daba para pasar
+una noche más en Dinamarca, ni tampoco para pagar un "hotel" propiamente
+dicho. Así que fui a lo seguro: Tomarme una mañana para recorrer
+Köpenhamn (ya que estaré llegando de noche), cruzarme a Malmö, hacer un
+"toco y me voy", y tomarme el tren de ahí a Stockholm.
+
+Confío en que una vez que llegue a Suecia, voy a resolverlo de alguna
+manera más prolija. O sea, confío en encontrar un alojamiento barato en
+Malmö como para recorrer Köpenhamn con un poco más de tiempo, hacer
+noche en Malmö, recorrerla, y regresar a Stockholm un día después. Por
+suerte, tanto el tren Malmö/Stockholm como la reserva del hostel son
+cancelables, así que tengo chance de tratar de estirar un día esa parte
+del viaje.
+
+Y si no... correré. Veré poco de Köpenhamn y casi nada de Malmö. Creo
+que puedo sobrevivir a eso :)
+
+Ahora falta (ya sin la preocupación de no tener lugar, y con los
+destinos definidos), decidir puntualmente que hacer cada día, sobre todo
+en Stockholm.
+
+El tiempo vuela... en dos meses y monedas es el día "D" !!! Todavía
+tengo que contratar el seguro, y comprar unas cuantas pelotudeces.
+
+(\*) Halmstad: El turista promedio que visita Suecia probablemente ni se
+entera que Halmstad existe. Quizás lo que más vale es la playa (dicen
+que de las mejores de Suecia), pero convengamos que si de elegir una
+playa europea se trata... por buena que sea, la de Halmstad debe estar
+bastante abajo en la lista. Pero resulta que Halmstad es la cuna de
+Roxette. Es el lugar donde viven Marie y Per. Y por lo menos uno de los
+miembros de Gyllene Tider. Y el pueblo donde está el legendario estudio
+"Tits & Ass", donde nacieron prácticamente todos los temas de Roxette.
+TENGO que sacarme una foto frente al estudio (hoy monumento histórico y
+abandonado —ya que el "nuevo" estudio Tits & Ass está en el sótano de la
+casa de M.P. Persson—). Y ese es el motivo por el que voy a Halmstad.
+Porque Roxette lo inició todo: Todo mi *ka* con Suecia surgió con
+Roxette, así que no me perdonaría pisar suelo sueco y no visitar ese
+pueblo.
+
+ 
+
+.. _SJ: https://www.sj.se
+.. _European Hostels: http://www.europeanhostels.com/

@@ -1,0 +1,39 @@
+.. title: Los Simpson
+.. slug: los_simpson
+.. date: 2007-08-09 02:35:48 UTC-03:00
+.. tags: Cine
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+Hoy (a estas horas, debería decir ayer) fuimos con Diego, Eze y Luis a
+ver `Los Simpson`_. Por colgados, y no comprar las entradas antes por
+internet, nos encontramos con que la función de las 20.10 estaba agotada
+:( La siguiente era a las 22.40. Diego, que es el que vive más lejos de
+Capital no tuvo problema... así que para las 22.40 sacamos.
+
+Eso se tradujo en dar un laaaaargo paseo por Abasto (el shopping, y el
+barrio), compartir una pizza con unas cervezas en una pizzería en la que
+nos arrancaron la cabeza (bueno, no tanto, pero fue caro), luego un café
+con algo dulce, y finalmente, la película.
+
+Buenísima. Para mí, no deja de ser en el fondo un capítulo largo de Los
+Simpson (aunque en varias críticas que leí se ha recalcado que no), pero
+es uno bueno. Y hacen buen uso de los recursos del cine: formato wide,
+mejor sonido, etc. Y supieron armar un guión que se ajusta perfectamente
+a los 87 minutos de duración. Si te gustan Los Simpson, no podés dejar
+de verla. Y creo que vale la pena verla en cine, porque si no, le quitás
+ese condimento extra de la pantalla grande y demás, y lo acercás más a
+un capítulo cualquiera que podés ver en Fox en cualquier momento (a
+propósito: excelente ironía de Homero al respecto al comienzo de la
+película...!)
+
+TIP: Si van a verla, NO se levanten de la butaca hasta el final de los
+títulos!
+
+ 
+
+.. _Los Simpson: http://www.imdb.com/title/tt0462538/

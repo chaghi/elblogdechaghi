@@ -1,0 +1,201 @@
+.. title: Vallecitos 2010
+.. slug: vallecitos_2010
+.. date: 2010-05-29 18:00:10 UTC-03:00
+.. tags: trekking,vallecitos,Viajes
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+Y así fue como el Bicentenario transcurrió para mi lejos de casa, en
+Vallecitos, Mendoza. Había estado en Mendoza un par de veces en el
+pasado, pero nunca en Vallecitos. La idea arrancó en parte porque quería
+hacer algo, no quería quedarme en casa, y en parte porque quería retomar
+el tema ascensos.
+
+Resulta que después de los dos viajes al Lanín en el '98/'99 (más o
+menos) nunca volví a plantearme hacer un ascenso. Hice mucho trekking,
+mucho senderismo, eventualmente hice cumbre en algún cerro (cerrito...)
+porque bueno, porque la travesía así lo requería, pero nunca más me
+prendí en una propuesta que fuera "vamos a salir, vamos a apuntarle a
+aquel cerro, vamos a subirlo, y después vamos a bajarlo". Y es una
+movida completamente diferente, con mayor desnivel, donde hay que tener
+en cuenta otras cosas, y si encima le metés altura y algo de frío y
+nieve (como fue el caso en Vallecitos), otro nivel de dificultad.
+
+Así que la propuesta de Vallecitos tuvo dos caras: Conocer el lugar,
+caminar un poco, desenchufarse, respirar aire puro y compartir gratos
+momentos con amigos, por un lado, y por otro, el desafío de hacer
+algunas cumbres, y medirme un poco como ando en esto de subir un cerro.
+
+¿Adivinen quién organizó el viaje? ¡Sí! ¡\ `Hielo Azul Aventura`_! Muy
+bien. Ya me van conociendo... :) Salimos de Retiro el viernes a la
+noche, con retrasos. Retiro era un loquero, mal. Impresionante. Está
+total y absolutamente colapsado para estas fechas. Y total y
+absolutamente fuera de control. El circo que habían montado el año
+pasado con los sectores de embarque, en el pico de la Gripe A, para
+otorgar más control y seguridad, y asegurarse por ejemplo que solo
+pasaran a la zona de las plataformas de embarque/desembarque los
+pasajeros y empleados de la terminal, está virtualmente desmantelado. La
+infraestructura (que no creo que haya salido $2 precisamente...) está,
+pero está en desuso. ¿Por qué? Vaya uno a saber.
+
+Viajamos por Andesmar, donde es un clásico jugar al "Bingo Andesmar"
+durante el viaje. Y gané :) ¡Ja! Nunca me gano nada, así que fue un muy
+buen comienzo de viaje esto de arrancar ganando el bingo. Me gané un
+vino tinto, que luego compartimos en el refugio.
+
+Llegamos a Mendoza el sábado a la mañana, y de allí partimos en combis
+hacia Vallecitos. El grupo era bastante grande, y terminamos divididos
+en dos refugios. A mi me tocó estar en el \ `refugio Mausy`_, a otra
+parte del grupo en el refugio del centro de ski. El refugio Mausy es muy
+lindo, y \ `Vane y Guille`_, los refugieros, son super-ultra-copados.
+¡Ah! No nos olvidemos de Violeta, su hijita, que tiene apenas 5 meses de
+vida y está viviendo con los papis en el Mausy desde el tercer día... es
+una santa. El refugio está a unos 2900 msnm.
+
+|Refugio Mausy| |Refugio Mausy 2|
+
+ 
+
+El sábado a la tarde, luego de acomodarnos, almorzar y descansar un
+rato, hicimos todos juntos un trekking hasta Las Veguitas (de paso
+aprendí que "vega" es sinónimo de "mallín", solo que el primer nombre es
+más común en la zona de cuyo y NOA, mientras que el segundo es clásico
+de Patagonia), que es el típico "campamento base" para muchos ascensos.
+La idea era conocer y aclimatarse un poco a la altura. Estaba muy húmedo
+y bastante nublado, de hecho, ya en Las Veguitas se nos vinieron las
+nubes encima, pero igualmente pudimos disfrutar del paseo.
+
+|Las Veguitas| |Las Veguitas 2|
+
+ 
+
+Por la noche se nevó todo, lo cual tuvo un doble efecto: Bajó la
+temperatura un poco más, pero por el lado positivo, se despejó
+completamente. Los restantes días estuvieron hermosos, frescos, pero
+completamente despejados, y sin viento. Diez puntos.
+
+El domingo volvimos a salir todos juntos, con la idea de hacer el
+ascenso al Lomas Blancas, que es un cerro de unos 3600 msnm. Hicimos
+cumbre cerca de mediodía, y estaba tan calmo y despejado que pudimos
+quedarnos en la cumbre y almorzar allí. Luego emprendimos el descenso,
+pero apuntando al col que separa al Lomas Blancas del Arenales. La idea
+era que aquellos que quisieran, en lugar de bajar y volver al refugio,
+desde el col intentar cumbre en el Arenales (3400 msnm), que está muy
+cerca. Yo me prendí con este grupito, y al rato estábamos haciendo
+cumbre. Así que fue un domingo con cumbre doble :)
+
+|Subiendo el Lomas Blancas| |Cumbre del Lomas Blancas| |Cumbre del Arenales|
+
+ 
+
+El lunes, para aquellos que querían, podían, tenían ganas, se sentían
+bien, tenían equipo, etc., siempre bajo el criterio de los guías, estaba
+planteada la posibilidad de intentar cumbre en el Adolfo Calle (4260
+msnm), lo cual planteaba un desafío un poco mayor. Así que una parte del
+grupo (en la que estaba incluído) partió muy tempranito, cuando apenas
+estaba clareando hacia el Adolfo. En total eramos 10 personas, contando
+a Guille y Pablo, nuestros guías.
+
+El ascenso estuvo muy bueno, la mayor dificultad para mi fue el terreno,
+con mucho acarreo, lo que dificulta un poco la marcha, la pendiente, que
+especialmente en el último tramo se pone interesante, y la altura...
+4000 msnm no es muuuuuucha altura, pero es suficiente altura para que el
+organismo te recuerde que NO estás caminando y haciendo esfuerzo al
+nivel del mar. Se nota. A lo último estaba muy agitado, me costaba
+cambiar el aire, tenía las gambas quemadas, y cada músculo del cuerpo me
+decía "sentate flaco, sentate acá y disfrutá del paisaje". Ahí es donde
+es importante la cabeza, para seguir adelante. Pasito a pasito. Tratando
+de transformar el aliento de Guille, que iba delante mío en energía.
+Planteándome metas, onda, "bueno, ahora vas a caminar hasta aquella
+piedra". "Listo, ahora, caminá hasta aquella otra". ¡Y finalmente
+llegué! Hice cumbre a eso de las 14.00, después de 6 intensas horas de
+aproximación y ascenso.
+
+|Amanece en Las Veguitas| |Subiendo el Adolfo Calle| |Cumbre en el Adolfo Calle| |3 cumbres 3!|
+
+ 
+
+El día estaba inmejorable, arriba no había viento (¡insólito!), así que
+estuvimos en la cumbre un buen rato. Casi una hora. Y después... a
+bajar. La bajada es más rápida, porque la mayor parte se hace
+aprovechando un acarreo, así que con la técnica correcta y dejándote
+llevar, bajás a buena velocidad. El tema es que estaba cansado... y que
+mis botas de trekking empezaron a jugarme una mala pasada. Me quedan
+chicas. Me las compré justas, para el verano. Las usé en Cholila y me
+molestaron, pero no le di importancia porque supuse que era porque eran
+nuevas y estaban duras. Me molestaron algo en San Luis para Semana
+Santa, pero apenas, porque las caminatas fueron mucho menos exigentes y
+más cortas. Pero en la bajada del Adolfo Calle, me mataron. La
+combinación de medias un poco más gruesas, los pies hinchados (por las
+horas de caminata, el esfuerzo, mi tendencia a retener líquido y encima
+la altura) y la pendiente se combinaron para torturarme toda la bajada.
+Era como ir pateando la pata de un mueble con el dedo gordo de cada pie
+a cada paso. Feo feo feo. Encima no podía hacer nada... no podés bajar
+descalzo, así que me la tuve que aguantar. ¡Cómo costó! Había momentos
+que tenía ganas de llorar. Posta. No se lo deseo a nadie...
+
+|Volviendo al refu| |Atardecer|
+
+ 
+
+Botas al margen, pasito a pasito, a la nochesita llegamos otra vez al
+refu, en donde disfrutamos de un ESPECTACULAR "locro de autor" (sic) que
+había preparado Vane. Resulta que cuando se estaba armando el viaje, con
+el tema del bicentenario en mente, y me contaron del refugio, se me
+ocurrió decirle a Luis "si preparan un tradicional locro, la propuesta
+te queda platinum". Y resulta que Luis les transmitió a Vane y a Guille
+la idea del locro... y el locro finalmente se hizo realidad. :)
+
+El martes Guille preparó el asado de despedida a mediodía para todos.
+Buenísimo. ¡Qué buen asado! Y así, degustando el asado y regándolo con
+vino el viaje llegó a su fin. A media tarde partimos a Mendoza otra vez,
+y de ahí, a Buenos Aires.
+
+La pasé genial, tuve la oportunidad de volver a compartir otro viaje con
+Caro, Pau, Charly, Anita, Eze, Jorge, Luis y Pablo, me divertí un
+montón, y comprobé que esto de los ascensos es completamente diferente a
+una travesía o a un trekking tradicional... y que también me gusta. Así
+que ahora hay que buscar algo un poco más alto para seguir... podría ser
+algún otro cerro en \ `Vallecitos`_ (hay cerros para tirar manteca al
+techo, y de todas las alturas y niveles de dificultad), o
+el \ `Domuyo`_.
+
+Más fotos del viaje, \ `acá`_.
+
+.. _Hielo Azul Aventura: http://www.hieloazulaventura.com
+.. _refugio Mausy: http://www.refugiomausy.com.ar/
+.. _Vane y Guille: http://www.refugiomausy.com.ar/vaneyguille.html
+.. _Vallecitos: http://www.refugiomausy.com.ar/vallecitos.html
+.. _Domuyo: http://www.patagonia-argentina.com/e/andina/chos_malal/domuyo.php
+.. _acá: http://www.flickr.com/photos/chaghi/sets/72157624151052616
+
+.. |Refugio Mausy| image:: http://farm5.static.flickr.com/4040/4645611911_0af265e359_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4645611911/
+.. |Refugio Mausy 2| image:: http://farm5.static.flickr.com/4020/4646241468_c290086ece_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4646241468/
+.. |Las Veguitas| image:: http://farm5.static.flickr.com/4020/4646259080_c63a3b8082_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4646259080/
+.. |Las Veguitas 2| image:: http://farm5.static.flickr.com/4002/4646257118_8e3f2352e5_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4646257118/
+.. |Subiendo el Lomas Blancas| image:: http://farm5.static.flickr.com/4015/4645687337_1b5e286d6a_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4645687337/
+.. |Cumbre del Lomas Blancas| image:: http://farm5.static.flickr.com/4051/4645694165_fcf7d3f6ec_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4645694165/
+.. |Cumbre del Arenales| image:: http://farm5.static.flickr.com/4036/4645728309_8899485e79_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4645728309/
+.. |Amanece en Las Veguitas| image:: http://farm5.static.flickr.com/4010/4645735951_fe5b0a0142_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4645735951/
+.. |Subiendo el Adolfo Calle| image:: http://farm5.static.flickr.com/4052/4645743963_2ceff99d9e_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4645743963/
+.. |Cumbre en el Adolfo Calle| image:: http://farm5.static.flickr.com/4008/4646381008_4cc2a87630_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4646381008/
+.. |3 cumbres 3!| image:: http://farm4.static.flickr.com/3334/4645764061_6eb981b31b.jpg
+   :target: http://www.flickr.com/photos/chaghi/4645764061/
+.. |Volviendo al refu| image:: http://farm5.static.flickr.com/4030/4646401668_3e68576507_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4646401668/
+.. |Atardecer| image:: http://farm5.static.flickr.com/4008/4646403316_7a193bd4b6_m.jpg
+   :target: http://www.flickr.com/photos/chaghi/4646403316/

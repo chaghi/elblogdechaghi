@@ -1,0 +1,92 @@
+.. title: One Wish
+.. slug: one_wish
+.. date: 2006-09-12 03:45:47 UTC-03:00
+.. tags: Música,roxette
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+| *If you had one wish, what would it be?
+  If you had one wish, would it be about me?
+  Just one wish, could it be about me?
+  You might make a wish for money or peace
+  You'd make a wish for cosmic relief
+  shade by the trees and green summer leaves*
+
+jeje... "shade by the trees and green summer leaves". 100% Per Gessle.
+Bubblegum & Flowers on the Moon :)
+
+Sí. Resulta que la "magia" de internet nos está permitiendo escuchar,
+antes que en la radio, a los dos temas nuevos de Roxette: **One Wish** y
+**Reveal**.
+
+One Wish es una típica canción pop. Al principio, no me convenció mucho.
+La canción definitivamente cambia (mejora) a partir del segundo verso,
+cuando entra Marie. Pero luego de escucharla varias veces, fue
+creciendo. Y es pegadiza. Muy. Se aleja un poco del estilo Roxette con
+el que más me identifico, y se acerca más al estilo que pusieron en
+"Have a Nice Day" (léase: un intento de reinventarse a sí mismos, acorde
+a los tiempos que corren ((y música que se escucha/vende). Y que se
+yo... Roxette no es U2, ni Madonna para reinventarse a sí mismos. No les
+sale tan bien.
+
+Reveal es una clásica balada Roxette. Muy tranqui, con una letra un
+poquitín más elaborada. Suena actual... y al mismo tiempo, es Roxette.
+Lo cual refuerza un poco mi opinión de que cuando Roxette quiere
+reinventarse a sí mismo, lo logra más en las baladas que en el pop. Ojo
+con esto. Hay excepciones: Yo y muchos otros fans creo que NUNCA
+entenderemos la decisión de EMI de no sacar a "Crush On You" como single
+en la era de Have a Nice Day... ese tema, en los boliches... quien sabe.
+Creo que fue la última vez que escuché un tema de Roxette y dije "Es
+ahora. Este tema. Un poco de promoción bien hecha, y Roxette vuelve". Y
+lamentablemente, aquel tema, lo escuchamos solamente el puñado de fans
+que fue y compró HAND.
+
+También aparecieó **Myth**, la mítica canción de Roxette de la que todos
+sabemos desde la época de Crash!Boom!Bang!, pero que nunca había sido
+incluída en ningún album, single o lado B, y que nunca logramos
+escuchar, ni siquiera en un bootleg. Bueno, va a estar incluída en la
+RoxBox por el aniversario, y (otra vez) por la magia de internet... ya
+puede escucharse ;) Supuestamente es un demo, pero para el estándar de
+demos de Roxette, está bastante elaborado, con lo cual, suena casi como
+una producción definitiva. Realmente parece de la era C!B!B!, aunque es
+un toque más modernosa y quizás no hubiera pegado del todo en aquel
+album.
+
+Y el último "leak" es un demo de **Anyone** combinado con **I Love How
+You Love Me**, esta última, absolutamente desconocida hasta ahora.
+Anyone ya la conocíamos, pero es de esas baladas que lamentablemente NO
+debería cantar Per (¡ni siquiera en los demos!). La otra, se acerca un
+poco más al estilo de baladas que Per escribe cuando quiere cantarlas él
+(como Vulnerable, por ejemplo), y no suena mal. Pero no dejan de ser
+demos... rarezas para los die-hard-fans.
+
+El balance es positivo, pero otra vez me queda la sensación de las
+últimas veces: One Wish va a sonar un toque en los charts europeos,
+quizás Reveal lo siga. Podrán entrar en un top-10 en Suecia, quizás en
+algún otro país escandinavo, en Alemania, en Holanda. Quizás en España
+(todos esos, mercados "amigables" para Roxette). Acá sonará en las
+radios... un poco. Ojalá me equivoque, pero no creo que cause furor. Si
+Per no logra un contrato en USA para que "alguien" pase los temas allá,
+quedan fuera —una vez más— del mercado norteamericano. Y, una vez más
+(como en los últimos dos albumes de estudio...), Roxette queda como algo
+netamente europeo, nada mainstream. Si a eso se le suma que Marie no
+creo que tenga ganas de subir a demasiados aviones a hacer demasiada
+promoción... está claro que este no será el regreso de Roxette.
+
+Los fans "festejaremos" los 20 años. Muchos de nosotros trataremos de
+conseguir el material nuevo (aún no está claro si algo de todo esto se
+editará en Argentina —la caja de 4CDs y 1DVD muy probablemente NO—), y
+listo. Para el resto... seguirá siendo aquella banda de "It Must Have
+Been Love", "Joyride", etc. (¿qué? ¿todavía no se separaron? ¿todavía
+existen?)
+
+A pesar de todo esto, mí "One Wish", sería poder volver a ver a Roxette
+en vivo. No importa si no es en un Velez repleto... me conformaría con
+que sea algo acústico en un Luna Park, por ejemplo. Pero todo parece
+indicar que para verlos en vivo... tendría que poder ir al "Cirkus" de
+Stockholm... y eso es complicado. Primero, tiene que darse. Segundo,
+tengo que tener el dinero y el tiempo para ir. :(

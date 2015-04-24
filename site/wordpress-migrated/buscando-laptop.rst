@@ -1,0 +1,86 @@
+.. title: Buscando laptop
+.. slug: buscando-laptop
+.. date: 2006-12-10 19:14:42 UTC-03:00
+.. tags: General,laptop
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+Tengo ganas de hacerme un regalo. Una laptop. Y la búsqueda viene
+peliaguda. Por un lado, porque no termino de decidir que es lo que
+quiero: Si un equipo mínimo para tener un portatil, pero dejando mi
+desktop como máquina primaria, o algo más "power", y transformarlo en mi
+computadora principal, dejando al desktop más bien como backup/server.
+
+Eso abre dos grandes ramas de prestaciones/precios. No me está
+resultando fácil decidir. Mi desktop tiene ya sus buenos mmmhhh.. ¿4
+años? y como que ya no está tecnológicamente en condiciones de ser la
+máquina principal. Me estoy quedando corto con el disco, vengo con
+problemas de alimentación, no tengo quemador de DVD, podría tener más
+RAM, me gustaría tener un monitor LCD para liberar espacio en el
+escritorio (que encima, está en el living de mi casa) y la placa de
+video actual no se lo banca... en fin, como que habría que invertir un
+poco de dinero ahí.
+
+Entonces es cuando digo "no, pará. Invertí en una laptop mejor, y
+listo". Y ahí se entra a complicar por el otro lado: Más laptop es
+bastante más guita.
+
+Otro tema, es quiero poder instalar Ubuntu. Así que tengo que ser
+cuidadoso con que hardware elijo. Estoy mirando IBM, HP y Dell, en ese
+orden. Y me estoy quedando más bien con HP o Dell. Se que las IBM son un
+fierro, pero hay menos modelos, son menos customizables, y son más
+caras. Y en el medio está la licencia de Windows. No la quiero. No me
+interesa. Así que estoy investigando con Dell y HP, a ver si es posible
+adquirir la laptop sin OS. Todavía no me contestaron. La realidad que
+saber que estoy pagando unos USD 150 (o más...) de licencia de un OS que
+no voy a usar, es un tema. Es casi un 10% del valor del equipo!!!
+
+Y cuando entro a escalar en prestaciones, me doy cuenta que en precio me
+acerco (y en alguna customización loca en el site de Dell supero!) a una
+MacBook o a una MacBookPro... ñam ñam... por una Apple SI pagaría, y me
+encantaría tener MacOS para probarlo y jugar e investigar. Y en las
+MacBook también podría hacer dual boot con Ubuntu. Y es MUY tentador.
+Porque es una Mac. Porque las Mac son LINDAS. Porque todo "just works". 
+
+Y ahí estamos. No termino de decidirme. Creo que en parte porque toda la
+idea es medio un capricho, no es que "necesite" una laptop. Es solo que
+soy un enfermo de la tecnología que le gustan esas pelotudeces, y que
+cada tanto se encapricha con regalarse algo. Y ahora me encapriché con
+una laptop. Entonces, definir del todo el berrinche cuando no hay una
+necesidad concreta que pueda guiar la decisión es complicado, sobretodo
+escuchando de fondo a la vocecita más racional diciendo todo el tiempo
+"mirá que estás invirtiendo un montón de guita... pensá lo que vas a
+hacer... no te vayas a arrepentir..." y cosas por el estilo.
+
+En los últimos días estuve buceando bastante en los sites de Dell y HP.
+Hay un par de modelos de HP que me gustan mucho, la `Pavilion dv2125`_.
+O la `dv2035`_. Son muy parecidas (tanto, que sospecho que la diferencia
+en precio es precisamente la diferencia entre un Windows XP Home y un
+Windows Media Center (de paso, ¿que mierda es Windows Media Center?).
+Con Dell encontré cosas similares, pero me pasó que en cuanto quise
+customizarlas un poquito, el precio sube mucho. Y algo me dice que a
+mismo precio y prestaciones, entre una Dell y una HP prefiero una HP. Lo
+único que me hace dudar es que las Dell puede que sean más
+"upgradeables" a futuro. Pero tampoco estoy 100% seguro... Dell
+Argentina no es Dell USA. ¿Alguien sabe un poquito más al respecto?
+
+Pero... considerando el monto de la inveresión, y la posibilidad de
+hacer una compra financiada en cuotas, no estoy tan lejos en precio de
+una `MacBook Pro 15`_. O puedo bajar un poco... y estoy ahí con una
+`MacBook 13`_. Que es MUCHO más portatil. Es una pulgada menos de
+display que las HP, pero es una Mac. Y ahí sí estoy pagando un OS que
+voy a usar. Solo habría que ver si el precio no sube mucho al aumentarle
+un poco el disco y la memoria.
+
+Difícil. La decisión está difícil!!!
+
+ 
+
+.. _Pavilion dv2125: http://h20285.www2.hp.com/eStore/config.asp?cModel=LAAR-107973-BAS
+.. _dv2035: http://h20285.www2.hp.com/eStore/config.asp?cModel=LAAR-106336-BAS
+.. _MacBook Pro 15: http://www.macstation.com.ar:16080/store/index.php?seccion=producto&code=398
+.. _MacBook 13: http://www.macstation.com.ar:16080/store/index.php?seccion=producto&code=434

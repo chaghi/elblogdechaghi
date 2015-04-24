@@ -1,0 +1,41 @@
+.. title: El Conquistador
+.. slug: el-conquistador
+.. date: 2007-02-15 10:38:02 UTC-03:00
+.. tags: Libros
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+Terminé de leer *El Conquistador*, de Federico Andahazi.
+
+La temática del libro, la historia que propone, es MUY interesante. Pero
+me pasó lo mismo que cuando leí su libro anterior, *La Ciudad de los
+Herejes*: La novela termina siendo MUY corta, al final todo se precipita
+para terminar el libro. Como si a Andahazi le hubieran dicho por
+contrato "mirá, la novela tiene que tener xxx páginas", y el tipo se
+copa escribiendo, y cuando llega a la página (xxx - 20) se da cuenta que
+tiene que ir redondeando, porque está llegando al límite, y entonces la
+historia de repente se termina.
+
+Y la escritura es sumamente simplista. El Conquistador ganó el Premio
+Planeta 2006. Ok, que bien, pero eso no habla muy bien del "prestigio"
+del Premio Planeta entonces. Es una novela interesante, sí, pero...
+¿para tanto? ¿qué otros libros entraban en la competencia? Este libro (y
+el anterior también), parece escrito a drede con la idea de que sea una
+novela "accesible". Me da bronca que se "nivele para abajo" la calidad
+de escritura, sobretodo porque no puedo dejar de entrever cierto tufillo
+editorial, cierto argumento de ventas en todo esto. Después de haber
+leído *El Anatomista*, y *Las Piadosas*, me consta que Federico Andahazi
+puede escribir mejor. Entonces, ¿qué es lo que pasa últimamente? ¿dejó
+de ser el novelista que era por una cuestión de inspiración, o porque
+está tratando de llegar a un público más amplio?
+
+El Conquistador daba para ser por lo menos el doble de largo. Lo hubiera
+disfrutado mucho más. Hay situaciones planteadas en el libro que dejan
+con ganas de más, mucho más.
+
+Pero bueno, no deja de ser una novela entretenida, y como dije al
+principio, el tema me resultó sumamente interesante.

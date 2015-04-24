@@ -1,0 +1,45 @@
+.. title: Qué linda es Buenos Aires...
+.. slug: que_linda_es_buenos_aires
+.. date: 2007-06-07 22:22:55 UTC-03:00
+.. tags: General
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+En estas últimas semanas, por cuestiones de laburo, estuve caminando por
+Plaza de Mayo y alrededores temprano a la mañana, y luego tarde, por la
+noche. Incluso durante el fin de semana, que hay mucha menos gente en la
+calle. Y creo que es la primera vez en mi vida, que me pongo a mirar a
+Bs. As. con ojos de turista. No se por que tenemos esta cosa de no
+prestar atención al lugar en que vivimos... creo que es algo
+generalizado.
+
+Esa parte de la ciudad, lo que queda del casco histórico, por así
+decirlo, es realmente hermosa. Últimamente está cuidada, limpia, bien
+iluminada. La única pena es ver la Casa Rosada enrejada, o peor, las
+vallas de la policía en mitad de la plaza, por ejemplo, en los días
+previos a las elecciones de Jefe de Gobierno (¿de qué tenían miedo?), y
+es también una lástima la falta de criterio que hubo en la construcción
+de edificios más nuevos, y torres de oficinas, que no tienen NADA que
+ver con el resto de la fisonomía de esa zona.
+
+Pero dejando esas cosas de lado (y créanme, si uno se lo propone, no es
+tan difícil), y tratando de mirar con ojos de turista, se descubre un
+microcentro porteño distinto. Al menos a mí me pasó eso. El Cabildo, la
+catedral, la Rosada, Avenida de Mayo con todas sus farolas, los
+edificios de las diagonales Norte y Sur que están justo en las esquinas
+que desembocan en Plaza de Mayo.
+
+Y en mi caso todo eso está a escasas 10 cuadras de mi casa. Y creo que
+nunca lo había mirado como en estos últimos días. Creo que influyó el
+estar con muchísimo trabajo, y disfrutar a pleno esos minutos de aire
+fresco entre la estación Bolívar del subte "E", y el lugar en donde
+estoy trabajando estos días, en Alem y Corrientes.
+
+Ni hablar estos dos últimos días, con neblina a pleno, durante todo el
+día. Fue un fenómeno inusual, y le agregó cierta magia (diría "cierto
+aire londinense", pero la verdad nunca caminé por Londres, así que no
+se...)

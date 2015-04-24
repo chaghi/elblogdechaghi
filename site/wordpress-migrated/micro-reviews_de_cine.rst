@@ -1,0 +1,221 @@
+.. title: Micro-reviews de cine
+.. slug: micro-reviews_de_cine
+.. date: 2010-05-02 18:49:14 UTC-03:00
+.. tags: Cine
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. author: cHagHi
+.. from_wp: True
+
+Había una época que cada vez que iba al cine o veía una alguna peli que
+valiera mucho la pena, hacía un post dedicado en el blog. La verdad no
+es que haya dejado de disfrutar del cine... es solo que estoy fiaca para
+el blog. Y muchas veces uno termina "twitteando" sobre una película, y
+lo que antes era una reseña completa, se transforma en un par de
+comentarios efímeros de 140 caracteres...
+
+¿Sera una señal de que cuando escribía las reseñas, escribía más de lo
+necesario? No se. En fin, acá viene el review de las pelis que estuve
+viendo en los últimos meses (ni siquiera se si todas, pero al menos, las
+que anoté y/o me acuerdo). Y no, no voy a hacer un mega-hiper-post con
+la opinión detallada de cada una. El orden es cronológico, arrancando
+por la que vi primero, por allá por octubre/2009:
+
+`Antichrist`_: Muy buena, muy dura, MUY gráfica. A mi me gustó, pero no
+es una peli para cualquiera. Es Lars von Trier... you've been warned.
+
+`The Taking of Pelham 1 2 3`_: Buena, aunque no lo mejor de
+Travolta/Washington. Y tiene un no-se-que que recuerda mucho
+a \ `Speed`_ argumentalmente...
+
+`G.I. Joe: The Rise of Cobra`_: Clásica movida de Hollywood de tomemos
+un comic/serie animada y hagamos un blockbuster, que le ha generado
+resultados tan dispares. G.I. Joe zafa por lo que es, hasta ahí. Para
+ver con mucho pochoclo un día que quieras ver explotar muchas cosas por
+el aire.
+
+`The Proposal`_: Comedia romántica con Sandra Bullock. La vi por ella.
+Es una comedia romántica más del montón, con sus momentos divertidos
+como todas, aunque está lejos de ser lo mejor del género.
+
+`Surrogates`_: Buena. El argumento es muy interesante, pero la
+realización se queda un poco a medias.
+
+`Up!`_: Para el niño que todos llevamos dentro. Entretenida, y divertida
+de a ratos. Pero como toda producción de Disney, en definitiva es
+infantilonga. No esperes Shrek o Ice Age.
+
+`The Incredible Hulk`_: En su momento cuando vi \ `Hulk`_ la odié, pero
+mal. Todo el mundo me dijo que era porque la peli fue fiel al comic, y
+no a la serie que los argentinos recordamos de ver en TV. Bueno, The
+Incredible Hulk no es una secuela de la primera (bah, hasta ahí, en
+algún aspecto sí lo es), sino el intento de Hollywood de hacer lo mismo
+que con Hulk, pero esta vez, basándose en la serie. Y les salió mejor.
+Hasta ahí. Apenas. Raspando.
+
+`Moon`_: No recuerdo como llegué a esta. En cine que yo sepa por acá no
+pasó. Me tomó completamente por sorpresa, y me gustó mucho. Lenta de a
+ratos, pero recomendable.
+
+`Gamer`_: Otra que acá no pasó por el cine (yet). La vi porque trabaja
+Michael C. Hall (Dexter, Six Feet Under). Está buena. Tiene algún punto
+de contacto con Surrogates (apenas, en cierto aspecto...), y un
+argumento interesante.
+
+`Collateral`_: Clásica que agarraba siempre por cable empezada, y
+finalmente vi de una, entera, tranquilo, como corresponde. Muy buena
+película.
+
+`Avatar`_: Puf... peli complicada para opinar. A mi me gustó mucho, la
+disfruté un montón. Me impactó en lo técnico/visual. Me pareció
+sumamente creativa en cuanto a las criaturas, paisajes, y todo el
+ecosistema de Pandora. Es cierto que el argumento en sí está un tanto
+trillado... sí, no es una peli "de pensar", no es Terminator, pero
+tampoco entiendo por que cuerno algunos le pegan tanto y tan feo a
+Cameron por esto.
+
+`Coco avant Chanel`_: Biográfica. Me resultó muy interesante la vida de
+Coco Chanel. La peli no es "guau!", ni ahí, pero está bien hecha. Eso
+sí: por lo que investigué después, se toma vaaaaarias licencias respecto
+a la vida real de Coco, así que tampoco es para tomarsela al pie de la
+letra. Pero la esencia está ahí.
+
+`The Lovely Bones`_: Me gustó mucho. Peter Jackson se fuma unas escenas
+oníricas que me hicieron arrepentirme de no verla en cine. La historia
+es original, y mantiene muy bien el suspenso.
+
+`Public Enemies`_: Creo que es la primera vez que veo una peli con
+Johnny Depp y no la disfruto. Se me hizo larguísima, de chicle, y
+aburrida. Muy. Tal vez tenía mucho sueño, o no estaba de humor. No lo
+se. La historia pintaba interesante. Tal vez deba darle una segunda
+oportunidad más adelante.
+
+`Sherlock Holmes`_: ¡Muy buena! Estaba tapada. De entrada no me intresó,
+y no la vi en cine. Después me tenté. Y me arrepentí de no verla en
+cine. Hubiera valido la pena. Muy entretenida, con mucho ritmo. Pinta un
+Sherlock completamente \*diferente\* al que yo tenía en mi cabeza
+(producto de referencias al personaje en otras pelis y en series, no
+porque haya leído las novelas), y la verdad me parece mucho más
+interesante el de la película que el yo me había formado. Debería leer
+los libros...
+
+`Star Trek`_: Defenestrada e idolatrada por igual entre los fans más
+acérrimos, a mi me gustó. Eso sí: Nunca fui un gran seguidor de la
+serie, ni la clásica ni la nueva generación ni ninguna de las películas.
+La serie siempre la vi salteada, muy pocos episodios, y de las pelis
+anteriores no vi ninguna.
+
+`The Imaginarium of Doctor Parnassus`_: Es imposible no ver la mano
+Monty Pythonesca de Terry Gilliam, y me encanta la manera del chabón de
+contar historias. En ese sentido, me gustó. Pero de alguna manera tenía
+unas expectativas tan pero tan altas con la peli (¡Johnny Depp y Heath
+Ledger en la misma peli!), que no se cumplieron, no se bien por qué.
+
+`Alice in Wonderland`_: Now we're talking! No esperaba menos de Tim
+Burton metiendo mano en esta historia. No esperaba menos de Johnny Depp
+y Helena Bonham Carter participando. Me encantó. Fue todo lo que
+esperaba, y más.
+
+`It Might Get Loud`_: Documental que reúne a Jack White, Jimmy Page y
+The Edge para hablar de sus orígenes, su historia a través de la música
+y... sus guitarras, of course :) Interesante y con más de una perlita si
+te interesa el tema.
+
+`The Blind Side`_: ¿Alguien me puede explicar por que carajo el rol de
+Sandra Bullock merecía un Oscar por esta película? Ojo, todo más que
+bien con Sandra eh! Pero por favor... tampoco la pavada. Clásica
+historia de como volverte muy feliz y muy rico de la nada en USA,
+digamos, al estilo \ `Erin Brockovich`_, solo que el argumento de The
+Blind Side es absolutamente frívolo en comparación, y que Sandra no
+llega ni a los talones de Julia.
+
+`Precious`_: Esta es en cambio una película sobre la vida y la realidad
+yankee que está mucho mejor contada, que es mucho más dura, comprometida
+y realista, y merecía mejor tratamiento que el que recibió en los
+Oscars. Pero claro... es una historia que no a todo el mundo le gusta
+ver y reconocer que existe. Me gustó mucho. Gabourey Sidibe y Mo'Nique
+se laburan TODO. Pero TODO.
+
+`Up In The Air`_: Comedia con George Clooney. That's it... 
+
+`This Is It`_: El documental que hicieron para facturar con la muerte de
+Michael Jackson e intentar recuperar parte del dinero que se les fue de
+las manos con su muerte a los productores de los shows que estaba
+organizando en Londres. Ya sabía que se trataba de esto, pero así y todo
+tenía curiosidad por "espiar" como hubieran sido esos shows, y por ver
+como era Michael Jackson ensayando. Y desde ese punto de vista, me
+resultó muy interesante.
+
+`The Hurt Locker`_: Confieso que tenía interés en verla antes de toda la
+fanfarria de los Oscars. Finalmente no pude verla en cine, y terminé
+viéndola después, en casa, cuando ya había pasado por las salas, y
+después de que se ganara todos los Oscars que se ganó. La película está
+muy bien hecha, y tiene una mirada bastante intimista sobre el día a día
+de un grupo de soldados en Iraq. Me gustó. Pero no era pera tanto... no
+me digan que no se llevó los Oscars que se llevó solo por ser sobre la
+guerra y por transcurrir en Iraq.
+
+`Män som hattar kvinnor (Millennium I)`_: Primera parte de la versión
+cinematográfica de la trilogía Millennium, de Stieg Larsson. Si siguen
+este blog, saben que la novela me fascinó. La película es sueca (se
+rumorea que un estudio de Hollywood compró los derechos para hacer la
+versión yankee), y creo que eso la termina salvando del fracaso completo
+como película (no que sea sueca en sí, sino que sea cine europeo, es
+decir, que tenga algo de foco en las personas). Me gustó. Noomi Rapace
+fue una completa revelación y buena elección para hacer de Lisbeth
+Salander. A Michael Nyqvist ya lo conocía de otras películas suecas, y
+si bien es un muy buen actor, no estoy seguro que sea la mejor elección
+para representar a Mikael Blomkvist. Eso sí: es TERRIBLE la cantidad de
+detalles y aristas de la historia que en la película ni figuran (y por
+momentos hacen que los personajes parezcan adivinos o videntes, y no
+investigadores...). Y los personajes, sus relaciones, motivaciones,
+etc., están completamente achatados respecto al libro original.
+
+`Flickan som lekte med elden (Millennium II)`_: Continuación de la
+anterior. Aplica lo mismo, solo que acá tiene aún mucho más peso lo que
+pasa por la cabeza de Lisbeth Salander, que en la película apenas,
+apenitas se ve, con lo cual, la historia pierde aún más que la primera
+parte al pasar al cine. Una pena. Todavía no ví la tercera parte, pero
+no le tengo mucha fe...
+
+`Home`_: Excelente documental sobre como el modelo económico de los
+países desarrollados está haciendo pelota los recursos naturales y
+afectando a todo el planeta, y de como cada vez hay desigualdades más
+profundas. Recomendable. Todos deberían verlo. ¡Deberían pasarlo en las
+escuelas! Merece un post aparte... que podría o no escribir más adelante
+(con lo vago que estoy para este blog, nunca se sabe) 
+
+ 
+
+.. _Antichrist: http://www.imdb.com/title/tt0870984/
+.. _The Taking of Pelham 1 2 3: http://www.imdb.com/title/tt1111422/
+.. _Speed: http://www.imdb.com/title/tt0111257/
+.. _`G.I. Joe: The Rise of Cobra`: http://www.imdb.com/title/tt1046173/
+.. _The Proposal: http://www.imdb.com/title/tt1041829/
+.. _Surrogates: http://www.imdb.com/title/tt0986263/
+.. _Up!: http://www.imdb.com/title/tt1049413/
+.. _The Incredible Hulk: http://www.imdb.com/title/tt0800080/
+.. _Hulk: http://www.imdb.com/title/tt0286716/
+.. _Moon: http://www.imdb.com/title/tt1182345/
+.. _Gamer: http://www.imdb.com/title/tt1034032/
+.. _Collateral: http://www.imdb.com/title/tt0369339/
+.. _Avatar: http://www.imdb.com/title/tt0499549/
+.. _Coco avant Chanel: http://www.imdb.com/title/tt1035736/
+.. _The Lovely Bones: http://www.imdb.com/title/tt0380510/
+.. _Public Enemies: http://www.imdb.com/title/tt1152836/
+.. _Sherlock Holmes: http://www.imdb.com/title/tt0988045/
+.. _Star Trek: http://www.imdb.com/title/tt0796366/
+.. _The Imaginarium of Doctor Parnassus: http://www.imdb.com/title/tt1054606/
+.. _Alice in Wonderland: http://www.imdb.com/title/tt1014759/
+.. _It Might Get Loud: http://www.imdb.com/title/tt1229360/
+.. _The Blind Side: http://www.imdb.com/title/tt0878804/
+.. _Erin Brockovich: http://www.imdb.com/title/tt0195685/
+.. _Precious: http://www.imdb.com/title/tt0929632/
+.. _Up In The Air: http://www.imdb.com/title/tt1193138/
+.. _This Is It: http://www.imdb.com/title/tt1477715/
+.. _The Hurt Locker: http://www.imdb.com/title/tt0887912/
+.. _Män som hattar kvinnor (Millennium I): http://www.imdb.com/title/tt1132620/
+.. _Flickan som lekte med elden (Millennium II): http://www.imdb.com/title/tt1216487/
+.. _Home: http://www.imdb.com/title/tt1014762/
