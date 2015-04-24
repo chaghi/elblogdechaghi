@@ -119,16 +119,29 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
+#NAVIGATION_LINKS = {
+#    DEFAULT_LANG: (
+#        ("/archive.html", "Archives"),
+#        ("/tags/index.html", "Tags"),
+#        ("/rss.xml", "RSS feed"),
+#    ),
+#}
+
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archives"),
-        ("/tags/index.html", "Tags"),
-        ("/rss.xml", "RSS feed"),
-    ),
+        ('/index.html', 'Home', 'icon-home'),
+        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
+        ('/tags/index.html', 'Tags', 'icon-tags'),
+        ('/rss.xml', 'RSS', 'icon-rss'),
+        ('http://chaghi.com.ar', 'About me', 'icon-user'),
+        ('https://twitter.com/chaghi', 'My Twitter', 'icon-twitter'),
+        ('https://github.com/chaghi', 'My Github', 'icon-github'),
+    )
 }
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+# THEME = "bootstrap3"
+THEME = "zen"
 
 # Below this point, everything is optional
 
