@@ -215,6 +215,7 @@ PAGES = (
 # Default is:
 # FILES_FOLDERS = {'files': ''}
 # Which means copy 'files' into 'output'
+FILES_FOLDERS = {'files': '', 'assets': ''}
 
 # One or more folders containing listings to be processed and stored into
 # the output. The format is a dictionary of {source: relative destination}.
@@ -555,6 +556,12 @@ IMAGE_FOLDERS = {'images': 'images'}
 #     ("icon", "/favicon.ico", "16x16"),
 #     ("icon", "/icon_128x128.png", "128x128"),
 # }
+FAVICONS = {
+        ("icon", "/favicon.ico", "16x16"),
+        ("icon", "/mjollnir-32.png", "32x32"),
+        ("icon", "/mjollnir-152.png", "152x152"),
+        ("icon", "/mjollnir-256.png", "256x256"),
+}
 
 # Show only teasers in the index pages? Defaults to False.
 # INDEX_TEASERS = False
