@@ -9,7 +9,12 @@
 .. author: cHagHi
 .. from_wp: True
 
-|Lord of the Rings DVDs|
+.. figure:: https://farm7.staticflickr.com/6129/5917910196_89179236f4.jpg
+   :target: https://www.flickr.com/photos/photosingreen/5917910196
+   :alt: Lord of the Rings love
+   :align: left
+
+   Lord of the Rings love by `C-Smitty <https://www.flickr.com/photos/photosingreen/>`_, on Flickr
 
 El sábado nos juntamos en casa de JC y Liber para una mega-maratón
 cinematográfica. El plan: Ver *The Lord Of The Rings* completa, en sus
@@ -39,6 +44,3 @@ de estar bastante más descansado.
 
 Gracias JC y Liber por compartir a Raquel con la muchachada, ¡es
 hermosa! ;)
-
-.. |Lord of the Rings DVDs| image:: http://farm4.static.flickr.com/3307/3258883926_7d0528e82c.jpg
-   :target: http://www.flickr.com/photos/bendodson/3258883926/
