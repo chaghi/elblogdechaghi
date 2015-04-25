@@ -1,0 +1,19 @@
+/* from bootstrap3 theme, rst.css
+ *
+ * This fixes the right or left padding of figures aligned
+ * to the left or right.
+ *
+ * */
+
+.post .body .figure.align-left {
+  clear: left ;
+  float: left ;
+  margin-right: 1em
+}
+
+.post .body .figure.align-right {
+  clear: right ;
+  float: right ;
+  margin-left: 1em
+}
+
