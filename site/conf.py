@@ -127,6 +127,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #    ),
 #}
 
+# for Zen
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', 'Home', 'icon-home'),
@@ -140,8 +141,8 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-# THEME = "bootstrap3"
-THEME = "zen"
+#THEME = "bootstrap3"
+THEME = "chaghi-zen"
 
 # Below this point, everything is optional
 
