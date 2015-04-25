@@ -25,7 +25,7 @@ No tenía un scanner a mano, ni siquiera una cámara de fotos "de verdad",
 pero tenía que digitalizar ese momento. Así que saqué una foto con el
 celu:
 
-.. figure:: /blog/wp-content/uploads/2012/02/IMG_20120221_162734-1024x768.jpg
+.. thumbnail:: /images/estampitas-laura-llama.jpg
    :alt: Estampitas de la beata Laura Llama
    :align: center
 

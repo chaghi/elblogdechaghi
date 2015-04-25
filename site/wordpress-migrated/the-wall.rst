@@ -11,7 +11,7 @@
 
 .. image:: /blog/wp-content/uploads/2012/03/thewall2012.jpg
    :alt: Roger Waters The Wall Live
-   :align: left
+   :align: right
 
 Anoche fui con `Seba`_, Pablo y mi
 tocayo Mariano a ver The Wall. Tenía muchas expectativas, que habían ido

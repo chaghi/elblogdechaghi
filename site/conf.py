@@ -21,7 +21,7 @@ BLOG_AUTHOR = "cHagHi"  # (translatable)
 BLOG_TITLE = "el blog de cHagHi"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://chaghi.com.ar/blog/"
+SITE_URL = "http://chaghi.com.ar/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://chaghi.com.ar/blog/"
@@ -119,30 +119,30 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 #          with a ``/``, otherwise end them with ``/index.html`` — or
 #          else they won’t be highlighted when active.
 
-#NAVIGATION_LINKS = {
-#    DEFAULT_LANG: (
-#        ("/archive.html", "Archives"),
-#        ("/tags/index.html", "Tags"),
-#        ("/rss.xml", "RSS feed"),
-#    ),
-#}
-
-# for Zen
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/index.html', 'Home', 'icon-home'),
-        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
-        ('/tags/index.html', 'Tags', 'icon-tags'),
-        ('/rss.xml', 'RSS', 'icon-rss'),
-        ('http://chaghi.com.ar', 'About me', 'icon-user'),
-        ('https://twitter.com/chaghi', 'My Twitter', 'icon-twitter'),
-        ('https://github.com/chaghi', 'My Github', 'icon-github'),
-    )
+        ("/archive.html", "Archives"),
+        ("/tags/index.html", "Tags"),
+        ("/rss.xml", "RSS feed"),
+    ),
 }
+
+# for Zen
+#NAVIGATION_LINKS = {
+#    DEFAULT_LANG: (
+#        ('/index.html', 'Home', 'icon-home'),
+#        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
+#        ('/tags/index.html', 'Tags', 'icon-tags'),
+#        ('/rss.xml', 'RSS', 'icon-rss'),
+#        ('http://chaghi.com.ar', 'About me', 'icon-user'),
+#        ('https://twitter.com/chaghi', 'My Twitter', 'icon-twitter'),
+#        ('https://github.com/chaghi', 'My Github', 'icon-github'),
+#    )
+#}
 
 # Name of the theme to use.
 #THEME = "bootstrap3"
-THEME = "chaghi-zen"
+THEME = "chaghi-yeti"
 
 # Below this point, everything is optional
 
@@ -527,6 +527,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # and index-n.html the oldest posts. When this is active, old posts can be moved
 # to other index pages when new posts are added.
 # INDEXES_STATIC = True
+INDEXES_STATIC = False
 #
 # (translatable) If PRETTY_URLS is set to True, this setting will be used to create
 # more pretty URLs for index pages, such as page/2/index.html instead of index-2.html.
@@ -605,7 +606,8 @@ RSS_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
-LICENSE = ""
+LICENSE = """
+Licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>"""
 # I recommend using the Creative Commons' wizard:
 # http://creativecommons.org/choose/
 # LICENSE = """
@@ -617,7 +619,7 @@ LICENSE = ""
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
 # CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}'
-CONTENT_FOOTER = 'Contents &copy; 2004-{date} {author}         <img src="/images/e-mail.png" alt="e-mail" title="Usá esta dirección para contactarte" /> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = 'Contenido &copy; 2004-{date} {author} &mdash; Funciona con <a href="http://getnikola.com" rel="nofollow">Nikola</a> &mdash; {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
