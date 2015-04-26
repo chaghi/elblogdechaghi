@@ -9,7 +9,14 @@
 .. author: cHagHi
 .. from_wp: True
 
-" width="240" height="192" />Hace unos días terminé de leer `Into Thin
+.. figure:: http://farm6.staticflickr.com/5204/5240360344_4edfdf7909_m.jpg
+   :target: http://www.flickr.com/photos/grandgrrl/5240360344/
+   :alt: Book & Phone
+   :align: left
+
+   Book & Phone por Lynn Gardner | CC by-nc-sa
+
+Hace unos días terminé de leer `Into Thin
 Air: A Personal Account of the Mt. Everest Disaster`_ (título en
 castellano: `Mal de Altura`_), por Jon Krakauer. Es un libro
 excelente... que eventualmente voy a reseñar en otro post, porque la

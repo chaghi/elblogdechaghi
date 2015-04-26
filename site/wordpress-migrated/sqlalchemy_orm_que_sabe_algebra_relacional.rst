@@ -62,7 +62,7 @@ Java o C#, se nota mucho el overhead de jerarquías de clases y
 abstracciones e interfaces que se "apilan" para lograr algo extensible y
 robusto... y que adhiera a las restricciones del tipado estático. Con
 Python (o Ruby), se puede crear el puente, igualmente extensible y
-robusto, de una manera mucho más directa. Gracias a [STRIKEOUT:Dios]
+robusto, de una manera mucho más directa. Gracias a 
 `Darío`_ en el laburo tenemos un excelente generador de código que nos
 resuelve automágicamente toda la parafernalia de código extra... si no
 lo tuviéramos, calculo que estaría pidiendo a gritos que laburemos con

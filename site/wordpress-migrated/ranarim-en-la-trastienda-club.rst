@@ -53,7 +53,7 @@ salir de casa con suficiente dinero, por no pensar que los iban a vender
 ahí, me los perdí. Encima, los vendían a $35... eso es caro para un CD
 local, pero considerando que afuera debe estar arriba de los €15.-, era
 un precio accesible. Acá vinieron a presentar *Morgonstjärna*, el
-último, con el que [STRIKEOUT:ganaron] fueron nominados a un Grammy
+último, con el que fueron nominados a un Grammy
 (edición sueca) este año.
 
 Ojalá se repita, porque realmente me gustó muchísimo. Y si se

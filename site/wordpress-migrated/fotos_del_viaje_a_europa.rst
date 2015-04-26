@@ -40,9 +40,9 @@ por Madrid con ellos.
 
 Bueno, ahora sí, al objetivo de este post: Subí una selección de fotos a
 Flickr. Tuve varios problemas... yo había seleccionado 104, y solo
-subieron [STRIKEOUT:78] algunas. Todavía tengo que identificar las
-[STRIKEOUT:casi 30] que quedaron en el limbo, y subirlas nuevamente.
-Pero bueno, entre las [STRIKEOUT:78] que subieron, tienen un paseo por
+subieron algunas. Todavía tengo que identificar las
+que quedaron en el limbo, y subirlas nuevamente.
+Pero bueno, entre las que subieron, tienen un paseo por
 todas las etapas del viaje. Traté de poner títulos y/o comentarios como
 para que cualquiera se de una idea de que es lo que está mirando.
 

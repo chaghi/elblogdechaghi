@@ -35,9 +35,7 @@ vez habrá que volver, para ver algunos paisajes de altura que se
 perdieron, y para conocer la laguna Ilón y Pampa Linda, que quedaron en
 el tintero.
 
-¿Qué hicimos? Arrancamos en Colonia Suiza, en [STRIKEOUT:un
-hostel/complejo de cabañas del que no recuerdo el nombre (a ver si algún
-compañero de aventura ayuda acá)] el `Camping Ser`_ donde nos
+¿Qué hicimos? Arrancamos en Colonia Suiza, en el `Camping Ser`_ donde nos
 organizamos y pasamos la primer noche. Al otro día luego de acomodar
 equipo, partimos hacia el primer destino: Laguna Negra. El tiempo nos
 acompaño dentro de todo bastante bien (el día anterior había llovido a

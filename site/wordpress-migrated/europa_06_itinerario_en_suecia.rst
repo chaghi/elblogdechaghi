@@ -17,7 +17,7 @@ Suecia:
 -  Las primeras 7 noches en Stockholm;
 -  Una noche en Göteborg;
 -  Un día (sin hacer noche) en Halmstad; (\*)
--  Una noche en [STRIKEOUT:Köbenhavn] Köpenhamn (Dinamarca);
+-  Una noche en Köpenhamn (Dinamarca);
 -  Las últimas 3 noches en Stockholm
 
 La parte de Köpenhamn se me complicó, porque yo quería estar un día más

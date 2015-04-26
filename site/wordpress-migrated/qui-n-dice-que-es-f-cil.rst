@@ -13,7 +13,7 @@ Ayer fuimos con Facu, Moni y Javier a ver `¿Quién dice que es fácil?`_.
 Es de esas clásicas comedias costumbristas (aunque en este caso, no
 tanto...) que en Argentina nos salen tan bien. Como siempre, Diego
 Peretti está genial en su papel, y debo reconocer que me sorprendió
-positivamente la actuación de Carolina [STRIKEOUT:Pelleritti] Peleritti.
+positivamente la actuación de Carolina Peleritti.
 Sobre ella las opiniones con los chicos a la salida del cine estuvieron
 más divididas, pero a mi me gustó en su papel. Nos reímos mucho.
 

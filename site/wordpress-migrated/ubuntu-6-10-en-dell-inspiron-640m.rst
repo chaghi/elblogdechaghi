@@ -179,9 +179,4 @@ Windows), y no se si funcionan ok o no:
    de CDs la probé en Windows; la grabación de DVDs no la probé en
    absoluto)
 -  La entrada de micrófono
--  [STRIKEOUT:La salida de auriculares (ups! mientras escribía esto dije
-   "probémoslo ahora". Y me acabo de dar cuenta que el enchufe no es
-   estándar. ¿Eeeehhhh? ¿Acaso hay un mini-plug de audio más mini que el
-   estándar de diskmans y reproductores de MP3? :(] *Nada. Era cuestión
-   de hacer más fuerza nada más... :p*)
 

@@ -79,7 +79,7 @@ en Flickr, preguntando, probando.
    Pentax Optio 30 de 3MP (y hay más de uno que lo hace), es simplemente
    una estrategia de marketing de las empresas, forzada por la audiencia
    de Tinelli que generó una carrera comercial por ver quien
-   [STRIKEOUT:la tiene más grande] pone más MP (digo yo, ¿tanta gente
+   pone más MP (digo yo, ¿tanta gente
    (dentro de la gilada, claro) se imprime luego una gigantografía del
    tamaño de un cartel publicitario con sus reputos 18MP?)
 -  Pilas AA. Sí, eso hace a la cámara potencialmente más pesada y menos

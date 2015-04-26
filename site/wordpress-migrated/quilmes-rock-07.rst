@@ -56,7 +56,7 @@ después han intentado copiarles otras bandas, son profesionales, etc.
 Pero me quedó claro que no pagaría una entrada de ciento-y-pico de
 mangos para verlos en vivo en otra oportunidad, si el único acto fueran
 ellos. Una cosa que si critico: No se si porque el escenario de River
-les quedó [STRIKEOUT:chico] grande, o qué, pero casi no se movieron en
+les quedó grande, o qué, pero casi no se movieron en
 el escenario (sobretodo Amy).
 
 `Velvet Revolver`_ estuvo más cerca de mis estándares en lo que a gustos

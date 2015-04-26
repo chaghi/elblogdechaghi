@@ -70,7 +70,7 @@ plata, porque no se entendía nada, al menos desde la platea alta (y no
 es solo mi opinión, era un cotilleo generalizado en la platea). Encima,
 no entiendo cual es la necesidad de bombardearte a razón de dos spots
 por minuto, promedio. ¿El Gobierno tenía un presupuesto tan grande, que
-tenía que [STRIKEOUT:gastarlo] desperdiciarlo sí o sí? ¿Contrataron
+tenía que desperdiciarlo sí o sí? ¿Contrataron
 tanto espacio porque la tajada del que lo contrató asi es más grande? Me
 gustaría saber si ayer la previa de Radiohead también estuvo infectada
 de publicidad oficial...

@@ -38,7 +38,7 @@ sentido que si un cliente nuevo quiere contratarlo, el plan mínimo de
 hoy día es de 512 Kbps)
 
 Hasta hace 20 días. Un fin de semana, en Bella Vista,
-[STRIKEOUT:navegando con] envidiando el plan de Speedy de mi hermano de
+envidiando el plan de Speedy de mi hermano de
 1024 Kbps, una vez más entré en la página de Sion y me puse a mirar
 precios. Y... ¡oh, sorpresa! Resulta que habían cambiado. Habían BAJADO
 los precios. Y el abono "Professional" (sin limitaciones, 100% plano) de

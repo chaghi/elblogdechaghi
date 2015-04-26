@@ -41,7 +41,7 @@ música argentina. La pasamos muy bien.
 Lástima que su pasaje por Argentina fue un tanto imprevisto (es como la
 última etapa de unas largas vacaciones en Brasil), y no pudimos
 coordinar nada con más anticipación. Así que cosas como organizar un
-asado como [STRIKEOUT:Dios] un argentino manda, quedarán para otra vez.
+asado como un argentino manda, quedarán para otra vez.
 
  
 
