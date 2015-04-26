@@ -127,22 +127,8 @@ NAVIGATION_LINKS = {
     ),
 }
 
-# for Zen
-#NAVIGATION_LINKS = {
-#    DEFAULT_LANG: (
-#        ('/index.html', 'Home', 'icon-home'),
-#        ('/archive.html', 'Archives', 'icon-folder-open-alt'),
-#        ('/tags/index.html', 'Tags', 'icon-tags'),
-#        ('/rss.xml', 'RSS', 'icon-rss'),
-#        ('http://chaghi.com.ar', 'About me', 'icon-user'),
-#        ('https://twitter.com/chaghi', 'My Twitter', 'icon-twitter'),
-#        ('https://github.com/chaghi', 'My Github', 'icon-github'),
-#    )
-#}
-
 # Name of the theme to use.
-#THEME = "bootstrap3"
-THEME = "chaghi-yeti"
+THEME = "chaghi-yeti" # bootstrap3
 
 # Below this point, everything is optional
 
@@ -153,8 +139,7 @@ THEME = "chaghi-yeti"
 # (e.g. 'Europe/Zurich')
 # Also, if you want to use a different time zone in some of your posts,
 # you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
-#TIMEZONE = "UTC"
-TIMEZONE = "America/Argentina/Buenos_Aires"
+TIMEZONE = "America/Argentina/Buenos_Aires"  # UTC
 
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
@@ -310,14 +295,12 @@ TAG_PATH = "tags"
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.xml (RSS feed for a category)
 # CATEGORY_PATH = "categories"
-# CATEGORY_PREFIX = "cat_"
-CATEGORY_PREFIX = ""
+CATEGORY_PREFIX = ""  # cat_
 
 # If CATEGORY_PAGES_ARE_INDEXES is set to True, each category's page will contain
 # If CATEGORY_PAGES_ARE_INDEXES is set to True, each category's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
-# CATEGORY_PAGES_ARE_INDEXES = False
-CATEGORY_PAGES_ARE_INDEXES = True
+CATEGORY_PAGES_ARE_INDEXES = True  # False
 
 # Set descriptions for category pages to make them more interesting. The
 # default is no description. The value is used in the meta description
@@ -331,8 +314,7 @@ CATEGORY_PAGES_ARE_INDEXES = True
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# INDEX_PATH = ""
-INDEX_PATH = "blog"
+INDEX_PATH = "blog"  # ""
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -497,7 +479,6 @@ REDIRECTIONS = []
 # to be visible on the site. The format is a dictionary of {source:
 # relative destination}.
 #
-# IMAGE_FOLDERS = {'images': ''}
 IMAGE_FOLDERS = {'images': 'images'}
 # IMAGE_THUMBNAIL_SIZE = 400
 
@@ -526,8 +507,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # If False, index-1.html has the second-newest posts, index-2.html the third-newest,
 # and index-n.html the oldest posts. When this is active, old posts can be moved
 # to other index pages when new posts are added.
-# INDEXES_STATIC = True
-INDEXES_STATIC = False
+INDEXES_STATIC = False  # False
 #
 # (translatable) If PRETTY_URLS is set to True, this setting will be used to create
 # more pretty URLs for index pages, such as page/2/index.html instead of index-2.html.
@@ -567,10 +547,6 @@ INDEXES_STATIC = False
 # FAVICONS contains (name, file, size) tuples.
 # Used for create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-# FAVICONS = {
-#     ("icon", "/favicon.ico", "16x16"),
-#     ("icon", "/icon_128x128.png", "128x128"),
-# }
 FAVICONS = {
         ("icon", "/favicon.ico", "16x16"),
         ("icon", "/mjollnir-32.png", "32x32"),
@@ -608,17 +584,9 @@ RSS_LINKS_APPEND_QUERY = False
 # (translatable)
 LICENSE = """
 Licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>"""
-# I recommend using the Creative Commons' wizard:
-# http://creativecommons.org/choose/
-# LICENSE = """
-# <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.5/ar/">
-# <img alt="Creative Commons License BY-NC-SA"
-# style="border-width:0; margin-bottom:12px;"
-# src="http://i.creativecommons.org/l/by-nc-sa/2.5/ar/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-# CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 CONTENT_FOOTER = 'Contenido &copy; 2004-{date} {author} &mdash; Funciona con <a href="http://getnikola.com" rel="nofollow">Nikola</a> &mdash; {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
@@ -704,8 +672,7 @@ COMMENT_SYSTEM_ID = "elblogdechaghi"
 # This can be disabled on a per-page/post basis by adding
 #    .. pretty_url: False
 # to the metadata
-# PRETTY_URLS = False
-PRETTY_URLS = True
+PRETTY_URLS = True  # False
 
 # If True, publish future dated posts right away instead of scheduling them.
 # Defaults to False.
@@ -762,22 +729,7 @@ PRETTY_URLS = True
 # ['-F', 'pandoc-citeproc', '--bibliography=/Users/foo/references.bib']
 # PANDOC_OPTIONS = []
 
-# Social buttons. This is sample code for AddThis (which was the default for a
-# long time). Insert anything you want here, or even make it empty.
-# (translatable)
-# SOCIAL_BUTTONS_CODE = """
-# <!-- Social buttons -->
-# <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
-# <a class="addthis_button_more">Share</a>
-# <ul><li><a class="addthis_button_facebook"></a>
-# <li><a class="addthis_button_google_plusone_share"></a>
-# <li><a class="addthis_button_linkedin"></a>
-# <li><a class="addthis_button_twitter"></a>
-# </ul>
-# </div>
-# <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
-# <!-- End of social buttons -->
-# """
+# Social buttons (translatable)
 SOCIAL_BUTTONS_CODE = """
 <!-- Social buttons -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-553cf8cd46f3a8a1" async="async"></script>
@@ -802,7 +754,7 @@ SOCIAL_BUTTONS_CODE = """
 # RSS_LINK is a HTML fragment to link the RSS or Atom feeds. If set to None,
 # the base.tmpl will use the feed Nikola generates. However, you may want to
 # change it for a FeedBurner feed or something else.
-# RSS_LINK = None
+RSS_LINK = """<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/ElBlogDeChaghi">"""
 
 # Show only teasers in the RSS feed? Default to True
 # RSS_TEASERS = True
@@ -815,35 +767,22 @@ SOCIAL_BUTTONS_CODE = """
 # Or a DuckDuckGo search: https://duckduckgo.com/search_box.html
 # Default is no search form.
 # (translatable)
-# SEARCH_FORM = ""
-#
-# This search form works for any site and looks good in the "site" theme where
-# it appears on the navigation bar:
-#
-# SEARCH_FORM = """
-# <!-- Custom search -->
-# <form method="get" id="search" action="//duckduckgo.com/"
-#  class="navbar-form pull-left">
-# <input type="hidden" name="sites" value="%s"/>
-# <input type="hidden" name="k8" value="#444444"/>
-# <input type="hidden" name="k9" value="#D51920"/>
-# <input type="hidden" name="kt" value="h"/>
-# <input type="text" name="q" maxlength="255"
-#  placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
-# <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
-# </form>
-# <!-- End of custom search -->
-# """ % SITE_URL
-#
-# If you prefer a Google search form, here's an example that should just work:
-# SEARCH_FORM = """
-# <!-- Custom search with Google-->
-# <form id="search" action="//www.google.com/search" method="get" class="navbar-form pull-left">
-# <input type="hidden" name="q" value="site:%s" />
-# <input type="text" name="q" maxlength="255" results="0" placeholder="Search"/>
-# </form>
-# <!-- End of custom search -->
-#""" % SITE_URL
+SEARCH_FORM = """
+<ul class="nav navbar-nav"><li>
+<!-- Custom search -->
+<form method="get" id="search" action="//duckduckgo.com/"
+ class="navbar-form">
+<input type="hidden" name="sites" value="%s"/>
+<input type="hidden" name="k8" value="#444444"/>
+<input type="hidden" name="k9" value="#D51920"/>
+<input type="hidden" name="kt" value="h"/>
+<input type="text" name="q" maxlength="255"
+ placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
+<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+</form>
+<!-- End of custom search -->
+</li></ul>
+""" % SITE_URL
 
 # Use content distribution networks for jQuery, twitter-bootstrap css and js,
 # and html5shiv (for older versions of Internet Explorer)
@@ -862,12 +801,10 @@ SOCIAL_BUTTONS_CODE = """
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-# EXTRA_HEAD_DATA = ""
 EXTRA_HEAD_DATA = """<link rel="me" type="text/html" href="http://www.google.com/profiles/114907104723447996177"/>"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
 BODY_END = """
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -900,7 +837,6 @@ BODY_END = """
 UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
-# ADDITIONAL_METADATA = {}
 ADDITIONAL_METADATA = {
     'author': 'cHagHi'
 }
@@ -921,13 +857,13 @@ ADDITIONAL_METADATA = {
 # Uncomment and modify to following lines to match your accounts.
 # Images displayed come from the `previewimage` meta tag.
 # You can specify the card type by using the `card` parameter in TWITTER_CARD.
-# TWITTER_CARD = {
-#     # 'use_twitter_cards': True,  # enable Twitter Cards
-#     # 'card': 'summary',          # Card type, you can also use 'summary_large_image',
-#                                   # see https://dev.twitter.com/cards/types
-#     # 'site': '@website',         # twitter nick for the website
-#     # 'creator': '@username',     # Username for the content creator / author.
-# }
+TWITTER_CARD = {
+    'use_twitter_cards': True,  # enable Twitter Cards
+    'card': 'summary',          # Card type, you can also use 'summary_large_image',
+                                # see https://dev.twitter.com/cards/types
+    'site': '@chaghi',          # twitter nick for the website
+    'creator': '@chaghi',       # Username for the content creator / author.
+}
 
 # If webassets is installed, bundle JS and CSS to make site loading faster
 # USE_BUNDLES = True
