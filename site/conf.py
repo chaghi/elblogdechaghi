@@ -583,11 +583,11 @@ RSS_LINKS_APPEND_QUERY = False
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
 LICENSE = """
-Licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>"""
+Excepto donde se indique lo contrario, el contenido está publicado bajo licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>"""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contenido &copy; 2004-{date} {author} &mdash; Funciona con <a href="http://getnikola.com" rel="nofollow">Nikola</a> &mdash; {license}'
+CONTENT_FOOTER = 'Contenido &copy; 2004-{date} {author} &mdash; Funciona con <a href="http://getnikola.com" rel="nofollow">Nikola</a><p>{license}</p>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
