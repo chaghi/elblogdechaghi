@@ -420,12 +420,11 @@ REDIRECTIONS = []
 # Many filters are shipped with Nikola. A list is available in the manual:
 # <http://getnikola.com/handbook.html#post-processing-filters>
 #
-# from nikola import filters
-# FILTERS = {
-#    ".html": [filters.typogrify],
-#    ".js": [filters.closure_compiler],
-#    ".jpg": ["jpegoptim --strip-all -m75 -v %s"],
-# }
+from nikola import filters
+FILTERS = {
+  ".css": [filters.yui_compressor],
+  ".js": [filters.yui_compressor],
+}
 
 # Expert setting! Create a gzipped copy of each generated file. Cheap server-
 # side optimization for very high traffic sites or low memory servers.
@@ -790,13 +789,13 @@ SEARCH_FORM = """
 # Bootstrap is served from BootstrapCDN (provided by MaxCDN)
 # Set this to False if you want to host your site without requiring access to
 # external resources.
-# USE_CDN = False
+USE_CDN = True
 
 # Check for USE_CDN compatibility.
 # If you are using custom themes, have configured the CSS properly and are
 # receiving warnings about incompatibility but believe they are incorrect, you
 # can set this to False.
-# USE_CDN_WARNING = True
+USE_CDN_WARNING = False
 
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
@@ -866,7 +865,7 @@ TWITTER_CARD = {
 }
 
 # If webassets is installed, bundle JS and CSS to make site loading faster
-# USE_BUNDLES = True
+USE_BUNDLES = True
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]
