@@ -52,4 +52,8 @@ livet. Los seres humanos somos bichos complicados.
 
 Hay más fotos `acá`_.
 
+.. raw:: html
+
+   <div style="clear:both;"></div>
+
 .. _acá: http://www.flickr.com/photos/chaghi/archives/date-posted/2006/07/23/detail/

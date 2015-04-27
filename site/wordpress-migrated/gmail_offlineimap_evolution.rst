@@ -181,9 +181,9 @@ parcialmente falso. La única carpeta problemática es el INBOX, que tiene
 que ser la raíz de la estructura Maildir, y GMail la expone como
 "/INBOX", no como "/". Esto se resuelve así en tu .offlineimaprc:
 
-::
+.. code:: python
 
-    nametrans = lambda foldername: re.sub('^INBOX', '.', foldername)
+   nametrans = lambda foldername: re.sub('^INBOX', '.', foldername)
 
 Puede que NO quieras bajar la carpeta "Spam" de GMail, ni la carpeta
 "All Mail". La última es un tema... en mi caso, como soy bastante
@@ -193,9 +193,9 @@ carpeta IMAP (y si tiene N etiquetas, en las N carpetas); si no está
 etiquetado, en general no es importante. Anyway, la forma de exluir una
 o más carpetas de la sincronización es la siguiente:
 
-::
+.. code:: python
 
-    folderfilter = lambda foldername: foldername not in ['[Gmail]/Spam', '[Gmail]/All Mail',]
+   folderfilter = lambda foldername: foldername not in ['[Gmail]/Spam', '[Gmail]/All Mail',]
 
 Dejarlas afuera tiene los siguientes caveats:
 

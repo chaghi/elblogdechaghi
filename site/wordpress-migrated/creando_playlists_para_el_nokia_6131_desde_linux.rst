@@ -94,15 +94,15 @@ directorio en formato m3u, y ordenada por nombre de archivo.
 
 Ejemplo:
 
-::
+.. code:: console
 
-    $ nokia_m3u.py  "E:/Jukebox/Mikael Bolyos/A Family Affair" > "A Family Affair.m3u"
+   $ nokia_m3u.py  "E:/Jukebox/Mikael Bolyos/A Family Affair" > "A Family Affair.m3u"
 
 Y después tengo que subir la playlist a su directorio especial:
 
-::
+.. code:: console
 
-    $ gnokii --putfile "A Family Affair.m3u" "A:/predefgallery/predefplaylist/A Family Affair.m3u"
+   $ gnokii --putfile "A Family Affair.m3u" "A:/predefgallery/predefplaylist/A Family Affair.m3u"
 
 Es bastante directo, pero si escribiera una GUI para arrastrar los
 archivos y grabar la .m3u en el teléfono directamente desde ahí, estaría

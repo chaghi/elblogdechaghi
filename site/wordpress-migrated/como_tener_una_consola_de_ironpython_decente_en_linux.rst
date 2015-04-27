@@ -37,9 +37,9 @@ llamaron poderosamente mi atención:
 
 ::
 
-     -X:AutoIndent        Automatically insert indentation 
-     -X:ColorfulConsole   Enable ColorfulConsole 
-     -X:TabCompletion     Enable TabCompletion mode
+   -X:AutoIndent        Automatically insert indentation 
+   -X:ColorfulConsole   Enable ColorfulConsole 
+   -X:TabCompletion     Enable TabCompletion mode
 
 Si bien a priori no tenían que ver con mi problema (que es un manejo
 absolutamente BROKEN de las secuencias de escape, movimiento del cursor
@@ -53,9 +53,9 @@ color debe usar otra librería para interactuar con la consola.
 
 Así que ahora tengo en mi .bash\_aliases lo siguiente:
 
-::
+.. code:: bash
 
-    alias ipy='ipy -X:AutoIndent -X:ColorfulConsole -X:TabCompletion'
+   alias ipy='ipy -X:AutoIndent -X:ColorfulConsole -X:TabCompletion'
 
 ... de manera que cuando ejecuto 'ipy' (el intérprete de IronPython), lo
 hago con las opciones correctas. Y me pregunto por qué mierda esas

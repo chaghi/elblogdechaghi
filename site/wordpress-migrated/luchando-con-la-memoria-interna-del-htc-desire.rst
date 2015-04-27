@@ -100,11 +100,11 @@ encuentra y falla?). No comprobé lo de los permisos, pero por las dudas,
 no lo borro, lo trunco. Me abro una consola local con `ConnectBot`_, y
 hago esto:
 
-::
+.. code:: console
 
-    $ su
+   $ su
 
-    # echo "" > /data/data/com.android.htcprofile/anr_history.txt
+   # echo "" > /data/data/com.android.htcprofile/anr_history.txt
 
 ... y santo remedio. Por algunos días / semanas.
 

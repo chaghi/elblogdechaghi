@@ -42,24 +42,24 @@ llegué a un entorno chrooteado "sano", y pude terminar.
 Si te pasa lo mismo, la secuencia de pasos correcta sería, desde una
 consola del LiveCD:
 
-::
+.. code:: console
 
-    $ sudo mkdir /target
-    $ sudo mount /dev/mapper/lv_root /target   #reemplazando /dev/mapper... por el dispositivo que contenga el filesystem root 
-    $ sudo mount /dev/hda2 /target/boot #opcional, solo si tenés /boot en una partición independiente, y (obviamente) reemplazando /dev/hda2 por lo que corresponda en tu caso
-    $ sudo mount -t proc proc /target/proc
-    $ sudo mount -t sysfs sysfs /target/sys
-    $ sudo modprobe dm-mod # opcional, si tenés un array o usás LVM2
-    $ sudo chroot /target
+   $ sudo mkdir /target
+   $ sudo mount /dev/mapper/lv_root /target   #reemplazando /dev/mapper... por el dispositivo que contenga el filesystem root 
+   $ sudo mount /dev/hda2 /target/boot #opcional, solo si tenés /boot en una partición independiente, y (obviamente) reemplazando /dev/hda2 por lo que corresponda en tu caso
+   $ sudo mount -t proc proc /target/proc
+   $ sudo mount -t sysfs sysfs /target/sys
+   $ sudo modprobe dm-mod # opcional, si tenés un array o usás LVM2
+   $ sudo chroot /target
 
 y luego, desde el entorno chroot
 
-::
+.. code:: console
 
-    # dpkg --configure -a # para terminar de configurar los paquetes que estén pendientes
-    # aptitude update && aptitude upgrade && aptitude dist-upgrade
-    # aptitude dist-upgrade # por las dudas...
-    # apt-get -f install # también x las dudas...
+   # dpkg --configure -a # para terminar de configurar los paquetes que estén pendientes
+   # aptitude update && aptitude upgrade && aptitude dist-upgrade
+   # aptitude dist-upgrade # por las dudas...
+   # apt-get -f install # también x las dudas...
 
 y listo.
 

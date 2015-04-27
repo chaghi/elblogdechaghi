@@ -24,7 +24,7 @@ con sus propios glitches. Y tiene que ver mucho con la legibilidad del
 código. Es un buen momento para postear algo que creo que nunca llegué a
 poner en mi blog:
 
-.. code:: python
+.. code:: pycon
 
    >>> import this
    The Zen of Python, by Tim Peters
@@ -47,7 +47,7 @@ poner en mi blog:
    If the implementation is hard to explain, it's a bad idea.
    If the implementation is easy to explain, it may be a good idea.
    Namespaces are one honking great idea -- let's do more of those!
-   >>>
+   >>> 
 
 Hay muuuuuuuuchos de los items del Zen de Python que se me vinieron a la
 mente mientras escribía el "ayearago" plugin.

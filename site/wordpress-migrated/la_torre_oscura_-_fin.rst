@@ -42,7 +42,11 @@ conosco el título en castellano). Pero también hay referencias a
 *Apocalipsis*, *Los Ojos del Dragón*, y muchos otros libros y
 personajes.
 
-|Rolando Deschain de Gilead|
+.. figure:: /images/roland.jpg
+   :alt: Rolando Deschain de Gilead
+   :align: right
+
+   Rolando Deschain de Gilead
 
 La Torre Oscura llegó a mí porque mi vieja me regaló hace un par de años
 "La Torre Oscura V - Los Lobos del Calla I", pensando que era el primer
@@ -82,4 +86,3 @@ deseándoles a su manera...
 
 .. _finalmente pude conseguir los libros anteriores: http://chaghi.com.ar/blog/post/2006/02/18/syriana_y_la_torre_oscura
 
-.. |Rolando Deschain de Gilead| image:: /images/roland.jpg

@@ -87,9 +87,9 @@ reinstalara?
 
 Ejecuté un
 
-::
+.. code:: console
 
-    $ dpkg -S /etc/default/acpi-support
+   $ dpkg -S /etc/default/acpi-support
 
 y me enteré que el archivo es parte del paquete ``acpi-support``. Probé
 desinstalarlo, y APT me dijo "no! no podés desinstalar eso, porque el
@@ -99,18 +99,18 @@ Igual, decidí forzar la desinstalación ignorando las dependencias
 iba a quedar nada roto), pero ya que estaba metí en el trámite también a
 ese otro paquete:
 
-::
+.. code:: console
 
-    $ sudo dpkg --purge --force-depends acpi-support
-    $ sudo dpkg --purge --force-depends powermanagement-interface
+   $ sudo dpkg --purge --force-depends acpi-support
+   $ sudo dpkg --purge --force-depends powermanagement-interface
 
 Listo. Con el ``--purge`` me aseguraba de haber eliminado también
 toooooodos los archivos de configuración, y que por lo tanto al
 reinstalarlos, se configurara todo de cero. A reinstalar:
 
-::
+.. code:: console
 
-    $ sudo aptitude install acpi-support powermanagement-interface
+   $ sudo aptitude install acpi-support powermanagement-interface
 
 Y listo! ¿Adivinen qué? Ahora anda todo 100% Ok. La laptop suspende
 perfecto, y se despierta perfecto, con video, sonido y wifi.

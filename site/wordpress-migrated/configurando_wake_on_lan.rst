@@ -72,9 +72,10 @@ Fuck. Así que por eso el primer desafío era cambiar de placa de red. De
 paso, si quieren investigar que cosas soporta cierta placa, se lo pueden
 preguntar a ethtool:
 
-::
+.. code:: console
 
-    $ sudo ethtool eth0 Settings for eth0:...  Supports Wake-on: gWake-on: g...
+   $ sudo ethtool eth0
+   Settings for eth0:...  Supports Wake-on: gWake-on: g...
 
 ethtool les va a decir varias cosas. En el ejemplo de arriba dejé solo
 las salidas relevantes. *Supports Wake-on:...* está seguido de una
@@ -121,9 +122,9 @@ el comando que mostraba más arriba, veríamos el soporte para WOL "g",
 pero no lo veríamos activo. Hay que activarlo, y que yo sepa, no hay
 otra que hacerlo vía ethtool:
 
-::
+.. code:: console
 
-    sudo ethtool -s eth0 wol g
+   $ sudo ethtool -s eth0 wol g
 
 (reemplazando eth0 por el dispositivo de red que se desea configurar si
 fuera otro)
@@ -155,9 +156,9 @@ mano (está en los repos de Ubuntu).
 
 Y este script, en su forma más simple, se usa así:
 
-::
+.. code:: console
 
-    $ wakeonlan xx:xx:xx:xx:xx:xx
+   $ wakeonlan xx:xx:xx:xx:xx:xx
 
 donde ``xx:xx:xx:xx:xx:xx`` es la MAC de la placa de red.
 

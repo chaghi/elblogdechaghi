@@ -13,9 +13,11 @@ El álbum que se menciona al final del artículo fue eliminado el día 23
 de enero de 2005. Para ejemplos de fotos, sugiero ver los álbums de los
 viajes Lolog/Laguna Verde y Lacar/Lolog
 
-.. image:: http://www.pentaximaging.com/files/product/optio30_lg.jpg
+.. figure:: /images/Pentax-Optio-30.jpg
    :alt: Pentax Optio 30
    :align: left
+
+   Pentax Optio 30
 
 Hace un par de días, compré una cámara `Pentax Optio 30`_.
 La idea es aprovecharla en las próximas vacaciones, así que quise
