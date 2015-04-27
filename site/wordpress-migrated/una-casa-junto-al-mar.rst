@@ -23,35 +23,36 @@ con un piano como único acompañamiento, en la cual expresa algunos
 deseos / sueños que más de uno si se pone a pensar dirá "¡qué piola! ¡yo
 también!". 
 
-*Ett hus vid havet* (Una casa junto al mar)
+Ett hus vid havet (Una casa junto al mar)
+-----------------------------------------
 
-| *Jag vill ha ett hus vid havet*
-| *där jag kan se på alla båtarna*
-| *som lägger till*
-| *Jag vill ha ett hus vid havet*
-| *där jag kan höra alla måsarna*
-| *och göra som jag vill*
-| *Och varje morgon*
-| *innan solen värmt mitt tak*
-| *Ska jag ligga där och lyssna*
-| *efter vågarna*
-| *Jag vill ha ett hus vid havet*
-| *där jag kan höra alla måsarna*
-| *och göra som jag vill*
+  | *Jag vill ha ett hus vid havet*
+  | *där jag kan se på alla båtarna*
+  | *som lägger till*
+  | *Jag vill ha ett hus vid havet*
+  | *där jag kan höra alla måsarna*
+  | *och göra som jag vill*
+  | *Och varje morgon*
+  | *innan solen värmt mitt tak*
+  | *Ska jag ligga där och lyssna*
+  | *efter vågarna*
+  | *Jag vill ha ett hus vid havet*
+  | *där jag kan höra alla måsarna*
+  | *och göra som jag vill*
 
-| Quisiera tener una casa junto al mar
-| donde pueda contemplar todas las embarcaciones
-| al atracar
-| Quisiera tener una casa junto al mar
-| donde pueda oír a todas las gaviotas
-| y hacer lo que yo quiera
-| Y cada mañana
-| antes que el sol entibie mi techo
-| me recostaría ahí y escucharía
-| las olas
-| Quisiera tener una casa junto al mar
-| donde pueda oír a todas las gaviotas
-| y hacer lo que yo quiera
+    | Quisiera tener una casa junto al mar
+    | donde pueda contemplar todas las embarcaciones
+    | al atracar
+    | Quisiera tener una casa junto al mar
+    | donde pueda oír a todas las gaviotas
+    | y hacer lo que yo quiera
+    | Y cada mañana
+    | antes que el sol entibie mi techo
+    | me recostaría ahí y escucharía
+    | las olas
+    | Quisiera tener una casa junto al mar
+    | donde pueda oír a todas las gaviotas
+    | y hacer lo que yo quiera
 
 (letra: Marie Fredriksson y Lasse Lindbom)
 

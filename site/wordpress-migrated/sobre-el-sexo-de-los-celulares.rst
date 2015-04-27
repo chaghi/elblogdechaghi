@@ -5,9 +5,15 @@
 .. category: 
 .. link: 
 .. description: 
+.. previewimage: http://farm4.static.flickr.com/3288/2718087468_881ced48d4_m.jpg
 .. type: text
 .. author: cHagHi
 .. from_wp: True
+
+.. image:: http://farm4.static.flickr.com/3288/2718087468_881ced48d4_m.jpg
+   :target: http://www.flickr.com/photos/vibrantspirit/2718087468/
+   :align: right
+..
 
     Me compré **un** iPhone.
 
@@ -23,8 +29,6 @@
 **El** celular. **El** smartphone. **El** teléfono. **El** móvil. **El**
 equipo. **El** dispositivo. Ok, ¿ya encontraste el patrón? Bien, pero
 resulta que...
-
-|BleckBerrt Foto|
 
     Un amigo se compró **una** BalckBerry.
 
@@ -59,5 +63,3 @@ Decir **una** BlackBerry no compila, no me jodan.
 
 ¡Ah! ¡Pará, pará! ¿Es porque es **una** mora? Andaaaaaaaaa...
 
-.. |BleckBerrt Foto| image:: http://farm4.static.flickr.com/3288/2718087468_881ced48d4_m.jpg
-   :target: http://www.flickr.com/photos/vibrantspirit/2718087468/
