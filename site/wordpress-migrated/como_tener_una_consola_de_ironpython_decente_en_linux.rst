@@ -29,7 +29,7 @@ empecé con mis teorías conspirativas, en la línea "claro, ahora que es
 un proyecto de Microsoft, no nos importa como anda en Linux". Pero no
 tenía sentido... porque debería haber una legión de usuarios de
 Linux/Mono descontentos. Y si Google no los encontraba, ¿dónde estaban?
-No cerraba. Evidentemente \*yo\* estaba haciendo algo mal.
+No cerraba. Evidentemente *yo* estaba haciendo algo mal.
 
 Y ahí fue cuando entre tantas vueltas, descubrí que la consola de
 IronPython se puede iniciar con una serie de opciones... y al toque 3

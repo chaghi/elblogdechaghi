@@ -43,7 +43,7 @@ desde los inicios, el haberme alejado JUSTO cuando se estaba organizando
 PyCon la verdad no fue una buena idea... porque ahí justamente había
 MUCHO para hacer, mucho en que ayudar y colaborar, mucho para organizar.
 Y me hubiera gustado sentirme un poco más parte de todo eso, en lugar de
-mirarlo de afuera. Y ojo: Mirarlo de afuera estuvo \*buenísimo\*, porque
+mirarlo de afuera. Y ojo: Mirarlo de afuera estuvo *buenísimo*, porque
 la conferencia estuvo buenísima. Pero si había una oportunidad de hacer
 algo concreto era la primera PyConAr, y me auto-excluí. Ufa. En fin...
 cosas que uno aprende.

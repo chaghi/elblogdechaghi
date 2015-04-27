@@ -20,7 +20,7 @@ Carlos fue nuestro profesor de TV en 6to año (¿o fue 5to?), y creo que
 jamás voy a olvidar su frase "la tele es como es porque el ojo es como
 es", y aquella primer clase en la que se dedicó a demostrarnos, con un
 montón de ilusiones ópticas, que nuestro sentido de la vista y nuestro
-cerebro son bastante idiotas :p (o al menos, \*muy\* fáciles de
+cerebro son bastante idiotas :p (o al menos, *muy* fáciles de
 engañar...)
 
 .. _cuentan en este link: http://www.echalk.co.uk/amusements/OpticalIllusions/colourPerception/colourPerception.html

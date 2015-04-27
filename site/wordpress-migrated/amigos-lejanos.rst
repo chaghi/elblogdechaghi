@@ -21,7 +21,7 @@ foto, de entre tantas que tengo:
 Y nada, me pintó la nostalgia mal por los amigos que están lejos. En
 particular por aquellos que encima son recontra-hiper-vagos con la
 tecnología (aunque la tienen disponible), y te complican incluso el
-contacto por e-mail o Facebook o chat o \*algo\*... exactamente como
+contacto por e-mail o Facebook o chat o *algo*... exactamente como
 Silvia y Javier :)
 
  

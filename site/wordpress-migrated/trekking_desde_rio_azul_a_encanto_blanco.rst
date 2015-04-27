@@ -121,7 +121,7 @@ cómodo, suficiente lugar para armar las carpas sin amontonarse con otros
 grupos. Después de descansar un rato, iniciamos también el rito de
 probar la cerveza artesanal del lugar (los 3 refugios por los que
 pasamos tenían cerveza artesanal de elaboración propia), merendamos,
-algunos jugamos al truco (¡Dios! hacía \*años\*, literalmente, que no
+algunos jugamos al truco (¡Dios! hacía *años*, literalmente, que no
 jugaba un partido de truco), en fin... acampamos.
 
 |IMG_0867.JPG| |IMG_0865.JPG|

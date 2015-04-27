@@ -12,7 +12,7 @@
 ***(Actualizado)*** 
 
 *Un hombre ingenioso*. Esa sería más o menos la traducción del nuevo
-trabajo solista de Per Gessle en sueco: `*En händig man*`_, que saldría
+trabajo solista de Per Gessle en sueco: `En händig man`_, que saldría
 el próximo 12 de junio. Y ya hay planeado un tour de verano y todo.
 Damn. Y Suecia está tan lejos... :(
 
@@ -54,6 +54,6 @@ Poco después de publicada esta noticia, `The Daily Roxette presentó una
 entrevista exclusiva con Per Gessle`_, donde se brindan muchos más
 detalles
 
-.. _*En händig man*: http://www.enhandigman.se
+.. _En händig man: http://www.enhandigman.se
 .. _The Daily Roxette: http://www.dailyroxette.com/node/16447
 .. _The Daily Roxette presentó una entrevista exclusiva con Per Gessle: http://www.dailyroxette.com/node/16453

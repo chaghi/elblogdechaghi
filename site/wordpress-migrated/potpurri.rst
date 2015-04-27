@@ -75,7 +75,7 @@ decir que soy un depravado. :) Además, vino especialmente de
 Yankeelandia Fede para estar presente en calidad de hermano mayor en el
 evento, así que de paso nos pusimos al día.
 
-Algo que me llamó la atención fue la música: Es básicamente \*la misma\*
+Algo que me llamó la atención fue la música: Es básicamente *la misma*
 que se escuchaba "en mi época" (Dios! me siento un viejo choto diciendo
 eso...). Más o menos remixada, con algún ritmo cambiado, cantada por
 otro intérprete/banda, pero la misma. La excepción es alguna que otra

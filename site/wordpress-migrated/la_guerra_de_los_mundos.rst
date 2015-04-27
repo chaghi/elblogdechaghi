@@ -27,7 +27,7 @@ una actriz de la hostia para rato.
 En resumen: mi recomendación para los que gustan del cine de Spielberg,
 es que no se pierdan esta película. No digo que sea una obra maestra, ni
 mucho menos. Pero seguro está muy por encima de la crítica promedio, y
-muy, \*muy\* por encima de películas dentro del mismo rubro por así
+muy, *muy* por encima de películas dentro del mismo rubro por así
 decirlo, que fueron malísimas y sin embargo la crítica decía ¡excelente!
 (`Día de la Independencia`_ es un patético ejemplo que me viene a la
 mente...)

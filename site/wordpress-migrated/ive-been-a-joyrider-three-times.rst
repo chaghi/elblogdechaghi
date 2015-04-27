@@ -146,7 +146,7 @@ diferencias entre los tres shows a los que asistí, cuando las hubo)
    Stars)
 -  How do you do!
 -  Dangerous
--  [*Presentación de la banda*\ ]
+-  [ *Presentación de la banda* ]
 -  Joyride (en Montevideo y el primer Luna, Christoffer usó "La
    Cumparsita" como intro; en el segundo Luna, usó "Mi Buenos Aires
    Querido")

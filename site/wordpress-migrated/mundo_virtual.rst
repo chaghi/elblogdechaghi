@@ -59,7 +59,7 @@ video, me gusta más como funciona en VB, y cosas así).
 
 Y pinta que están pesando más esos detalles menores, ya que las
 funcionalidades extra grossas igual no las uso, así que no me importa si
-(por ahora) VB no las tiene. Además, \*hoy\* tengo una licencia "free"
+(por ahora) VB no las tiene. Además, *hoy* tengo una licencia "free"
 de Workstation... pero ya salió la versión 6, y el upgrade sale USD
 100.- que no pienso gastar ni a palos solo "para probar". Y las opciones
 gratuitas de VMware son más limitadas que VB. Con lo cual si me caso con

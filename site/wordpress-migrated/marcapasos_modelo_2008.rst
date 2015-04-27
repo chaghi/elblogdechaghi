@@ -37,7 +37,7 @@ Algunas reflexiones colaterales sobre el tema:
 
 -  Nadie conoce mejor tu cuerpo que vos mismo... así que si tenés
    cualquier cosa anormal, y después de pasar por 37 médicos distintos
-   te siguen diciendo que no es nada, y vos sentís que \*sí\* es algo, o
+   te siguen diciendo que no es nada, y vos sentís que *sí* es algo, o
    te dan un diagnóstico y un tratamiento, pero vos ves que el problema
    persiste... andá buscando al médico número 38. Y así siguiendo...
    aunque tengas que ver a 500 médicos. Vivimos en una sociedad

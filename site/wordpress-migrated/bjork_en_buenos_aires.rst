@@ -65,7 +65,7 @@ salida, como Carolina y Pablo no habían cenado, fuimos todos al Palacio
 de la Pizza. Seba se animó a acompañarlos. Eze y yo pedimos directamente
 un bombón helado cada uno (la cara del mozo mientras parte de la mesa le
 pedía pizza, y parte postre era para enmarcar). Pésimo. Nota mental:
-\*NUNCA\* pidan un bombón helado en el Palacio de la Pizza. Nunca. Feo.
+*NUNCA* pidan un bombón helado en el Palacio de la Pizza. Nunca. Feo.
 Muy.
 
  

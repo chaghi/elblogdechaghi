@@ -9,8 +9,8 @@
 .. author: cHagHi
 .. from_wp: True
 
-¿Les gusta Star Wars? ¿Tienen ganas de ver lo que alguien \*muy\*
-fanático y con \*mucho\* tiempo es capaz de hacer?
+¿Les gusta Star Wars? ¿Tienen ganas de ver lo que alguien *muy*
+fanático y con *mucho* tiempo es capaz de hacer?
 
 Agarren una PC conectada a internet. Abran una terminal, consola, línea
 de comandos o como quieran llamarlo. Luego,::

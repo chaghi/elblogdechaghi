@@ -232,13 +232,13 @@ de exterminarlos y/o someterlos? No es casual que haya vuelto de este
 viaje con muchas de las sensaciones y preguntas sin respuesta con las
 que en su momento volví de Perú.
 
-`*Más fotos aquí*`_. 
+`Más fotos aquí`_. 
 
 .. _Hielo Azul: http://www.hieloazulaventura.com/
 .. _Posada del Sol: http://www.alojar.com.ar/ficha_albergue_.asp?Codigo=18
 .. _Las Rejas: http://www.lasrejashostel.com.ar/
 .. _Nómade: http://www.hostels.org.ar/hostel.asp?hostel_id=61
-.. _*Más fotos aquí*: http://www.flickr.com/photos/chaghi/sets/72157600064633045/
+.. _Más fotos aquí: http://www.flickr.com/photos/chaghi/sets/72157600064633045/
 
 .. |Desentierro del Carnaval - 2| image:: http://farm1.static.flickr.com/179/410294638_1030026bb3_m.jpg
    :target: http://www.flickr.com/photos/chaghi/410294638/

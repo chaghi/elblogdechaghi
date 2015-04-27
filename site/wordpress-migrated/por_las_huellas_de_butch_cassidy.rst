@@ -131,7 +131,7 @@ Puelo/Plataforma`_. Es un camping muy lindo. Y el lago Puelo es hermoso.
 Y se acabó la travesía! Al día siguiente cruzamos el lago en lancha, y
 fuimos a El Bolsón, a mi querido Albergue Gaia. Nos bañamos (ardua
 tarea, después de 10 días...), almorzamos unas riquísimas tartas caseras
-(la comida en Gaia es \*tan\* rica), descansamos, fiacamos, y a la
+(la comida en Gaia es *tan* rica), descansamos, fiacamos, y a la
 noche... asadazo!
 
 Y luego comenzaron las despedidas. Algunos partieron a Baires, otros nos

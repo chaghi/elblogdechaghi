@@ -47,7 +47,7 @@ Universidad / laboratorio con la exclusividad de su descubrimiento, lo
 único que logran es TRABAR la competencia y ENTORPECER que se pueda
 construir más conocimiento sobre eso.
 
-Es \*muy\* fácil hacer un paralelo con las patentes de software. Ahora,
+Es *muy* fácil hacer un paralelo con las patentes de software. Ahora,
 con los genes es aún más descabellado... es impresionante que se pueda
 patentar un gen. Un gen no se "inventa". Se descubre. Es algo natural,
 es un hecho de la naturaleza. Está ahí. Que la oficina de patentes de

@@ -86,7 +86,7 @@ Esta no fue mi primera vez a más de 3000 msnm, y sin embargo lo sufrí
 más de lo que esperaba (otras veces no tuve problemas, o lo sufrí
 menos), supongo que ahora influyó que no estaba en mi mejor momento
 físico (3 1/2 meses de absoluto huevo en MDQ no fue algo bueno), y que
-también estaba cansado `[\*]`_. Igual, no fue nada grave: Mucho dolor de
+también estaba cansado [*]_. Igual, no fue nada grave: Mucho dolor de
 cabeza, de ese que parece que te están apretando las sienes con una
 morza... esa sensación tan particular de la altura. Igual, el mal de
 altura es una lotería... a veces lo sufrís más, a veces menos, a veces
@@ -194,15 +194,14 @@ gusto de hacer Tilcara - Calilegua. ¡Y estuvo genial!
 
 `Acá, el álbum completo con todas las fotos de la travesía`_.
 
+
+----------
  
-
-[\*] *Nota: Agradecele a Facu que puedas leer esa frase sin que se te
-tuerzan los ojos.*
-
+.. [*] *Nota: Agradecele a Facu que puedas leer esa frase sin que se te
+   tuerzan los ojos.*
  
 
 .. _Hielo Azul Aventura: http://www.hieloazulaventura.com
-.. _[\*]: #nota
 .. _Acá, el álbum completo con todas las fotos de la travesía: http://www.flickr.com/photos/chaghi/sets/72157621759395677/
 
 .. |Hostel Malka - Casa 1| image:: http://farm4.static.flickr.com/3590/3767755466_f39ef03750_m.jpg

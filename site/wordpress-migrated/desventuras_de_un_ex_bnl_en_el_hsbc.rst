@@ -33,7 +33,7 @@ La semana pasada, por motivos que ahora no vienen al caso, decidí
 En los 3 canales de atención (personalmente, por teléfono y a través de
 home-banking), si sos un "ex BNL", entonces para el HSBC sos un cliente
 de 4ta. Hay cosas que no podés hacer ni por teléfono ni por internet.
-Tenés que ir si o si a una sucursal. Pero \*no\* cualquier sucursal,
+Tenés que ir si o si a una sucursal. Pero *no* cualquier sucursal,
 tiene que ser una sucursal HSBC "ex BNL", porque si no, no tienen el
 sistema informático de BNL, y no tienen acceso a la mitad de tus cosas.
 De esto te enterás después de hacer 40' de cola en una sucursal que no
@@ -45,7 +45,7 @@ lo que querés hacer, el empleado tiene que hacer algo en el sistema BNL
 del que no tiene idea. 'Tonz tenés que permanecer sentado frente a él
 mientras llama al help desk interno del banco, para hablar con una chica
 de soporte que lo va a ir guiando clic a clic para operar con el
-\*LENTISIMO\* sistema de gestión del HSBC. La espera es amenizada
+*LENTISIMO* sistema de gestión del HSBC. La espera es amenizada
 mientras disfrutás el histeriqueo entre el empleado y la chica de
 soporte, que aparentemente "es la puta del banco" (no lo digo yo...)
 

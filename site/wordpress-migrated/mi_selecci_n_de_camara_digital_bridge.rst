@@ -10,7 +10,7 @@
 .. from_wp: True
 
 Llegó la hora de reemplazar `mi cámara`_. Que loco, pensé que era más
-vieja... onda más de 5 años, y resulta que \*apenas\* van a cumplirse 4
+vieja... onda más de 5 años, y resulta que *apenas* van a cumplirse 4
 desde que la compré. Esa fue mi primer cámara digital, pocket, compacta,
 liviana, pilas AA, excelentes lentes, y para su época, una resolución en
 MP estándar (aunque ya había modelos de 4 y 5 MP). Y con varios features
@@ -22,7 +22,7 @@ momento eran menos, más grandes, y más caros). Los modos de disparo, por
 ejemplo, son muy limitados (no tengo Av, Tv, etc). En mis trekkings me
 doy cuenta que tiendo a usar bastante el zoom, y 3X no es nada. Tengo
 muy claro que con los tamaños de sensor pedorros que tienen las cámaras
-compactas, más MP \*no\* significa mayor calidad, pero también es cierto
+compactas, más MP *no* significa mayor calidad, pero también es cierto
 que 3MP es una limitante cuando uno luego quiere recortar.
 
 No soy fotógrafo, ni siquiera amateur o aficionado, y mis conocimientos
@@ -40,7 +40,7 @@ también).
 pensando en un upgrade. Después vino Raymond Hettinger a las 8JRSL, y
 hablé bastante de fotografía con él (Raymond es muchas cosas además de
 Core Developer de Python, entre ellas, fotógrafo), y me dí más manija. Y
-hace +/- una semana que invierto \*horas\* diarias investigando,
+hace +/- una semana que invierto *horas* diarias investigando,
 comparando, leyendo reviews, mirando especificaciones, buscando ejemplos
 en Flickr, preguntando, probando.
 
@@ -51,7 +51,7 @@ en Flickr, preguntando, probando.
    sentido, y se patente que muchas veces cuando alguien me dice
    "faaaa...! que buena fooootoooo...!, es porque el enfoque, el nivel
    de detalle, y la nitidez están por encima del promedio de compactas
-   que \*parecen\* iguales cuando uno las mira de afuera. Esto se
+   que *parecen* iguales cuando uno las mira de afuera. Esto se
    traduce en marca: Canon, Nikon, Pentax, Olympus... y paremos de
    contar. No descarto que haya otras marcas que tengan buenos lentes;
    solo menciono marcas que tienen un historial en el mundo de la
@@ -62,7 +62,7 @@ en Flickr, preguntando, probando.
    fotografía.
 -  Super zoom. Alrededor de 12X. Podría sacrificar algo de zoom óptico
    por otros features, pero no me gustaría, y no quisiera bajar de
-   digamos 6X por \*ningún\* motivo. Tampoco quiero irme demasiado
+   digamos 6X por *ningún* motivo. Tampoco quiero irme demasiado
    arriba, porque la cámara se vuelve más grande. Y además, semejante
    zoom en una compacta, y enfocando en un sensorcito del orto como
    tienen las cámaras comunes, es también forzar al mango la óptica y la
@@ -149,7 +149,7 @@ poder saber si metí o no la pata (espero que no!):
    y debería responder mejor o qué (al fin y al cabo, todos los modelos
    de este segmento tienen más o menos el mismo tamaño de sensor, y
    todos tienen problemas con el ruido). Anyway, vi muchas fotos, y para
-   el tipo de fotos que \*yo\* saco creo que es cuestión de bajar los
+   el tipo de fotos que *yo* saco creo que es cuestión de bajar los
    ISO, usar trípode, y jugar con la apertura y la velocidad de
    exposición
 -  Tamaño/Peso: La cámara sigue siendo compacta, aunque está cerca de

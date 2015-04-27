@@ -85,7 +85,7 @@ probablemente haga alguna magia en el .htaccess para seguir soportando
 las URLs viejas, pero igual sería bueno que te re-suscribas a los feeds
 nuevos:
 
--  http://feeds2.feedburner.com/ElBlogDeChaghi (el feed principal)
+-  http://feeds.feedburner.com/ElBlogDeChaghi (el feed principal)
 -  http://elblogdechaghi.disqus.com/latest.rss (el feed de comentarios)
 
 Por favor, si ves algo que no funciona, ¡avisá!

@@ -70,7 +70,7 @@ toque se ven las ventajas.
 
 Y las apps... el Android Market todavía es "chico" comparado con el de
 iPhone, pero tenés aplicaciones para lo que quieras, y hay
-\*muchísimas\* aplicaciones gratuitas de muy buena calidad, y muy
+*muchísimas* aplicaciones gratuitas de muy buena calidad, y muy
 útiles.
 
 Conclusión, estoy más que conforme con el cambio, excepto por una
@@ -80,7 +80,7 @@ Básicamente hay una sola cosa en la que el HTC Desire suckea, y
 reconozco que no lo tuve en cuenta cuando tomé la decisión de comprarlo:
 el espacio de almacenamiento interno. Para una plataforma como Android,
 que el teléfono te quede con solo 142MB de espacio libre es
-\*tristísimo\*, y no, no importa que puedas ponerle una microSD, porque
+*tristísimo*, y no, no importa que puedas ponerle una microSD, porque
 no todas las aplicaciones son instalables en la microSD, y porque la
 solución estándar de Android 2.2 para mover aplicaciones a la microSD es
 una solución a medias, mediocre y pedorra (Google, I'm looking at
@@ -95,7 +95,7 @@ implementar una serie de workarounds para resolver el tema del espacio
 de almacenamiento interno, aprovechando la microSD de una forma más
 piola. O sea, podés hacer lo que deberían haber hecho los ingenieros de
 Google de entrada... (eso, o forzar a los fabricantes a no sacar al
-mercado aparatos con menos de 1GB de almacenamiento \*libres\* para el
+mercado aparatos con menos de 1GB de almacenamiento *libres* para el
 usuario).
 
 De paso: rootear el teléfono no es para cualquiera, no dejes que un blog

@@ -44,7 +44,7 @@ ver esto fue uno de los gastos más injustificables del 2010. Patética.
 Disney es tan tan tan impredecible... puede hacer algo buenísimo, o
 puede hacer mierda un mito. Con el Príncipe de Persia, hizo lo segundo.
 
-`A-Team`_: Now we're talking! Esta peli la disfruté \*mucho\*.
+`A-Team`_: Now we're talking! Esta peli la disfruté *mucho*.
 Completamente a la altura de la serie. Mucha acción, mucho humor. Hagan
 la II. Y la III si quieren :)
 

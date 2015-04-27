@@ -12,7 +12,7 @@
 Este finde pensé en recluirme en casa y, literlamente, hibernar. Porque
 la verdad que venía muy cansado. Finalmente, cansancio o no, tanto el
 sábado como el domingo me desperté a las 9:30 de la mañana (lo cual es
-\*mucho\* mas temprano de lo que yo esperaba), y el finde terminó siendo
+*mucho* mas temprano de lo que yo esperaba), y el finde terminó siendo
 —a su manera— más productivo.
 
 Por un lado, me puse al día con algunas películas que tenía pendientes

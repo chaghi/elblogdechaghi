@@ -32,7 +32,7 @@ Así que le encomendé a mi hermano la tarea de averiguar que pasaba,
 porque el titular de la línea es él. Como siempre, encontrar la
 respuesta precisa fue una odisea, gracias a la falta de voluntad,
 profesionalismo, capacitación y conocimiento de muchos de los operadores
-del \*611.
+del ``*611``.
 
 La primer persona lo despachó con un "seguro se está excediendo", y
 "seguro se está equivocando en el control que usted hace del consumo". Y
@@ -79,7 +79,7 @@ tengan alguna responsabilidad sobre el tema y no están haciendo algo, lo
 que sea que puedan hacer desde su lugar para revertirlo y arreglarlo,
 sepan que son unos soretes. Soretes marca cañón.*
 
-Bonus track: como siempre, la primera reacción del \*611 cuando reclamás
+Bonus track: como siempre, la primera reacción del ``*611`` cuando reclamás
 por consumo de datos es enrostrarte que tu mecanismo de medición está
 equivocado. Pero lamentablemente Movistar no te da ningún servicio para
 medir tu consumo de manera oficial. Al menos no uno que no sea "post

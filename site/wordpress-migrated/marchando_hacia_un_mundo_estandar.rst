@@ -33,8 +33,8 @@ ver en el `blog oficial de MSIE`_ que muchos, muchos developers piden a
 gritos que, además de la seguridad, MS se ocupe de esos temas. Es que la
 gente está cansada de perder enormes cantidades de tiempo tratando de
 ajustar con cientos de "trucos" sus sitios para que se vean bien en
-cualquier browser. Internet es \*global\*. Internet es accesible desde
-\*múltiples dispositivos\*. Internet ya tiene una serie de estándares
+cualquier browser. Internet es *global*. Internet es accesible desde
+*múltiples dispositivos*. Internet ya tiene una serie de estándares
 muy bien documentados. ¿Por qué Microsoft se esfuerza en NO cumplirlos?
 La única explicación, es que lo hace porque se aprovecha del monopolio
 del que hoy disfruta.

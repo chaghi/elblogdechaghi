@@ -16,7 +16,7 @@ Suecia:
 
 -  Las primeras 7 noches en Stockholm;
 -  Una noche en Göteborg;
--  Un día (sin hacer noche) en Halmstad; (\*)
+-  Un día (sin hacer noche) en Halmstad; [*]_
 -  Una noche en Köpenhamn (Dinamarca);
 -  Las últimas 3 noches en Stockholm
 
@@ -47,20 +47,20 @@ en Stockholm.
 El tiempo vuela... en dos meses y monedas es el día "D" !!! Todavía
 tengo que contratar el seguro, y comprar unas cuantas pelotudeces.
 
-(\*) Halmstad: El turista promedio que visita Suecia probablemente ni se
-entera que Halmstad existe. Quizás lo que más vale es la playa (dicen
-que de las mejores de Suecia), pero convengamos que si de elegir una
-playa europea se trata... por buena que sea, la de Halmstad debe estar
-bastante abajo en la lista. Pero resulta que Halmstad es la cuna de
-Roxette. Es el lugar donde viven Marie y Per. Y por lo menos uno de los
-miembros de Gyllene Tider. Y el pueblo donde está el legendario estudio
-"Tits & Ass", donde nacieron prácticamente todos los temas de Roxette.
-TENGO que sacarme una foto frente al estudio (hoy monumento histórico y
-abandonado —ya que el "nuevo" estudio Tits & Ass está en el sótano de la
-casa de M.P. Persson—). Y ese es el motivo por el que voy a Halmstad.
-Porque Roxette lo inició todo: Todo mi *ka* con Suecia surgió con
-Roxette, así que no me perdonaría pisar suelo sueco y no visitar ese
-pueblo.
+.. [*] Halmstad: El turista promedio que visita Suecia probablemente ni se
+   entera que Halmstad existe. Quizás lo que más vale es la playa (dicen
+   que de las mejores de Suecia), pero convengamos que si de elegir una
+   playa europea se trata... por buena que sea, la de Halmstad debe estar
+   bastante abajo en la lista. Pero resulta que Halmstad es la cuna de
+   Roxette. Es el lugar donde viven Marie y Per. Y por lo menos uno de los
+   miembros de Gyllene Tider. Y el pueblo donde está el legendario estudio
+   "Tits & Ass", donde nacieron prácticamente todos los temas de Roxette.
+   TENGO que sacarme una foto frente al estudio (hoy monumento histórico y
+   abandonado —ya que el "nuevo" estudio Tits & Ass está en el sótano de la
+   casa de M.P. Persson—). Y ese es el motivo por el que voy a Halmstad.
+   Porque Roxette lo inició todo: Todo mi *ka* con Suecia surgió con
+   Roxette, así que no me perdonaría pisar suelo sueco y no visitar ese
+   pueblo.
 
  
 

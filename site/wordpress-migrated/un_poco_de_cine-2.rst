@@ -24,7 +24,7 @@ terror clase "B". No tengo nada en contra del terror clase "B" (es más,
 me gusta!), pero en este caso hubiera sido un absoluto desperdicio de la
 novela original. Así que fue grato que la película caiga más en la
 categoría suspenso que en la categoría terror-y-sangre-por-doquier. Bien
-ahí `[*]`_.
+ahí [*]_.
 
 Los dos personajes principales, Eli y Oskar, pre-adolescentes ambos,
 están estupendamente interpretados por Lina Leandersson y Kåre
@@ -61,17 +61,16 @@ elenco infantil).
 
  
 
-[*] Hay una productora de Hollywood que ya compró los derechos para
-hacer una remake hollywoodense, con altas probabilidades (como
-siempre...) de *pochoclear* y *blockbusterizar* el libro en el proceso.
-Si la distribución del original en Latinoamérica se sigue retrasando, y
-este nuevo proyecto avanza, quizás la versión que llegará a nuestros
-cines será la de Hollywood. Llegado el momento, va a ser interesante
-contrastar las dos.
+.. [*] Hay una productora de Hollywood que ya compró los derechos para
+   hacer una remake hollywoodense, con altas probabilidades (como
+   siempre...) de *pochoclear* y *blockbusterizar* el libro en el proceso.
+   Si la distribución del original en Latinoamérica se sigue retrasando, y
+   este nuevo proyecto avanza, quizás la versión que llegará a nuestros
+   cines será la de Hollywood. Llegado el momento, va a ser interesante
+   contrastar las dos.
 
  
 
 .. _Låt den rätte komma in: http://www.imdb.com/title/tt1139797/
 .. _leí y comenté: link://slug/d_jame_entrar
-.. _[*]: #hollywood
 .. _Slumdog Millionaire: http://www.imdb.com/title/tt1010048/

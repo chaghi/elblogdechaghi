@@ -11,7 +11,7 @@
 
 Desde que instalé Ubuntu en mi laptop que vengo tratando de hacer que
 `Evolution`_ empiece a filtrar correctamente el correo basura. Como me
-gusta más `bogofilter`_ que `spamassassin`_\ (porque consume MUCHOS
+gusta más `bogofilter`_ que `spamassassin`_ (porque consume MUCHOS
 menos recursos), activé el plug-in correspondiente, desactivando el otro
 (spamassassin es el default). Además, instalé el paquete bogofilter, y
 le di un curso rápido de spam vs. no spam alimentándolo con varios

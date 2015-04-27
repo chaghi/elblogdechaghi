@@ -46,7 +46,7 @@ tampoco está bueno, ni es óptimo, porque:
    el álbum no están en el orden correcto... alpiste.
 
 ¿Entonces? De acuerdo al manual del teléfono, y a las opciones que da el
-reproductor en los menúes, todo parecía indicar que había \*algún\* tipo
+reproductor en los menúes, todo parecía indicar que había *algún* tipo
 de soporte para playlists. Pero por más que intentaba crearlas, no
 encontraba como. Googleando un poco, encontré que sí, que hay soporte de
 playlists, pero que no se pueden crear desde el teléfono. Son las
@@ -66,7 +66,7 @@ Por ejemplo, con gnokii:
 
 -  La memoria del teléfono se accede como drive A:
 -  Las playlists se guardan en A:\\predefgallery\\predefplaylist\\
--  La microSD es el drive E: `[1]`_
+-  La microSD es el drive E: [1]_
 -  Además, las playlist (archivos .m3u) tienen que estar en formato DOS
    (terminación de línea de DOS)
 
@@ -108,12 +108,11 @@ Es bastante directo, pero si escribiera una GUI para arrastrar los
 archivos y grabar la .m3u en el teléfono directamente desde ahí, estaría
 mucho mejor. Veremos si invierto tiempo en eso...
 
-[1] Jugando un poco más con gnokii descubrí que la microSD
-también puede accederse como drive B: (parecerían ser sinónimos), pero
-como Nokia PC Suite crea las .m3u usando E:... decidí respetar eso. Y la
-memoria del teléfono también es visible como drive C:
+.. [1] Jugando un poco más con gnokii descubrí que la microSD
+   también puede accederse como drive B: (parecerían ser sinónimos), pero
+   como Nokia PC Suite crea las .m3u usando E:... decidí respetar eso. Y la
+   memoria del teléfono también es visible como drive C:
 
  
 .. _gnokii: http://www.gnokii.org/index.shtml
-.. _[1]: #update
 .. _armé un script en python: /blog/files/nokia_m3u.py

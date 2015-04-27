@@ -19,7 +19,7 @@ Cuando migré a `pLog`_ 1.0, en mi capricho de explotar a fondo las
 algo como post/fecha/título), dejaron de andar los álbumes de fotos
 integrados de pLog. No terminé de encontrar nunca el problema, se que es
 algo mal configurado, pero no pude resolverlo. Ni me interesó demasiado,
-porque el gestor de galerías que viene con pLog no me gusta \*nada\*.
+porque el gestor de galerías que viene con pLog no me gusta *nada*.
 
 Como directamente ahora las fotos no podían verse de ninguna manera, me
 puse las pilas para encontrar otra solución.

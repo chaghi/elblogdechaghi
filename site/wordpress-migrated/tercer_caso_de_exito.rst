@@ -31,7 +31,7 @@ teclado, no pude conmutar a una ventana de texto, el sistema no
 respondió a un CTRL-ALT-BACKSPACE para reiniciar en forma "dura" el
 entorno gráfico... nada. Cuelgue total.
 
-Esto es \*muy\* raro que pase... y como al menos dos de los coolers de
+Esto es *muy* raro que pase... y como al menos dos de los coolers de
 mi gabinete se que no están andando del todo bien, sospecho de un
 cuelgue por temperatura... pero también podria haber sido OpenOffice.
 

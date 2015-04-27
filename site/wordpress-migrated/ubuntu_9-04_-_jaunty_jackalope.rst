@@ -28,7 +28,7 @@ Eso motivó un par de intercambios en identi.ca con este flaco, con un
 poco de google en paralelo, y un ratito después había aprendido lo
 siguiente:
 
--  Hay \*algo\* en identi.ca que evidentemente permite que pongas en tu
+-  Hay *algo* en identi.ca que evidentemente permite que pongas en tu
    "radar" determinadas keywords o tags o algo y eso hace que te enteres
    de determinados posts aunque no seas suscriptor del usuario. Hay todo
    un manejo de tags y grupos en identi.ca sobre el que tengo que
@@ -46,7 +46,7 @@ siguiente:
    Escritorio, por ejemplo, lo estás persistiendo en el USB, y no en RAM
    como sucede normalmente con el LiveCD.
 
--  El Desktop CD tiene \*algo\* de soporte para LVM. En particular, la
+-  El Desktop CD tiene *algo* de soporte para LVM. En particular, la
    herramienta de particionado manual de Ubiquity NO puede crear
    volumenes LVM nuevos, ni te deja tocarlos mucho, pero si está
    preparada para reconocer a los que existan, y usarlos en la

@@ -17,7 +17,7 @@ divertimos mucho, como siempre. Me puse al día con Romi, que hacía un
 toco que no la veía. Y, como comentábamos ya bien entrada la madrugada,
 y cuando ya algunos habían partido con otros destinos, fue la primera
 vez en muuuuuuuuucho tiempo que nos quedamos hasta altas horas
-\*charlando\*, no jugando, o mirando pelis, o lo que sea. Simple,
+*charlando*, no jugando, o mirando pelis, o lo que sea. Simple,
 gratificante, enriquecedora charla entre amigos. Eso es algo que con los
 chicos hacíamos muy seguido, y los años, las familias, y el no tener más
 19 años supongo que hizo que lo fuéramos perdiendo.

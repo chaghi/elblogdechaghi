@@ -9,7 +9,7 @@
 .. author: cHagHi
 .. from_wp: True
 
-I'm (positively) **shocked**: los mp3 de los *`musicpass`_* (al menos el
+I'm (positively) **shocked**: los mp3 de los `musicpass`_ (al menos el
 de Fuerza Natural, de Gustavo Cerati) ¡\ **no** están protegidos! Y la
 descarga fue **simple**. Y no tuve que dar mas que mi e-mail, que ni
 siquiera verificaron. Definitivamente voy a considerar a *musicpass*

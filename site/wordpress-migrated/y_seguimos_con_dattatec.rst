@@ -286,7 +286,7 @@ blog", de un día para otro, sin aviso, y sin ninguna explicación técnica
 coherente de que es exactamente lo que no está andando, y por qué.
 
 La regla de RewriteEngine que ahora Uds. comentaron, no tiene nada que
-ver con mi problema. \*esa\* parte, hasta ayer, estaba funcionando de
+ver con mi problema. *esa* parte, hasta ayer, estaba funcionando de
 manera correcta.
 
 Por favor, sean un poco más específicos respecto a que es lo que está

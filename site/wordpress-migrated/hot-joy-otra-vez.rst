@@ -32,7 +32,7 @@ tocar cada 10/15 días, y uno pretende seguirlos).
 
 Marcela se lució un montón; hubo un par de veces que se animó a mostrar
 su voz del todo, y le salió muy bien (el público aplaudió al toque). Y
-Federico, la guitarra líder... es un maestro. Ojo, \*todos\* están muy
+Federico, la guitarra líder... es un maestro. Ojo, *todos* están muy
 bien, no quiero desmerecer a nadie por resaltar a ellos dos, ni mucho
 menos. Es solo que ser la guitarra líder o la voz principal te pone en
 situación de que se note más lo que hacés. Es inevitable.

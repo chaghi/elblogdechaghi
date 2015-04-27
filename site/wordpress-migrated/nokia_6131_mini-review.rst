@@ -9,8 +9,8 @@
 .. author: cHagHi
 .. from_wp: True
 
-Sin pretender hacer un review detallado del terminal (hay muchísimos ahí
-afuera) [`\*`_\ ], estas son algunas primeras impresiones luego de la
+Sin pretender hacer un review detallado del terminal (hay muchos_ ahí
+afuera, estas son algunas primeras impresiones luego de la
 (casi) primer semana de uso.
 
 Contexto: El que suscribe es un cliente leal a Nokia, por así decirlo,
@@ -89,6 +89,8 @@ particular:
    sirviendo en este modelo los auriculares, el manos libres y otros
    accesorios que tenía;
 
+.. _muchos:
+
 Estos son algunos reviews más formales, extensivos y completos que
 estuve leyendo:
 
@@ -101,4 +103,3 @@ estuve leyendo:
 
  
 
-.. _\*: #reviews

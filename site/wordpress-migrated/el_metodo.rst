@@ -21,7 +21,7 @@ tele, bah).
 
 La historia gira alrededor de un grupo de personas que se postulan para
 un puesto en una empresa, y son evaluadas utilizando el método Grönholm
-(\*creo\* que el método no existe en la realidad, y es una especie de
+(*creo* que el método no existe en la realidad, y es una especie de
 exageración, llevada al extremo, de las técnicas de selección y
 evaluación mediante dinámicas de grupo). A pesar de que son solo 8
 actores y una sala de reuniones, la película es dinámica y para nada

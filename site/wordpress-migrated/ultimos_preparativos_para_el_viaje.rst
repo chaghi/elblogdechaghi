@@ -77,7 +77,7 @@ fuerte señal de "relajate y gozá, son vacaciones!". El tema es que me he
 relajado y dejado estar TANTO, que he llegado al punto de no tener
 pensadas / cubiertas / previstas cosas que son importantes.
 
-Pero bueno, como le comentaba el otro día a Sandra, \*creo\* que no hay
+Pero bueno, como le comentaba el otro día a Sandra, *creo* que no hay
 nada pendiente que implique cancelar el viaje, ni mucho menos. A lo
 sumo... alguna noche en la vereda en una ciudad desconocida, o algún
 repentino cambio de planes respecto a un punto determinado del viaje por

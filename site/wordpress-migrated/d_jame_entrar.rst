@@ -68,7 +68,7 @@ ejemplar. En fin.
 Además, en algunos pasajes, la traductora dejó sin traducir algunas
 frases suecas, o sin aclarar algunos juegos de palabras con nombres
 suecos, que realmente hubieran requerido una nota al pie, una nota del
-traductor, ALGO `[\*]`_. Son detalles, no es que no entendés la novela
+traductor, ALGO [*]_. Son detalles, no es que no entendés la novela
 si te los perdés, para nada. Pero hablan sumamente mal de la calidad con
 la que las editoriales encaran las traducciones. Por suerte todavía me
 acuerdo suficiente sueco como para poder promediar: Una página maldecía
@@ -81,15 +81,14 @@ estilo Stephen King, y tenés ganas de leer algo diferente dentro del
 rubro, Déjame entrar es una opción. Y se consigue relativamente fácil en
 cualquier librería, al menos en Capital Federal.
 
-[\*] Actualización 03-Feb-2009: Según me comenta la traductora, con
-quien he tenido el placer de intercambiar algunos mails a partir de esta
-crítica, la editorial tiene mucho de la culpa aquí, ya que no les
-entregan las pruebas corregidas, y es la editorial quien decide si el
-libro puede llevar notas al pie o no, por ejemplo.
+.. [*] Actualización 03-Feb-2009: Según me comenta la traductora, con
+   quien he tenido el placer de intercambiar algunos mails a partir de esta
+   crítica, la editorial tiene mucho de la culpa aquí, ya que no les
+   entregan las pruebas corregidas, y es la editorial quien decide si el
+   libro puede llevar notas al pie o no, por ejemplo.
 
  
 
 .. _Per Gessle escribió un tema: http://www.dailyroxette.com/node/17849
 .. _especialmente para la película: http://www.imdb.com/title/tt1139797/
 .. _ya ganó un par de premios: http://www.dailyroxette.com/node/17925
-.. _[\*]: #update20090203

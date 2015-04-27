@@ -95,7 +95,7 @@ oportunidad más adelante.
 `Sherlock Holmes`_: ¡Muy buena! Estaba tapada. De entrada no me intresó,
 y no la vi en cine. Después me tenté. Y me arrepentí de no verla en
 cine. Hubiera valido la pena. Muy entretenida, con mucho ritmo. Pinta un
-Sherlock completamente \*diferente\* al que yo tenía en mi cabeza
+Sherlock completamente *diferente* al que yo tenía en mi cabeza
 (producto de referencias al personaje en otras pelis y en series, no
 porque haya leído las novelas), y la verdad me parece mucho más
 interesante el de la película que el yo me había formado. Debería leer

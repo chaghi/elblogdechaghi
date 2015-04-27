@@ -118,7 +118,7 @@ general, algo falla en la atención al cliente si para reactivar una
 línea y comprar un equipo tengo que perder casi 3 horas, de las cuales
 una buena hora y monedas se fue esperando que me atiendan, y otro tanto
 para resolver el tema de la autorización (esto, directamente imputable a
-la inoperancia de los operadores del \*611 de Movistar), para tramitar
+la inoperancia de los operadores del ``*611`` de Movistar), para tramitar
 la SIM y facturar el equipo.
  
 Y también es muy triste la limitación de modelos. Muy. Realmente dan

@@ -135,7 +135,7 @@ se pierde. Al menos es así con forcedeth. Así que tuve que crearme un
 pequeño servicio para que active WOL en la placa de red cada vez que se
 enciende el equipo.
 
-Idealmente, debería haber \*algo\* en la infraestructura de networking
+Idealmente, debería haber *algo* en la infraestructura de networking
 de Linux para configurar esto, y de manera permanente, y los DEs (por
 ejemplo, Gnome) deberían brindar alguna GUI para hacer la
 configuración... pero por ahora hay que ensuciarse las manos :(

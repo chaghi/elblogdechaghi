@@ -13,15 +13,15 @@
 hijo mayor se sorprende al ver que la revista que acompaña al diario de
 los domingos, ha venido con el diario del sábado.*
 
-[*hijo*\ ] ¿ahora la revista Viva viene los sábados?
-
-[*madre*\ ] No hijo, seguro vino hoy porque mañana no hay diarios.
-
-[*hijo*\ ] ¿y por qué no hay diarios mañana?
-
-[*toda la familia mira al hijo con cara de "¿vivís en un frasco de
-mayonesa?" y responde al unísono*\ ] ¡¡Mañana es tu día, nuestro día, el
-día del trabajador!!"
+  | [ *hijo* ] ¿ahora la revista Viva viene los sábados?
+  | 
+  | [ *madre* ] No hijo, seguro vino hoy porque mañana no hay diarios.
+  | 
+  | [ *hijo* ] ¿y por qué no hay diarios mañana?
+  | 
+  | [ *toda la familia mira al hijo con cara de "¿vivís en un frasco de
+    mayonesa?" y responde al unísono* ] ¡¡Mañana es tu día, nuestro día, el
+    día del trabajador!!"
 
 No es una obra de teatro. Es lo que me pasó a mí el sábado. ¿A Uds.
 también les pasó desapercibido el Día del Trabajador? ¿Esporque cayó un

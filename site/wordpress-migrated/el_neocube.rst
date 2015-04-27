@@ -26,7 +26,7 @@ Acá hay un videito:
 
 .. youtube:: gidumziw4JE 
 
-Y hay más \ `acá`_. 
+Y hay más `acá`_. 
 
 .. _NeoCube: http://theneocube.com/
 .. _acá: http://theneocube.com/Neomovies.html

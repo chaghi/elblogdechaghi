@@ -20,13 +20,13 @@ comandos (¡sacrilegio! ¡no uso GUI!), y tiro algún comando como:
 ... el cual podría llegar a parecerle mágico a alguien, pero es
 perfectamente explicable:
 
--  find : encontrar
--  . : desde el directorio en el que me encuentro
--  -name "struts\*" : aquellos archivos cuyo nombre comienza con
+-  ``find`` : encontrar
+-  ``.`` : desde el directorio en el que me encuentro
+-  ``-name "struts*"`` : aquellos archivos cuyo nombre comienza con
    'struts'
--  \| : "conectar" la salida del comando anterior (su resultado) como
+-  ``|`` : "conectar" la salida del comando anterior (su resultado) como
    entrada del siguiente
--  grep bin : filtrar el resultado y quedarse solo con las líneas que
+-  ``grep bin`` : filtrar el resultado y quedarse solo con las líneas que
    contienen la cadena 'bin'
 
 Lo anterior puede parcer complejo, pero en cuanto uno utiliza unos

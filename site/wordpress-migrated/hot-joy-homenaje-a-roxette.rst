@@ -28,7 +28,7 @@ tienen talento, y le ponen pasión a lo que hacen. Me encantó el "mix" de
 arreglos de Roxette en vivo con toques personales. Me encantaron las
 voces. Me encantó poder escuchar temas de Roxette en vivo (algo muy
 difícil en estos tiempos y por estas latitudes...), y lo que es más,
-canciones que \*jamás\* había escuchado en vivo, como "Joy of a Toy" (de
+canciones que *jamás* había escuchado en vivo, como "Joy of a Toy" (de
 Pearls of Passion, el primer álbum, y abosultamente desconocida para
 cualquiera que no sea mínimamente fanático de la banda), "The Rain" o
 "Cinamon Street". Por lo que había leído en TDR y escuchado en Youtube,
@@ -42,7 +42,7 @@ creo que pueda (es el cumpleaños de mi tía, y viene Fede, mi primo,
 especialmente desde Yankeelandia), pero seguramente voy a empezar a
 prestar más atención a dónde y cuándo tocan.
 
-Hot Joy, si alguno lee esto... ¡Felicitaciones! Y \*muchas\* gracias por
+Hot Joy, si alguno lee esto... ¡Felicitaciones! Y *muchas* gracias por
 darnos la oportunidad, a los fans (y simpatizantes) de Roxette de
 escuchar y disfrutar de esta, la música que nos gusta, en vivo.
 

@@ -21,7 +21,7 @@ Gessle" (Ser Per Gessle), una biografía autorizada escrita por Sven
 Lindström.
 
 Hoy pasé por la clásica odisea de retirar una encomienda en Retiro. Como
-siempre, perdí un montón de tiempo `[1]`_
+siempre, perdí un montón de tiempo [1]_
 
 Lo importante: Tengo mi libro. Tiene el formato de un LP... si tuviera
 una colección de LPs, lo podría poner en el mismo estante :) Casi 300
@@ -69,18 +69,15 @@ así que le tengo fe.
 
 Algunas fotos más del chiche, `acá`_. 
 
-[1] *Sobre Correo Argentino*: Esta vez, se fueron al carajo: 2hs 30',
-prácticamente, estuve ahí.Impresionante. Correo Argentino: YOU SUCK! Lo
-malo, es que a esta genteno se les puede hacer la cruz, `como diría
-Darío`_... si importás algo, yentra por Aduana, no tenés más remedio que
-caer en las oficinas deCorreo Argentino de Retiro. Los empleados la
-verdad tienen pocosrecursos (falta gente, les falta equipamiento,
-tecnología, etc.). Perolas personas que atienden podrían hacer un
-esfuerzo por NOparecerse al personaje de la empleada pública de
-Gasalla... podríanponerse media pila. Creo. Estaría bueno. En fin
+.. [1] *Sobre Correo Argentino*: Esta vez, se fueron al carajo: 2hs 30',
+   prácticamente, estuve ahí.Impresionante. Correo Argentino: YOU SUCK! Lo
+   malo, es que a esta genteno se les puede hacer la cruz, `como diría
+   Darío`_... si importás algo, yentra por Aduana, no tenés más remedio que
+   caer en las oficinas deCorreo Argentino de Retiro. Los empleados la
+   verdad tienen pocosrecursos (falta gente, les falta equipamiento,
+   tecnología, etc.). Perolas personas que atienden podrían hacer un
+   esfuerzo por NOparecerse al personaje de la empleada pública de
+   Gasalla... podríanponerse media pila. Creo. Estaría bueno. En fin
 
- 
-
-.. _[1]: #correo-argentino-sucks
 .. _acá: http://www.flickr.com/photos/chaghi/archives/date-posted/2007/11/20/detail/
 .. _como diría Darío: http://kblok.blogspot.com/2007/07/le-hice-la-cruz-introduccin.html

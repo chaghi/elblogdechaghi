@@ -20,7 +20,7 @@ Me encantó la propuesta de presentar el último disco entero, y me gustó
 mucho como sonó. Y *Cactus* me sigue pareciendo un tema mágico :)
 
 ¿Qué más? Es la primera vez que saco entrada en "campo VIP". Y valió la
-pena. Estaba \*ahí\*, casi adelante de todo, pero tranquilo, sin la
+pena. Estaba *ahí*, casi adelante de todo, pero tranquilo, sin la
 presión de miles de personas empujando atrás. Sí, ya se, dirán que un
 campo sin el calor de la masa empujando no es un campo... pero igual. A
 mi me gusta ir a escuchar y a disfrutar al artista, y no me siento tan

@@ -9,7 +9,7 @@
 .. author: cHagHi
 .. from_wp: True
 
-[*Update: El Squirrel Attack ya está en YouTube... vean más abajo*\ ] Al
+[ *Update: El Squirrel Attack ya está en YouTube... vean más abajo* ] Al
 igual que `el año pasado`_, hoy disfrutamos de un día al aire libre
 completo con mis compañeros de trabajo. Esta vez, el lugar elegido fue
 `Rodizio Campo`_, en Luján.

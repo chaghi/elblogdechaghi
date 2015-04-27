@@ -66,7 +66,7 @@ transformarlas en un post:
 -  Hice un intento de ponerme a estudiar para rendir los dos finales que
    debo. Creo que si no los doy en esta fecha (en unos 10 días,
    máximo...), se me vencen. No se si llego a estudiar, básicamente
-   porque por más que "sé" que \*tengo\* que estudiar, no tengo ganas y
+   porque por más que "sé" que *tengo* que estudiar, no tengo ganas y
    lo hago. Cero motivación :( Y lo malo es que si se me vencen... dudo
    MUCHO, pero que MUCHO que junte ganas de recursar esas materias. El
    último año de la carrera en UADE fue un fiasco completo, y por ahí
