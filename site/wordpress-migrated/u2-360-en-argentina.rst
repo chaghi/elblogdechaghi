@@ -36,10 +36,11 @@ por el mundo. La pantalla circular es casi mágica.
 
 |U2 360 Tour Amsterdam|
 
-.. image:: http://twitpic.com/show/thumb/4f6dfs.jpg
-   :target: http://twitpic.com/4f6dfs
+.. thumbnail:: /images/u2-360-mauro-lucas.jpg
    :alt: Mauro y Lucas esperando a U2
    :align: right
+
+   Mauro y Lucas esperando a U2
 
 Y obvio está la música... es una banda
 super-sólida, suena de puta madre, y es una máquina de hits. Así que lo
@@ -48,10 +49,11 @@ escuchar un poco más del último álbum, que me gusta mucho. Ufa, ¿por qué
 no hicieron *No Line On The Horizon*, eh? Supongo que todo no se
 puede...
 
-.. image:: http://twitpic.com/show/thumb/4f6aut.jpg
-   :target: http://twitpic.com/4f6aut
+.. thumbnail:: /images/u2-360-chaghi-mauro.jpg
    :alt: cHagHi y Mauro esperando a U2
    :align: left
+
+   cHagHi y Mauro esperando a U2
    
 El estadio Único se merece un párrafo
 aparte: no es gigante, pero se respira a nuevo y moderno por todos

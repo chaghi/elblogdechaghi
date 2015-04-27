@@ -35,12 +35,11 @@ mayoría estaba bailando, y yo estaba medio solo a un costado. Una de las
 hermanas mayores de la chica que había organizado el baile se acerca
 y... se da el siguiente diálogo (más o menos)
 
-    - ¿No bailás?
-
-    - No, no se bailar "movido" (NdR: je, que TARADO que era, Dios,  y
-      que frase ochentosa lo de "bailar movido" :P)
-
-    - Ah, dale, solo tenés que dejar que el cuerpo se mueva con la
+    | — ¿No bailás?
+    |
+    | — No, no se bailar *movido* [*]_
+    |
+    | — Ah, dale, solo tenés que dejar que el cuerpo se mueva con la
       música! Vení, mirá...
 
 ... y me agarró de la mano y me llevó a bailar. En ese momento me sentí
@@ -71,7 +70,10 @@ si no fuera porque es caro, y porque uno tiene que trabajar,
 lamentablemente, en lugar de dedicarse a seguir a sus músicos favoritos
 por el planeta. Damn...
 
-|Marie y Per|
+.. image:: http://farm6.static.flickr.com/5224/5604026824_8cbafc2eee.jpg
+   :target: http://www.flickr.com/photos/chaghi/5604026824/
+   :alt: Marie y Per
+   :align: center
 
 Fueron tres shows muy similares en cuanto al setlist,
 pero cada uno tuvo su toque particular: El de Montevideo fue el primero,
@@ -83,7 +85,10 @@ campo. Apretujado, saltando, gritando, con otros muchos fans. El martes
 5 estuve en el super pullman, sentadito por momentos, lejos, pero mucho
 más tranqui, con posibilidad de sacar fotos y grabar algunos videitos.
 
-|Roxette|
+.. image:: http://farm6.static.flickr.com/5146/5604023554_cc8dcd7363.jpg
+   :target: http://www.flickr.com/photos/chaghi/5604023554/
+   :alt: Roxette
+   :align: center
 
 El lunes, `The Daily Roxette`_ y `Run To Roxette`_
 organizaron una fiesta en Dorsia Disco, después del show. Y para
@@ -91,9 +96,15 @@ sorpresa de muchos, se aparecieron todos los miembros de la banda (faltó
 solo Helena), y el staff del show (sonidistas, instrumentistas, etc.).
 Faltaron solo Per y Marie... pero bueno, hubiera sido un descontrol :)
 
-|cHagHi y Christoffer Lundquist|
+.. thumbnail:: /images/chaghi-chris.jpg
+   :alt: cHagHi y Christoffer Lundquist
+   
+   cHagHi y Christoffer Lundquist
 
-|Junto a Pelle Alsing, Magnus Börjesson y Clarence Öfwerman| 
+.. thumbnail:: /images/chaghi-pelle-magnus-clarence.jpg
+   :alt: Junto a Pelle Alsing, Magnus Börjesson y Clarence Öfwerman
+
+   Junto a Pelle Alsing, Magnus Börjesson y Clarence Öfwerman
 
 El concierto en sí fue un repaso por los grandes clásicos, aquellos
 temas que todos queríamos escuchar. Y Roxette es una máquina de hits...
@@ -109,7 +120,10 @@ respuesta del público fue espectacular, lo noté especialmente la primer
 fecha en el Luna. Increíble. Mucha mucha emoción, arriba y abajo del
 escenario.
 
-|Roxette 2|
+.. image:: http://farm6.static.flickr.com/5143/5603420203_fb88b8f534.jpg
+   :target: http://www.flickr.com/photos/chaghi/5603420203/
+   :alt: Roxette
+   :align: center
 
 Este fue el setlist (resumo todo en uno solo, y aclaro las
 diferencias entre los tres shows a los que asistí, cuando las hubo)
@@ -170,6 +184,10 @@ pronto, este tour es muy largo, y recién empieza ;)
 Por otra parte, si Marie se lo banca, todavía puede haber Roxette por
 unos cuantos años más...
 
+----------
+
+.. [*] NdR: je, que **tarado** que era, Dios,  y que frase ochentosa lo de "bailar movido" :P)
+
 .. _Ya hablé un poquito antes de eso: link://slug/roxette-reloaded
 .. _The Daily Roxette: http://www.dailyroxette.com/
 .. _Run To Roxette: http://www.runtoroxette.com/
@@ -177,13 +195,3 @@ unos cuantos años más...
 .. _Perfect Day: http://www.youtube.com/watch?v=MIXUbGEKqOg
 .. _Watercolours in the Rain: http://www.youtube.com/watch?v=Qdr1Pq8elSI
 
-.. |Marie y Per| image:: http://farm6.static.flickr.com/5224/5604026824_8cbafc2eee.jpg
-   :target: http://www.flickr.com/photos/chaghi/5604026824/
-.. |Roxette| image:: http://farm6.static.flickr.com/5146/5604023554_cc8dcd7363.jpg
-   :target: http://www.flickr.com/photos/chaghi/5604023554/
-.. |cHagHi y Christoffer Lundquist| image:: http://twitpic.com/show/thumb/4h3gkc.jpg
-   :target: http://twitpic.com/4h3gkc
-.. |Junto a Pelle Alsing, Magnus Börjesson y Clarence Öfwerman| image:: http://twitpic.com/show/thumb/4h3mj8.jpg
-   :target: http://twitpic.com/4h3mj8
-.. |Roxette 2| image:: http://farm6.static.flickr.com/5143/5603420203_fb88b8f534.jpg
-   :target: http://www.flickr.com/photos/chaghi/5603420203/
