@@ -84,7 +84,7 @@ Pero la base está...
 ----------
 
 Para terminar el revoleo, el blog no está más alojado en un *hosting
-compartido*. Me llevé todo a un `VPS <https://www.digitalocean.com/>`_.
+compartido*. Me llevé todo a un `VPS <http://www.digitalocean.com/?refcode=11907d74e265>`_.
 Y eso también es toda una novedad, y en parte un desafío, porque tengo que 
 administrar absolutamente todo yo. Es un arma de doble filo: puedo hacer lo 
 que quiera en el servidor, y por lo tanto también puedo romper todo. Y tengo 
