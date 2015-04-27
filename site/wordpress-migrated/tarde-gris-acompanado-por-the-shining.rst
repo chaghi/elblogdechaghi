@@ -35,3 +35,6 @@ cinematográfica más o menos refleja algo de la riqueza interior de los
 personajes que King construye es *The Green Mile* (Milagros
 Inesperados).
 
+.. raw:: html
+
+   <div style="clear:both;"></div>
