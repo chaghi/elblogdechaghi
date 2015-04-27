@@ -20,14 +20,14 @@ Nueva casa, nueva tecnología, nuevo formato. Todo es nuevo. Menos el
 contenido, que está abandonado hace casi un año. Y que ya venía semi
 abandonado antes de eso.
 
-Ya ni los ¿clásicos? posts sobre los viajes estoy haciendo. Hay por lo
-menos dos que no están acá. Y es una pena. Esto nunca fue muy popular, ni
-tuvo muchos lectores, pero siempre fue un buen ejercicio esto de escribir,
-y más de una vez fue interesante en lo personal volver para atrás y releer
-algunas cosas. Y eso que he escrito cada pelotudez... :p Pero nada, las
-pelotudeces también son interesantes. Es interesante ver como uno cambia, o
-como el mundo cambia, y contrastar lo que pensaba, sentía o vivía mi "yo"
-de hace X tiempo con mi "yo" actual.
+Ya ni los ¿clásicos? `posts sobre los viajes <link://tag/viajes>`_
+estoy haciendo. Hay por lo menos dos que no están acá. Y es una pena. 
+Esto nunca fue muy popular, ni tuvo muchos lectores, pero siempre fue un 
+buen ejercicio esto de escribir, y más de una vez fue interesante en lo 
+personal volver para atrás y releer algunas cosas. Y eso que he escrito 
+cada pelotudez... :p Pero nada, las pelotudeces también son interesantes. 
+Es interesante ver como uno cambia, o como el mundo cambia, y contrastar 
+lo que pensaba, sentía o vivía mi "yo" de hace X tiempo con mi "yo" actual.
 
 Y cada tanto, cada muy tanto, hasta llegué a escribir algo que le sirvió a
 alguien. Y eso también está bueno.
