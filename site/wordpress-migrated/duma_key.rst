@@ -46,7 +46,7 @@ Nice. Very very nice.
 
  
 
-.. _Había dicho: http://chaghi.com.ar/blog/post/2009/05/06/feria_del_libro_2009_liliana_bodoc#duma_key
-.. _La historia de Lisey: http://chaghi.com.ar/blog/post/2007/07/21/la_historia_de_lisey
-.. _Cell: http://chaghi.com.ar/blog/post/2007/01/10/cell
+.. _Había dicho: link://slug/feria_del_libro_2009_liliana_bodoc#duma_key
+.. _La historia de Lisey: link://slug/la_historia_de_lisey
+.. _Cell: link://slug/cell
 .. _Stephen pasó por una experiencia similar: http://es.wikipedia.org/wiki/Stephen_King#Accidente_de_autom.C3.B3vil

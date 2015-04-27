@@ -30,4 +30,4 @@ nada, pero en su momento nos recagamos de la risa.
 
  
 
-.. _Cholila/Puelo: http://chaghi.com.ar/blog/post/2010/02/07/por_las_huellas_de_butch_cassidy
+.. _Cholila/Puelo: link://slug/por_las_huellas_de_butch_cassidy

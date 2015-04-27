@@ -161,7 +161,7 @@ El grupo fue EXCELENTE, nos divertimos muchísimo!!!
 .. _Butch Cassidy: http://es.wikipedia.org/wiki/Butch_Cassidy
 .. _Hielo Azul: http://www.hieloazulaventura.com
 .. _mi primer travesía con Hielo Azul: http://docs.google.com/present/edit?id=0AWU_75CSDF4CZGRod3QyazhfMzdmd2g3Mm5jdw&hl=es
-.. _travesía Puelo/Plataforma: http://chaghi.com.ar/blog/post/2008/01/20/por_el_valle_del_turbio
+.. _travesía Puelo/Plataforma: link://slug/por_el_valle_del_turbio
 .. _Bosque Tallado: http://www.elbosquetallado.com/
 .. _De la travesía: http://www.flickr.com/photos/chaghi/sets/72157623228848537/
 .. _De la estadía en El Bolsón haciendo fiaca: http://www.flickr.com/photos/chaghi/sets/72157623353883360/

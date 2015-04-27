@@ -75,5 +75,5 @@ causa y la solución, si):
 
 En fin. Sigo teniendo video. Fue solo un susto.
 
-.. _ascensor misterioso: http://www.chaghi.com.ar/blog/post/2005/07/04/scary
+.. _ascensor misterioso: link://slug/scary
 .. _página de diagnóstico de fallas: http://zeus.eed.usv.ro/misc/mirrors/cc/vcr.htm#VCRFAQ_072

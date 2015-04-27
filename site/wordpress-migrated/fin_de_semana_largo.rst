@@ -55,5 +55,5 @@ ténganme paciencia.
 Actualización: El 5 de julio de 2007 puse las fotos en Flickr, y
 actualicé el enlace
 
-.. _realicé la Travesía de las Dos Cumbres: http://chaghi.com.ar/blog/post/2005/09/10/travesia_de_las_dos_cumbres
+.. _realicé la Travesía de las Dos Cumbres: link://slug/travesia_de_las_dos_cumbres
 .. _pueden visitar aquí: http://www.flickr.com/photos/chaghi/sets/72157600592429785/

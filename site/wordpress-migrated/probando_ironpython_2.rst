@@ -73,7 +73,7 @@ IronPython 2.x?
 
  
 
-.. _experimento que alguna vez comenté: http://chaghi.com.ar/blog/post/2007/09/30/exoditus_en_python
+.. _experimento que alguna vez comenté: link://slug/exoditus_en_python
 .. _Cheetah: http://www.cheetahtemplate.org/
 .. _IronPython: http://www.codeplex.com/IronPython
 .. _CodePlex: http://ironpython.codeplex.com/WorkItem/View.aspx?WorkItemId=17753

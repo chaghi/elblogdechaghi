@@ -108,6 +108,6 @@ resuelve la performance, sino que nos obliga a armar toda una magia para
 implementarlo, y encima, después funciona a medias, o directamente no
 funciona.
 
-.. _mencioné hace unos días: http://chaghi.com.ar/blog/post/2009/03/01/probando_ironpython_2
+.. _mencioné hace unos días: link://slug/probando_ironpython_2
 .. _ejemplos: http://ironpython.codeplex.com/Wiki/View.aspx?title=Samples
 .. _acá: http://blogs.msdn.com/srivatsn/archive/2008/08/06/static-compilation-of-ironpython-scripts.aspx

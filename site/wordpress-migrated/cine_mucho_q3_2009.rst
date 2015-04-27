@@ -108,7 +108,7 @@ cable un día aburrido no va a figurar en este listado).
 
  
 
-.. _como la última vez: http://chaghi.com.ar/blog/post/2009/06/28/cine_mucho
+.. _como la última vez: link://slug/cine_mucho
 .. _Push: http://www.imdb.com/title/tt0465580/
 .. _Powder Blue: http://www.imdb.com/title/tt1032819/
 .. _Marley and Me: http://www.imdb.com/title/tt0822832/

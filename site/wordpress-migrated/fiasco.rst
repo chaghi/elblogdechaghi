@@ -25,4 +25,4 @@ debate, y se queda en nada. Y tiene uno de los finales más imbéciles que
 he visto en los últimos tiempos. :(
 
 .. _Más allá de la muerte (The Final Cut): http://www.imdb.com/title/tt0364343/
-.. _hice un comentario: http://www.chaghi.com.ar/blog/cine/2005/05/01/un_poco_de_cine
+.. _hice un comentario: link://slug/un_poco_de_cine

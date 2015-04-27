@@ -45,5 +45,5 @@ asado como un argentino manda, quedarán para otra vez.
 
  
 
-.. _casi un año de no estudiar: http://chaghi.com.ar/blog/post/2006/07/28/terminando_sueco_por_ahora
-.. _la amiga de Martina que conocí el año pasado en Estocolmo: http://chaghi.com.ar/blog/post/2006/05/08/hablenme_en_sueco
+.. _casi un año de no estudiar: link://slug/terminando_sueco_por_ahora
+.. _la amiga de Martina que conocí el año pasado en Estocolmo: link://slug/hablenme_en_sueco

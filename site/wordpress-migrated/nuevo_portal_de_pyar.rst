@@ -20,6 +20,6 @@ verdad, que además de hostear PyAr está dando un servicio a muchas otras
 empresas. Pero sobre todo, se complicó porque ninguno de los que
 estábamos (Facu, Pablo Z y yo) es precisamente un experto en Apache.
 
-.. _la prueba piloto: http://chaghi.com.ar/blog/post/2006/01/25/migrando_la_pagina_de_pyar_a_moinmoin
+.. _la prueba piloto: link://slug/migrando_la_pagina_de_pyar_a_moinmoin
 .. _PyAr: http://www.python.com.ar/moin
 .. _Apache: http://www.apache.org/

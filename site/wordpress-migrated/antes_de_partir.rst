@@ -39,4 +39,4 @@ eligiendo platos "posta". Muy buena cocina.
 
 .. _Antes de Partir: http://www.imdb.com/title/tt0825232/
 .. _La Casa del Queso: http://www.lacasadelqueso.com.ar/
-.. _reunión de PyAr allí: http://chaghi.com.ar/blog/post/2006/11/12/cafeconf-2006-promoviendo-python
+.. _reunión de PyAr allí: link://slug/cafeconf-2006-promoviendo-python

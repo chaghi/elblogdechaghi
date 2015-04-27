@@ -83,4 +83,4 @@ primera vez.
 .. _Atrapados en el hielo: http://www.tematika.com/libros/humanidades--2/biografias_y_relatos--8/relatos_de_viajes--2/atrapados_en_el_hielo--432886.htm
 .. _Ernest Shackleton: http://es.wikipedia.org/wiki/Ernest_Shackleton
 .. _Gabriel's Gift: http://www.amazon.com/Gabriels-Gift-Novel-Hanif-Kureishi/dp/0743217136
-.. _La Saga de los Confines: http://chaghi.com.ar/blog/post/2005/10/03/la_saga_de_los_confines
+.. _La Saga de los Confines: link://slug/la_saga_de_los_confines

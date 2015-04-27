@@ -33,6 +33,6 @@ recorrer, muchas cosas para aprender, emprolijar, y mejorar.
 
  
 
-.. _emociones rockeras del domingo: http://chaghi.com.ar/blog/post/2007/04/16/Quilmes-Rock-07
+.. _emociones rockeras del domingo: link://slug/quilmes-rock-07
 .. _Sifu Horacio Di Renzo: http://kaimen.com.ar/horacio.html
-.. _exámen anterior: http://chaghi.com.ar/blog/post/2005/12/10/primer_examen_de_tai_chi_chuan
+.. _exámen anterior: link://slug/primer_examen_de_tai_chi_chuan

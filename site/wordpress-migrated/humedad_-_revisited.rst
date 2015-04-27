@@ -23,4 +23,4 @@ el edificio que tuvieron problemas similares.
 
 Tienen que ir del otro lado, y romper. Veremos como sigue...
 
-.. _el problema de humedad en la pared de mi habitación: http://www.chaghi.com.ar/blog/post/2005/09/12/humedad
+.. _el problema de humedad en la pared de mi habitación: link://slug/humedad

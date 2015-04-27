@@ -87,7 +87,7 @@ bárbaro, y pasamos un rato más que agradable.
  
 
 .. _Liliana Bodoc: http://es.wikipedia.org/wiki/Liliana_Bodoc
-.. _Amo esa trilogía: http://chaghi.com.ar/blog/post/2005/10/03/la_saga_de_los_confines
+.. _Amo esa trilogía: link://slug/la_saga_de_los_confines
 .. _Facu: http://www.taniquetil.com.ar/plog/
 .. _más fotos del evento acá: http://www.flickr.com/photos/54757453@N00/sets/72157617754031100/
 .. _Centro Okinawense: http://www.okiren.org.ar/

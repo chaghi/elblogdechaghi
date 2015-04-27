@@ -34,7 +34,7 @@ las nuevas características de Python 2.4, haciendo énfasis en el módulo
 "decimal", aprovechando que `Facundo`_ es el core developer del módulo
 ;)
 
-.. _mi primer post sobre PyAr: http://www.chaghi.com.ar/blog/post/2004/10/25/pyar_-_python_argentina
+.. _mi primer post sobre PyAr: link://slug/pyar_-_python_argentina
 .. _portal oficial del grupo: http://pyar.decode.com.ar/
 .. _lista de correo: http://pyar.decode.com.ar/Wiki/ListaDeMail
 .. _sprint: http://pyar.decode.com.ar/Wiki/FAQ#ref7

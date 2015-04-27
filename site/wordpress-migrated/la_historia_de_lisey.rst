@@ -54,5 +54,5 @@ en leerlo fue nada más que por falta de tiempo. 
 
  
 
-.. _Cell: http://chaghi.com.ar/blog/post/2007/01/10/cell
+.. _Cell: link://slug/cell
 .. _Roland Deschain, "el último pistolero": http://es.wikipedia.org/wiki/Roland_Deschain

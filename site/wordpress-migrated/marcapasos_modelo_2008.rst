@@ -46,4 +46,4 @@ Algunas reflexiones colaterales sobre el tema:
    los casos vas a Garbarino y comprás otra... no, es tu cuerpo, tu
    salud... y estás jugando con muchas cosas irremplazables.
 
-.. _susto anterior: http://chaghi.com.ar/blog/post/2007/07/16/bloqueo_auriculo_ventricular
+.. _susto anterior: link://slug/bloqueo_auriculo_ventricular

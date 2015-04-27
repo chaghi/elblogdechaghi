@@ -56,4 +56,4 @@
 
 .. _Agata: http://www.taniquetil.com.ar/plog/post/1/343
 .. _Jardín Japonés: http://www.jardinjapones.org.ar/portada.htm
-.. _Hay libros: http://chaghi.com.ar/blog/post/2005/10/03/la_saga_de_los_confines
+.. _Hay libros: link://slug/la_saga_de_los_confines

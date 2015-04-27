@@ -14,7 +14,7 @@ siempre causa controversias, mucha acción... un poco exagerada, pero
 bueno, zafa dentro de su rubro. Eso completa la seguidilla de pelis que
 hace un mes dije que quería ver si o si en cine (lo cual no quiere decir
 que no vaya a pisar nunca más una sala; de hecho, ya se agregaron pelis
-en las últimas dos semanas que \_también\_ quiero ver si o si en cine),
+en las últimas dos semanas que *también* quiero ver si o si en cine),
 compuesta por Sin City, Charly y la Fábrica de Chocolate, Bajo Amenaza y
 La Isla.
 

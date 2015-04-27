@@ -9,6 +9,12 @@
 .. author: cHagHi
 .. from_wp: True
 
+.. warning::
+
+   Todo lo que se menciona acá, incluyendo el subdominio ``m.chaghi.com.ar``
+   no corre más. Fue eventualmente reemplazado por un tema *responsive*
+   al migrar a WordPress, y más tarde a Nikola.
+
 Estuve haciendo algunas mejoras para que el blog se visualice mejor
 desde un celular. La realidad es que si lo navegabas con un smartphone
 con un navegador moderno cargaba bien, pero no estaba optimizado para
@@ -16,7 +22,7 @@ este tipo equipos (pantalla pequeña, pantalla táctil o navegación con un
 trackball o teclado numérico, etc). Y ni hablar si le entrabas con un
 celular más viejo o limitado.
 
-Bueno, ahora si entrás a http://m.chaghi.com.ar/blog, lo que ves es un
+Bueno, ahora si entrás a ``http://m.chaghi.com.ar/blog``, lo que ves es un
 diseño optimizado para celulares y otros dispositivos móviles. Obvio
 tenés que entrar con uno de estos equipos para que tenga gracia. De
 todas maneras, el sistema debería autodetectar si entrás con un celu y

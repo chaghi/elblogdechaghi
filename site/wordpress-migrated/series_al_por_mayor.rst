@@ -66,7 +66,7 @@ uno recuerda de chico y vuelve a ver de grande).
 
 .. _House M.D.: http://www.imdb.com/title/tt0412142/
 .. _Dexter: http://www.imdb.com/title/tt0773262/
-.. _otras oportunidades: http://chaghi.com.ar/blog/post/2009/03/08/series_2009
+.. _otras oportunidades: link://slug/series_2009
 .. _The IT Crowd: http://www.imdb.com/title/tt0487831/
 .. _The Big Bang Theory: http://www.imdb.com/title/tt0898266/
 .. _Six Feet Under: http://www.imdb.com/title/tt0248654/

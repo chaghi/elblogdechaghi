@@ -54,5 +54,5 @@ off del personaje y demás, es inevitable.
 
 .. _300: http://www.imdb.com/title/tt0416449/
 .. _Frank Miller: http://www.imdb.com/name/nm0588340/
-.. _Sin City: http://chaghi.com.ar/blog/post/2005/08/15/bruce_willis_x_2
+.. _Sin City: link://slug/bruce_willis_x_2
 .. _inspirada en un rey espartano: http://es.wikipedia.org/wiki/Le%C3%B3nidas_I

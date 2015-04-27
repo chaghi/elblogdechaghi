@@ -53,6 +53,6 @@ como turista fiacoso, y otro poco casi casi como si fuera un residente.
 
 Fotos, `acá`_. 
 
-.. _emociones de la semana anterior: http://chaghi.com.ar/blog/post/2008/01/20/por_el_valle_del_turbio
+.. _emociones de la semana anterior: link://slug/por_el_valle_del_turbio
 .. _Jauja: http://www.heladosjauja.com/
 .. _acá: http://www.flickr.com/photos/chaghi/sets/72157603763102718/

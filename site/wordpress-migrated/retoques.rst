@@ -52,20 +52,20 @@ accesos.
 Hacía rato que quería arreglar eso, pero básicamente implicaba cambiar
 el formato de las Personal URL. Lo cual implicaba que si alguien tenía
 un link a mi página, iba a dejar de andar. Así que primero necesitaba
-aprender un poco como funciona el "mod\_rewrite" de Apache, para poder
+aprender un poco como funciona el "mod_rewrite" de Apache, para poder
 hacer que los links anteriores sigan siendo válidos. Este módulo de
 Apache básicamente intercepta los request, e intenta matchear la URL
 contra una serie de expresiones regulares. Si hay un match, la URL puede
-ser reescrita en base a una regla. Es un monstruito \_muy\_ poderoso,
+ser reescrita en base a una regla. Es un monstruito *muy* poderoso,
 pero complejo de usar.
 
 Hoy tuve finalmente el tiempo y las ganas para ponerme con eso, y
 terminé con todos esos cambios. La URL anterior era del estilo
 "categoría/año/mes/día/título-del-post". Ahora, la primer parte es fija
 y en lugar de ser el nombre de la categoría se usa la palabra "post".
-Con todo lo que estuve viendo de Apache, \_creo\_ que podría haber
+Con todo lo que estuve viendo de Apache, *creo* que podría haber
 mantenido el formato anterior y arreglar todo el problema de los hits
-erróneos mediante mod\_rewrite... pero hice varios intentos y no andaban
+erróneos mediante mod_rewrite... pero hice varios intentos y no andaban
 del todo. El que toda la URL sea dinámica (el nombre de la cateogoría es
 variable) introduce un grado de complejidad que excede lo poquito que
 leí de Apache, y mis modestos conocimientos de expresiones regulares.

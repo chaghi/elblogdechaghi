@@ -20,7 +20,7 @@ Me encantó la foto.
 Denise, Diego, Diana, Josefina, Silvina, yo, Pablo, Cristian y Luca. El
 homenajeado, Santi, ya dormía en su habitación desde hacía rato.
 
-.. _cumple de Santi: http://chaghi.com.ar/blog/post/2005/09/25/festejo_y_despedida
+.. _cumple de Santi: link://slug/festejo_y_despedida
 
 .. |Cumple Santi| image:: http://static.flickr.com/28/64620134_11958c3dbf_o.jpg
    :target: http://www.flickr.com/photos/chaghi/64620134/

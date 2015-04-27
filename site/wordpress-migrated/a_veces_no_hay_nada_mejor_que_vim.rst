@@ -65,7 +65,7 @@ aún fuera de todo contexto...).Lo imporante, es que hay unos cuantos
 -  hay que declarar una variable privada del mismo tipo, pero nullable,
    e inicializada en null;
 -  la variable se llama igual que la property, pero en minúscula, y con
-   un "\_" delante;
+   un "_" delante;
 -  la invocación al recupero del parámetro queda dentro de un if, que
    controla si el nullable tiene o no valor;
 -  la invocación al recupero del parámetro no es más parte del return,

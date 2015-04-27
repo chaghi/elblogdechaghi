@@ -59,4 +59,4 @@ indefinido :(
 
 No vale. Eso no es una pregunta :p
 
-.. _presentado hace un par de meses: http://www.chaghi.com.ar/blog/post/2005/04/30/nuevo_laburo_tai_chi_y_tif
+.. _presentado hace un par de meses: link://slug/nuevo_laburo_tai_chi_y_tif

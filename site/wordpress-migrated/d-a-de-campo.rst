@@ -56,7 +56,7 @@ fue el único momento divertido, ni mucho menos.
 
 Más fotos, `acá`_. 
 
-.. _el año pasado: http://chaghi.com.ar/blog/post/2005/11/26/la_candelaria
+.. _el año pasado: link://slug/la_candelaria
 .. _Rodizio Campo: http://rodiziocampo.com.ar/
 .. _acá: http://www.flickr.com/photos/chaghi/archives/date-posted/2006/12/20/detail/
 

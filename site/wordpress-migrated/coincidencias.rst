@@ -56,8 +56,8 @@ El link eDonkey (para usar con eMule o compatibles) es:
 
 Son 50Mb, y dura aproximadamente 1 hora.
 
-.. _La Guerra de los Mundos: http://www.chaghi.com.ar/blog/post/2005/07/12/la_guerra_de_los_mundos
-.. _comentario: http://www.chaghi.com.ar/blog/post/2005/07/12/la_guerra_de_los_mundos#comments
+.. _La Guerra de los Mundos: link://slug/la_guerra_de_los_mundos
+.. _comentario: link://slug/la_guerra_de_los_mundos#comments
 .. _blogger tucumano: http://www.tucumanga.com/
 .. _y escribió sobre ella: http://www.tucumanga.com/?p=35
 .. _que encontré acá: http://members.aol.com/jeff1070/wotw.html

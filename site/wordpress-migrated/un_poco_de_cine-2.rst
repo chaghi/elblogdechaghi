@@ -72,6 +72,6 @@ contrastar las dos.
  
 
 .. _Låt den rätte komma in: http://www.imdb.com/title/tt1139797/
-.. _leí y comenté: http://chaghi.com.ar/blog/post/2008/05/25/d_jame_entrar
+.. _leí y comenté: link://slug/d_jame_entrar
 .. _[*]: #hollywood
 .. _Slumdog Millionaire: http://www.imdb.com/title/tt1010048/

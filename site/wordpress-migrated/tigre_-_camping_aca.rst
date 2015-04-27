@@ -39,7 +39,7 @@ la siguiente foto:
 
 |Diego y Jose|
 
-.. _cerveza de ayer: http://chaghi.com.ar/blog/post/2005/12/18/karaoke_en_kai_men
+.. _cerveza de ayer: link://slug/karaoke_en_kai_men
 
 .. |Diego y Jose| image:: http://static.flickr.com/38/74978620_ce171e88c0.jpg
    :target: http://www.flickr.com/photos/chaghi/sets/1609106/

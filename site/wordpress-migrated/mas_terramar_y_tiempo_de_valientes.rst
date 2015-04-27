@@ -36,4 +36,4 @@ grotesca... con esa forma de realzar una característica del personaje
 tan típica nuestra, tan de 100 veces no debo, o Esperando la carroza, o
 vienendo más acá en el tiempo, tan Cohen vs. Rosi. Impresionante.
 
-.. _novelas "originales" de Terramar: http://chaghi.com.ar/blog/post/2005/10/14/historias_de_terramar
+.. _novelas "originales" de Terramar: link://slug/historias_de_terramar

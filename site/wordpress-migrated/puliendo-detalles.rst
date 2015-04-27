@@ -68,7 +68,7 @@ pasa el script.
 
  
 
-.. _acá: http://chaghi.com.ar/blog/post/2006/11/01/Nos-mudamos
+.. _acá: link://slug/nos-mudamos
 .. _tagcloud: http://wiki.lifetype.net/index.php/Plugin_tagcloud
 .. _ayearago: http://wiki.lifetype.net/index.php/Plugin_ayearago
 .. _categorycloud: http://wiki.lifetype.net/index.php/Plugin_categorycloud

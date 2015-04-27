@@ -68,7 +68,7 @@ modos, estuvieron MUY buenas).
 
  
 
-.. _acá: http://chaghi.com.ar/blog/post/2008/08/30/mi_selecci_n_de_camara_digital_bridge
+.. _acá: link://slug/mi_selecci_n_de_camara_digital_bridge
 .. _purple fringing: http://en.wikipedia.org/wiki/Purple_fringing
 .. _3ras Jornadas de Python: http://www.pythonsantafe.com.ar/
 .. _PyAr: http://www.python.com.ar

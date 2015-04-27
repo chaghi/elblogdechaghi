@@ -13,7 +13,7 @@
 
 Tim Burton sabe como narrar un cuento (¡qué imaginación tiene el tipo
 para crear los lugares, los personajes...!) y Jhonny Depp aparentemente
-puede hacer \_cualquier\_ papel. Sí, estoy hablando de `Charly y la
+puede hacer *cualquier* papel. Sí, estoy hablando de `Charly y la
 fábrica de chocolate`_. Muy buena, para quienes gustamos de regalarle
 cada tanto una peli al niño que todos llevamos dentro. Quien sabe,
 quizás hasta se emocionen (a mi me pasó), y quizás encuentren como una

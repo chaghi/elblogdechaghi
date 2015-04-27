@@ -37,7 +37,7 @@ Fíjense, si no, a modo de ejemplo, que mal que lo pasan:
 
 |Denise y Santi|
 
-.. _se fueron a vivir al sur: http://chaghi.com.ar/blog/post/2005/09/25/festejo_y_despedida
+.. _se fueron a vivir al sur: link://slug/festejo_y_despedida
 
 .. |Papá Pablo, Santi y mamá Denise| image:: http://static.flickr.com/43/104175283_d5a9e168b4_o.jpg
    :target: http://www.flickr.com/photos/chaghi/104175283/

@@ -28,10 +28,15 @@ meditarlo un poco, hice lo siguiente:
 -  El botón "ALBUMS" de la cabecera del blog, ahora apunta a mi página
    de `sets`_ en Flickr. 
 
+.. note::
+
+   Las galerías de fotos de Valdes y Azul/Raquel no están más acá.
+   En este momento no están disponibles on-line en ningún lado.
+
 -  Para referencia futura mía, y/o por algún memorioso que recuerde que
    existen, las fotos de Valdes y Azul/Raquel forman los únicos dos
    álbumes que quedaron hosteados acá, y la URL sigue siendo
-   http://chaghi.com.ar/albums/, solo que ese link no figura ni en la
+   ``http://chaghi.com.ar/albums/``, solo que ese link no figura ni en la
    cabecera ni en la barra de navegación del blog... así que tenés que
    llegar ahí porque sabés que existe, o porque pasaste primero por este
    post ;) (ok, o porque Google te ayudó... aunque ahora que lo pienso,

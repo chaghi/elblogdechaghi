@@ -9,7 +9,7 @@
 .. author: cHagHi
 .. from_wp: True
 
-.. figure:: http://www.chaghi.com.ar/images/tabla.jpg
+.. figure:: /images/tabla.jpg
    :alt: Hay tabla
    :align: right
 

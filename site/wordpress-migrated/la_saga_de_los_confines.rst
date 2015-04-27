@@ -42,7 +42,7 @@ son importantes.
 
 Creo que es imposible leer la Saga de los Confines sin "mapear" muchas
 de las culturas (ficticias) descriptas a los primeros pobladores de
-América (nota para algún descolgado: Cuando \_yo\_ digo América me
+América (nota para algún descolgado: Cuando *yo* digo América me
 refiero al continente, no a Yankeelandia). Como también es imposible no
 "mapear" los hilos conductores básicos del relato con la Conquista. Y si
 bien la saga no es sobre la Conquista ni sobre ninguna cultura real, se

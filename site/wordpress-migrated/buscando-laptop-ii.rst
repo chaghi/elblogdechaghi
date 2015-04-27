@@ -87,6 +87,4 @@ que la cosa termina entre HP/Compaq y Dell.
 
 No se pierdan el próximo capítulo!
 
- 
-
-.. _el post anterior: http://www.chaghi.com.ar/blog/post/2006/12/10/Buscando-laptop
+.. _el post anterior: link://slug/buscando-laptop

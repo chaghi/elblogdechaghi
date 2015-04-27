@@ -48,7 +48,7 @@ no puedo dejar de expresar.. *¡¡¡que par de piernas!!!*   :)
 
  
 
-.. _de este evento: http://chaghi.com.ar/blog/post/2007/12/05/un_poco_de_muy_buen_jazz_en_vivo
+.. _de este evento: link://slug/un_poco_de_muy_buen_jazz_en_vivo
 .. _Darío: http://kblok.blogspot.com/
 .. _Eliane Elias: http://www.elianeelias.com/
 .. _Darío tiene un buen review del show: http://kblok.blogspot.com/2007/12/bossa-o-jazz-vos-elegis.html

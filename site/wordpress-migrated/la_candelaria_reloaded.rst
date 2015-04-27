@@ -34,8 +34,8 @@ Campo`_, no hay ardillas.
  
 
 .. _La Candelaria: http://www.estanciacandelaria.com/
-.. _ya habíamos ido: http://chaghi.com.ar/blog/post/2005/11/26/la_candelaria
-.. _a diferencia de Rodizio Campo: http://chaghi.com.ar/blog/post/2006/12/20/d-a-de-campo
+.. _ya habíamos ido: link://slug/la_candelaria
+.. _a diferencia de Rodizio Campo: link://slug/d-a-de-campo
 
 .. |La Candelaria, reloaded| image:: http://farm3.static.flickr.com/2221/2129000003_0ddd2796fd.jpg
    :target: http://www.flickr.com/photos/chaghi/2129000003/

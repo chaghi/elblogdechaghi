@@ -9,6 +9,11 @@
 .. author: cHagHi
 .. from_wp: True
 
+.. note::
+
+   El software mencionado acá y los links para acceder a las fotos
+   fueron cambiados. La mayoría de mis fotos ahora están en Flickr.
+
 Cuando migré a `pLog`_ 1.0, en mi capricho de explotar a fondo las
 "friendly URLs" (eso que hace que la URL permanente de los posts sea
 algo como post/fecha/título), dejaron de andar los álbumes de fotos

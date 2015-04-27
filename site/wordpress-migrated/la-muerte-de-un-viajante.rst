@@ -47,4 +47,4 @@ primero... pero no el último.
 
 .. _Arthur Miller: http://es.wikipedia.org/wiki/Arthur_Miller
 .. _Paseo la Plaza: http://www.paseolaplaza.com.ar/home.php
-.. _Teatro: http://chaghi.com.ar/blog/category/teatro
+.. _Teatro: link://tag/teatro

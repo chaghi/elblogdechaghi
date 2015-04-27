@@ -34,5 +34,5 @@ con la película. 100%.
 
  
 
-.. _nieve: http://chaghi.com.ar/blog/post/2007/07/09/nieve_en_buenos_aires
+.. _nieve: link://slug/nieve_en_buenos_aires
 .. _Brazil: http://www.imdb.com/title/tt0088846/

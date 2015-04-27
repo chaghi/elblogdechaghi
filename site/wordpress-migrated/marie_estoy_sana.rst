@@ -43,7 +43,7 @@ Fuente: `The Daily Roxette`_ y `Aftonbladet`_.
 
  
 
-.. _The Change: http://chaghi.com.ar/blog/post/2004/09/26/marie_fredriksson_reloaded_
+.. _The Change: link://slug/marie_fredriksson_reloaded
 .. _En las fotos de la entrevista: http://www.aftonbladet.se/vss/noje/story/0,2789,717375,00.html
 .. _The Daily Roxette: http://www.dailyroxette.com/article.php/1883
 .. _Aftonbladet: http://www.aftonbladet.se/

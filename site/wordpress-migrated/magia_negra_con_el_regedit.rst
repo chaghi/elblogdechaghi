@@ -13,9 +13,9 @@ Algunos amigos que solo tienen experiencia en ambientes Windows, se
 sorprenden cuando yo estoy trabajando con Linux, abro una ventana de
 comandos (¡sacrilegio! ¡no uso GUI!), y tiro algún comando como:
 
-::
+.. code:: console
 
-        find . -name "struts*" | grep bin
+   $ find . -name "struts*" | grep bin
 
 ... el cual podría llegar a parecerle mágico a alguien, pero es
 perfectamente explicable:
@@ -45,7 +45,7 @@ redetecte el hardware) sin poder solucionar el problema, recurrimos a
 Google. Enseguida encontramos un link, que proponía lo siguiente:
 
 -  Abrir el Editor del Registro (regedit)
--  Navegar hasta HKEY\_LOCAL\_MACHINE / System / CurrentControlSet /
+-  Navegar hasta HKEY_LOCAL_MACHINE / System / CurrentControlSet /
    Control / Class / {4D36E965-E325-11CE-BFC1-08002BE10318}
 -  Eliminar las claves "Upperfilters" y "Lowerfilters"
 -  Reiniciar la PC

@@ -48,8 +48,7 @@ esté aprobado, lo publicaré (aunque no es más que un trabajo de
 investigación, y a excepción de mis conclusiones personales, no dice
 nada que Google no les vaya a contar).
 
-| 
-| Bueno. Listo. Creo que puse al día el blog.
+Bueno. Listo. Creo que puse al día el blog.
 
-.. _dejé mi trabajo anterior: http://www.chaghi.com.ar/blog/post/2005/03/18/todo_cambia_todo_se_termina
+.. _dejé mi trabajo anterior: link://slug/todo_cambia_todo_se_termina
 .. _San-Ti: http://www.centrosanti.com.ar/

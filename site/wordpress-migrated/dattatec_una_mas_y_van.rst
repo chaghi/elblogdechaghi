@@ -35,7 +35,7 @@ se quejan de Dattatec. Las opiniones, en diversos foros, son malísimas.
 Así que a menos que ocurra un milagro... en breve transmitiremos desde
 otro lugar :p
 
-.. _A los problemas que vengo experimentando: http://chaghi.com.ar/blog/post/2006/04/10/dattatec_todo_mal
+.. _A los problemas que vengo experimentando: link://slug/dattatec_todo_mal
 .. _estamos casi decididos a cambiar de empresa de hosting: http://www.taniquetil.com.ar/plog/index.php?op=ViewArticle&articleId=174&blogId=1
 
-.. |Error DattaControl| image:: http://chaghi.com.ar/images/error_dattacontrol.jpg
+.. |Error DattaControl| image:: /images/error_dattacontrol.jpg

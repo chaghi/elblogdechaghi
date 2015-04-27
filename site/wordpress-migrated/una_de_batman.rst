@@ -59,5 +59,5 @@ En fin: Me gustó (y mucho), y sirvió para sobreponerse de los últimos
 .. _Batman, el caballero de la noche: http://www.imdb.com/title/tt0468569/
 .. _con algunas excepciones...: http://kblok.blogspot.com/2008/07/el-hombre-murcielago.html
 .. _Heath Ledger: http://www.imdb.com/name/nm0005132/
-.. _dos: http://chaghi.com.ar/blog/post/2008/07/04/superagente_86
-.. _fiascos: http://chaghi.com.ar/blog/post/2008/07/07/el_fin_de_los_tiempos
+.. _dos: link://slug/superagente_86
+.. _fiascos: link://slug/el_fin_de_los_tiempos

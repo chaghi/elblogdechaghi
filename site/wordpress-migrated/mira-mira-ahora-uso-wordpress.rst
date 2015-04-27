@@ -75,7 +75,7 @@ importación para que use el "slug" de LifeType (en lugar de
 recalcularlo), los enlaces permanentes de los posts deberían ser
 exactamente igual a los de antes. De todas maneras tengo que revisar
 algunas reescrituras de URLs que antes hacía en el .htaccess con
-mod\_rewrite, que tengo que ver si ahora siguen teniendo sentido o no.
+mod_rewrite, que tengo que ver si ahora siguen teniendo sentido o no.
 
 El feed RSS lo manejo con FeedBurner, así que a menos que estés
 suscripto directamente al feed que proporcionaba LifeType, esto debería
@@ -86,6 +86,6 @@ las URLs viejas, pero igual sería bueno que te re-suscribas a los feeds
 nuevos:
 
 -  http://feeds2.feedburner.com/ElBlogDeChaghi (el feed principal)
--  http://chaghi.com.ar/blog/comments/feed/ (el feed de comentarios)
+-  http://elblogdechaghi.disqus.com/latest.rss (el feed de comentarios)
 
 Por favor, si ves algo que no funciona, ¡avisá!

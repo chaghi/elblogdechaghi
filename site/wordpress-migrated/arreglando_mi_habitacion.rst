@@ -11,7 +11,7 @@
 
 Finalmente la humedad producto del problema en el calefón de mi vecina
 (más info `acá`_, y
-`acá <http://chaghi.com.ar/blog/post/2005/09/13/humedad_-_revisited>`__)
+`acá <link://slug/humedad_-_revisited>`__)
 secó, y coordinamos con el arquitecto que trabaja con la administración
 del edificio para hacer los trabajos de pintura.
 
@@ -36,4 +36,4 @@ Mientras tanto... tengo mi dormitorio en el living, y así quedará. Lo
 desarmé todo para que la gente labure tranquila, y no lo voy a volver a
 armar para desarmarlo otra vez el sábado que viene.
 
-.. _acá: http://chaghi.com.ar/blog/post/2005/09/12/humedad
+.. _acá: link://slug/humedad

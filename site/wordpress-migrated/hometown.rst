@@ -104,6 +104,6 @@ Después de muuuuuucho tiempo, sras. y sres., con Uds...
 
 .. _Sånt är livet: http://www.imdb.com/title/tt0117814/
 .. _Helena Bergström: http://www.imdb.com/name/nm0075087/
-.. _Marie grabó "The Change": http://chaghi.com.ar/blog/post/2004/09/26/marie_fredriksson_reloaded
+.. _Marie grabó "The Change": link://slug/marie_fredriksson_reloaded
 .. _Mikael Bolyos: http://www.bolyos.com/
 .. _A Family Affair: http://www.dailyroxette.com/node/16660

@@ -56,4 +56,4 @@ poco las clases, ¿no?" Veremos.
 
  
 
-.. _dejar de estudiar sueco: http://chaghi.com.ar/blog/post/2006/07/27/terminando_sueco_por_ahora
+.. _dejar de estudiar sueco: link://slug/terminando_sueco_por_ahora

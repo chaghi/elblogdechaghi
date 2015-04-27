@@ -28,8 +28,8 @@ Fotos del evento, cortesía de Seba, `acá`_.
 
  
 
-.. _esta cervezeada: http://chaghi.com.ar/blog/post/2007/03/09/cervezeada-en-buller
-.. _este hito: http://chaghi.com.ar/blog/post/2007/06/09/implementamos
+.. _esta cervezeada: link://slug/cervezeada-en-buller
+.. _este hito: link://slug/implementamos
 .. _acá: http://flickr.com/photos/chaghi/archives/date-posted/2008/02/detail/
 
 .. |El equipo, en Buller| image:: http://farm3.static.flickr.com/2182/2264157851_2279d1b192.jpg

@@ -28,4 +28,4 @@ Feliz Navidad.
 
  
 
-.. _post anterior: http://chaghi.com.ar/blog/post/2006/12/23/Por-qu-todo-en-las-ltimas-dos-semanas-del-a-o
+.. _post anterior: link://slug/por-qu-todo-en-las-ltimas-dos-semanas-del-a-o

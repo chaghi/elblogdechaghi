@@ -84,5 +84,5 @@ deseándoles a su manera...
 
 ...\ *largos días y placenteras noches*.
 
-.. _finalmente pude conseguir los libros anteriores: http://chaghi.com.ar/blog/post/2006/02/18/syriana_y_la_torre_oscura
+.. _finalmente pude conseguir los libros anteriores: link://slug/syriana_y_la_torre_oscura
 

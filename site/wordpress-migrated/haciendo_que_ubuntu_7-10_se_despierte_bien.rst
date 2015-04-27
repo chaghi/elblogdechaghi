@@ -149,4 +149,4 @@ Algunas moralejas de esta historia:
 
  
 
-.. _magia negra: http://chaghi.com.ar/blog/post/2004/11/27/magia_negra_con_el_regedit
+.. _magia negra: link://slug/magia_negra_con_el_regedit

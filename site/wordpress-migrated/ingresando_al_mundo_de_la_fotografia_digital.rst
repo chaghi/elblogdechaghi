@@ -47,16 +47,20 @@ histogramas, disparo contínuo, ... el único "feature" que
 extrañar o no) es la clásica salida de video compuesto, para conectarla
 a la TV.
 
+.. note::
+
+   La galería y enlaces que se mencionan acá ya no corren más.
+   Eventualmente los albums fueron subidos a Flickr.
+
 Durante el fin de semana estuve jugando bastante, y si bien no he pasado
-ninguna foto a papel aún, estoy conforme con los resultados. `Acabo de
-agregar un álbum`_\ con algunas fotos de ejemplo, sacadas a la mayor
+ninguna foto a papel aún, estoy conforme con los resultados. Acabo de
+agregar un álbum con algunas fotos de ejemplo, sacadas a la mayor
 resolución (cada foto pesa 1.5 Mb, así que ténganle paciencia al
 browser...)
 
 Nota: El software de la "galería de fotos" es una verdadera bosta. Si
 tienen problemas para ver las fotos, fíjense el "resource" que aparece
 al pasar por sobre la miniatura (ej., ".../1/41") y accedan mediante el
-link directo (ej. http://chaghi.com.ar/blog/gallery/1/1-41.jpg)
+link directo (ej. ``http://chaghi.com.ar/blog/gallery/1/1-41.jpg``)
 
 .. _Pentax Optio 30: http://www.pentaximaging.com/products/product_details?reqID=1016&subsection=optio
-.. _Acabo de agregar un álbum: http://www.chaghi.com.ar/blog/album/1/5

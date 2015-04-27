@@ -210,4 +210,4 @@ oficialmente laptop nueva :)
 
 .. _Studio 14: http://www1.la.dell.com/ar/es/domesticos/Port%C3%A1tiles/laptop-studio-1450/pd.aspx?refid=laptop-studio-1450&s=dhs&cs=ardhs1&~tab=designtab
 .. _Intel Core i3 350-M: http://ark.intel.com/Product.aspx?id=43529
-.. _una Dell 640m: http://chaghi.com.ar/blog/post/2006/12/21/buscando-laptop-iii
+.. _una Dell 640m: link://slug/buscando-laptop-iii

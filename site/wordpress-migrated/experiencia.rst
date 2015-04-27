@@ -23,5 +23,5 @@ buscarlo en `este post anterior`_, y `este otro`_.
 
 | Y hoy también es lunes.
 
-.. _este post anterior: http://chaghi.com.ar/blog/post/2005/07/25/lunes_sobrenaturales
-.. _este otro: http://www.chaghi.com.ar/blog/post/2005/07/04/scary
+.. _este post anterior: link://slug/lunes_sobrenaturales
+.. _este otro: link://slug/scary

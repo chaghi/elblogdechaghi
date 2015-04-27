@@ -51,7 +51,7 @@ no lo probé... se los dejo como tarea para el hogar) pero sospecho que
 la opción salvadora debe ser -X:ColorfulConsole, que para manejar el
 color debe usar otra librería para interactuar con la consola.
 
-Así que ahora tengo en mi .bash\_aliases lo siguiente:
+Así que ahora tengo en mi .bash_aliases lo siguiente:
 
 .. code:: bash
 
@@ -66,5 +66,5 @@ Bonus-track: Esas opciones son también útiles en Windows. 
 
  
 
-.. _este mini-proyecto: http://chaghi.com.ar/blog/post/2007/09/30/exoditus_en_python
+.. _este mini-proyecto: link://slug/exoditus_en_python
 .. _iPython: http://ipython.scipy.org/moin/About

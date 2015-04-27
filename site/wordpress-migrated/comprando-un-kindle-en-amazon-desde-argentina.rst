@@ -419,4 +419,4 @@ de los pocos servicios al cliente que **sí** funciona*, y muy bien.
 
 .. _términos y condiciones: http://www.amazon.com/gp/help/customer/display.html/ref=ox_oce_timex?_encoding=UTF8&nodeId=14309551&pop-up=1
 .. _International Shipping & AmazonGlobal: http://www.amazon.com/gp/help/customer/display.html/ref=kin3w_ddp_cp_agn?nodeId=596184#import
-.. _la preliquidación que me envío DHL: http://chaghi.com.ar/blog/?attachment_id=1384
+.. _la preliquidación que me envío DHL: /blog/wp-content/uploads/2013/02/preliquidacion-dhl.png

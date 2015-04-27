@@ -188,8 +188,8 @@ Fotos de la travesía, acá:
 http://www.flickr.com/photos/chaghi/sets/72157624474240677/
 
 .. _Hielo Azul Aventura: http://www.hieloazulaventura.com
-.. _otra vez de la puna a la selva: http://chaghi.com.ar/blog/post/2009/07/31/travesia_tilcara_calilegua
-.. _aquel viaje en pleno carnaval: http://chaghi.com.ar/blog/post/2007/03/04/carnavales-norte-os-2007
+.. _otra vez de la puna a la selva: link://slug/travesia_tilcara_calilegua
+.. _aquel viaje en pleno carnaval: link://slug/carnavales-norte-os-2007
 .. _La Banderita, el almacén de ramos generales que tenía mi abuelo paterno: http://familiadraghi.blogspot.com/2009/07/lugares-la-banderita.html
 
 .. |Esperando el locro...| image:: http://farm5.static.flickr.com/4149/4836335598_39f857791f_m.jpg

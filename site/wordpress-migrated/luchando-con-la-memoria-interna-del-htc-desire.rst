@@ -68,8 +68,8 @@ para cache, que obviamente sigue creciendo si lo dejo). CacheCleaner NG
 puede configurarse para iniciarse automáticamente y limpiar con cierta
 frecuencia, pero por ahora, lo estoy haciendo manualmente.
 
-ANR\_history.txt
-================
+ANR_history.txt
+===============
 
 Esto es un misterio. Intrigado por saber que otra cosa iba comiendo
 espacio sin parar, día a día, casi que hora a hora, sin prisa pero sin

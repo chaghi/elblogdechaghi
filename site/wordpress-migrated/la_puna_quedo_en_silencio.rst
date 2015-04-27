@@ -30,4 +30,4 @@ Humahuaca, y gracias por la música que nos dejás.
 
 .. _Ricardo Vilca: http://www.ricardovilca.com/
 .. _reseña del diario Perfil: http://www.perfil.com/contenidos/2007/06/19/noticia_0066.html
-.. _Tuve el privilegio de poder escucharlo en vivo: http://chaghi.com.ar/blog/post/2007/03/04/carnavales-norte-os-2007
+.. _Tuve el privilegio de poder escucharlo en vivo: link://slug/carnavales-norte-os-2007

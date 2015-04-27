@@ -70,4 +70,4 @@ En fin. Quien me ha visto y quien me ve.
 .. _MS Reporting Services: http://www.microsoft.com/sql/reporting/default.mspx
 .. _Crystal Reports: http://www.businessobjects.com/solutions/crystalreports/default.asp
 .. _JasperReports: http://jasperreports.sourceforge.net/
-.. _MS y su discurso de interoperabilidad: http://www.chaghi.com.ar/blog/post/2005/02/17/marchando_hacia_un_mundo_estandar
+.. _MS y su discurso de interoperabilidad: link://slug/marchando_hacia_un_mundo_estandar

@@ -54,4 +54,4 @@ esto. Es buenísimo.
  
 
 .. _Sion: http://www.sion.com/
-.. _cambiando algunas configuraciones en mi red: http://chaghi.com.ar/blog/post/2007/06/24/aplanando_mi_red_hogarenia
+.. _cambiando algunas configuraciones en mi red: link://slug/aplanando_mi_red_hogarenia

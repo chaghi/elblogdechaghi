@@ -41,5 +41,5 @@ para seguir practicando y aprendiendo.
 
  
 
-.. _como había adelantado: http://chaghi.com.ar/blog/post/2006/11/08/torneo-copa-kai-men
+.. _como había adelantado: link://slug/torneo-copa-kai-men
 .. _Tui Sou: http://www.centrosanti.com.ar/Tai_chi/Articulos/Tsou/tuisoua.htm

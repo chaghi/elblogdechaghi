@@ -29,7 +29,7 @@ preocupante: ¡Me ven dos veces por semana! ¿Será porque prácticamente no
 almorcé ningún día? Hoy, viernes, fue el primer día que me pude sentar
 tranquilo a disfrutar de un almuerzo "normal".
 
-El laburo esta semana, justo \_esta\_ semana, se complicó. Primero, el
+El laburo esta semana, justo *esta* semana, se complicó. Primero, el
 esfuerzo del "click" mental de dejar varias semanas de laburar
 prácticamente a full en .NET y volver a `eProjectManager`_ y ASP. Y
 después, varias mejoras para implementar en relativamente poco tiempo.
@@ -44,12 +44,12 @@ viernes a la tarde?
 Para completar el panorama, recibí una carta documento del banco con
 noticias no-muy-gratas, que me obligaron a tomar decisiones importantes
 y bastantes trascendentes para mi futuro en horas. Y si bien son
-\_muchas\_ las cosas que me estresan (si, tengo el estrés fácil!), la
+**muchas** las cosas que me estresan (si, tengo el estrés fácil!), la
 decisión bajo presión, sin tiempo y sin estar seguro de tener todos los
 elementos está en el Top 10 de mis fuentes de estrés. Compitiendo
 siempre por no menos que el segundo o tercer puesto.
 
-Y justo \_esta\_ semana, se concretó un proyecto de mis viejos, mi
+Y justo *esta* semana, se concretó un proyecto de mis viejos, mi
 abuelo, mis tíos y unos amigos de la familia, que requería también de mi
 tiempo (y parte de mis neuronas). Debería ser motivo de festejo. Pero
 mal que me pese, estos días solo pude verlo como un renglón más en mi
@@ -65,6 +65,6 @@ hechos, releyendo este post, no fue más que una semana atípica. Y pienso
 que el 80% del "problema" fue mi bocho. Ojalá lo recuerde la próxima
 semana atípica...
 
-.. _viaje a Córdoba: http://www.chaghi.com.ar/blog/post/2005/09/10/travesia_de_las_dos_cumbres
-.. _filtración en el dormitorio: http://www.chaghi.com.ar/blog/post/2005/09/12/humedad
+.. _viaje a Córdoba: link://slug/travesia_de_las_dos_cumbres
+.. _filtración en el dormitorio: link://slug/humedad
 .. _eProjectManager: http://www.emmsa.com.ar/projectmanager/definicion.html

@@ -64,7 +64,7 @@ practicar directamente con el autor :)
 
  
 
-.. _había comentado: http://chaghi.com.ar/blog/post/2007/03/26/Men-es...-ese-horror-c-mico
+.. _había comentado: link://slug/men-es-ese-horror-c-mico
 .. _Time's Eye: http://www.amazon.com/Times-Time-Odyssey-Arthur-Clarke/dp/034545247X/ref=sr_1_2/102-8205282-0595353?ie=UTF8&s=books&qid=1177333368&sr=1-2
 .. _Sunstorm: http://www.amazon.com/Sunstorm-Time-Odyssey-Arthur-Clarke/dp/0345452518/ref=sr_1_1/102-8205282-0595353?ie=UTF8&s=books&qid=1177333368&sr=1-1
 .. _Los hijos de Hurin: http://www.cuspide.com/isbn/9504916317

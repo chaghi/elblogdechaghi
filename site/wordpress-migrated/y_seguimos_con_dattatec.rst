@@ -79,7 +79,7 @@ aplicaciones existentes de sus clientes :(
 
 Por otro lado, esto teniendo un problema de permisos en el directorio::
 
-    /home/gechaghi/public\_html/blog/tmp/1
+    /home/gechaghi/public_html/blog/tmp/1
 
 Yo NO modifiqué permisos ni configuraciones de mi sitio en el día de
 ayer u hoy, y hasta ayer funcionaba, así que insisto en que esto se debe
@@ -91,7 +91,7 @@ pasando.
 Estos son ejemplos de links que no están andando (devuelven error 404)
 y eran funcionales hasta el día de ayer:::
 
-    http://chaghi.com.ar/blog/post/2006/03/25/windows\_vista\_innovacion
+    http://chaghi.com.ar/blog/post/2006/03/25/windows_vista_innovacion
     http://chaghi.com.ar/blog/category/software
 
 Soporte técnico, el 15/04 a las 10:11
@@ -103,7 +103,7 @@ El error que nos detalla en su ticket fué causado al utilizar Front
 Page para publicar y/o actualizar su sitio, debido a la gran cantidad de
 inconvenientes que posee este software, el cual cambia los permisos y
 propietarios de sus archivos y carpetas sin consultar (por ej
-``/home/gechaghi/public\_html/blog/tmp/1``); le sugerimos utilizar un
+``/home/gechaghi/public_html/blog/tmp/1``); le sugerimos utilizar un
 cliente ftp para subir sus archivos. (Cute o Nicoftp, por ejemplo).
 
 Por otra parte le comunicamos que el error que visualizó en su panel
@@ -129,14 +129,14 @@ Estimado usuario: Le informamos que el inconveniente respecto al blog
 ha sido generado al eliminar archivos de su sitio mediante FTP,
 adjuntamos log FTP:::
 
-    Mon Mar 6 20:07:58 2006 0 200.69.49.135 1508 /home/gechaghi/public\_html/blog/templates/chaghi/commentform.template b _ o r gechaghi ftp 0 * c
-    Mon Mar 6 20:10:26 2006 0 200.69.49.135 1547 /home/gechaghi/public\_html/blog/templates/chaghi/commentform.template b _ i r gechaghi ftp 0 * c
-    Tue Mar 7 15:23:52 2006 0 200.68.82.145 3437 /home/gechaghi/public\_html/blog/templates/chaghi/footer.template a _ o r gechaghi ftp 0 * c
-    Tue Mar 7 15:26:10 2006 0 200.68.82.145 3712 /home/gechaghi/public\_html/blog/templates/chaghi/footer.template a _ i r gechaghi ftp 0 * c
-    Sat Mar 11 17:56:36 2006 0 200.69.49.116 4091 /home/gechaghi/public\_html/blog/.htaccess b _ o r gechaghi ftp 0 * c
-    Tue Apr 11 22:25:38 2006 0 200.69.49.49 18230 /home/gechaghi/public\_html/blog/class/net/customrequestgenerator.class.php b _ o r gechaghi ftp 0 * c
-    Tue Apr 11 22:36:23 2006 0 200.69.49.49 1859 /home/gechaghi/public\_html/blog/templates/chaghi/postandcomments.template b _ o r gechaghi ftp 0 * c
-    Sat Apr 15 16:09:17 2006 0 201.250.96.4 4091 /home/gechaghi/public\_html/blog/.htaccess a _ o r gechaghi ftp 0 * c
+    Mon Mar 6 20:07:58 2006 0 200.69.49.135 1508 /home/gechaghi/public_html/blog/templates/chaghi/commentform.template b _ o r gechaghi ftp 0 * c
+    Mon Mar 6 20:10:26 2006 0 200.69.49.135 1547 /home/gechaghi/public_html/blog/templates/chaghi/commentform.template b _ i r gechaghi ftp 0 * c
+    Tue Mar 7 15:23:52 2006 0 200.68.82.145 3437 /home/gechaghi/public_html/blog/templates/chaghi/footer.template a _ o r gechaghi ftp 0 * c
+    Tue Mar 7 15:26:10 2006 0 200.68.82.145 3712 /home/gechaghi/public_html/blog/templates/chaghi/footer.template a _ i r gechaghi ftp 0 * c
+    Sat Mar 11 17:56:36 2006 0 200.69.49.116 4091 /home/gechaghi/public_html/blog/.htaccess b _ o r gechaghi ftp 0 * c
+    Tue Apr 11 22:25:38 2006 0 200.69.49.49 18230 /home/gechaghi/public_html/blog/class/net/customrequestgenerator.class.php b _ o r gechaghi ftp 0 * c
+    Tue Apr 11 22:36:23 2006 0 200.69.49.49 1859 /home/gechaghi/public_html/blog/templates/chaghi/postandcomments.template b _ o r gechaghi ftp 0 * c
+    Sat Apr 15 16:09:17 2006 0 201.250.96.4 4091 /home/gechaghi/public_html/blog/.htaccess a _ o r gechaghi ftp 0 * c
 
 Saludos cordiales.
 

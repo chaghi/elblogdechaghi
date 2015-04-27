@@ -77,7 +77,7 @@ antes en una bolsa mejor, soy un pelotudo. He dicho.
 
 .. _Hielo Azul: http://www.hieloazulaventura.com/
 .. _Eze: http://flickr.com/photos/erugiero/
-.. _mí cámara: http://chaghi.com.ar/blog/post/2004/12/20/ingresando_al_mundo_de_la_fotografia_digital
+.. _mí cámara: link://slug/ingresando_al_mundo_de_la_fotografia_digital
 .. _siguiendo este enlace: http://www.flickr.com/photos/chaghi/sets/72157601591526493/
 
 .. |IMGP2438.JPG| image:: http://farm2.static.flickr.com/1261/1194278428_0bc9675555_m.jpg

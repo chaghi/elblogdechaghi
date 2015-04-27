@@ -116,8 +116,8 @@ Google por todos vuestros consejos!!!
 
  
 
-.. _Capítulo I: http://chaghi.com.ar/blog/post/2006/12/10/Buscando-laptop
-.. _Capítulo II: http://chaghi.com.ar/blog/post/2006/12/14/Buscando-laptop-II
+.. _Capítulo I: link://slug/buscando-laptop
+.. _Capítulo II: link://slug/buscando-laptop-ii
 .. _Outlet-hp: http://www.outlet-hp.com.ar
 .. _Facu: http://www.taniquetil.com.ar/plog/
 

@@ -78,12 +78,12 @@ Fuente: `The Daily Roxette`_, como siempre :)
 
  
 
-.. _*Son of a Plumber*: http://chaghi.com.ar/blog/post/2005/09/12/nuevo_album_de_per_gessle_en_noviembre
-.. _*En händig man*: http://chaghi.com.ar/blog/post/2007/03/12/per-es-un-hombre-ingenioso
+.. _*Son of a Plumber*: link://slug/nuevo_album_de_per_gessle_en_noviembre
+.. _*En händig man*: link://slug/per-es-un-hombre-ingenioso
 .. _www.gessle.com: http://www.gessle.com
 .. _hay un steaming acá: http://boomp3.com/listen/c260j57fd_z/silly-really-radio-stream/
 .. _entrevista en Rix FM: http://boomp3.com/listen/c260b8ngg_l/per-gessle-rix-fm-full-interview
-.. _baladas en sueco de Marie Fredriksson: http://chaghi.com.ar/blog/post/2008/07/14/quien_entiende_a_emi_argentina
+.. _baladas en sueco de Marie Fredriksson: link://slug/quien_entiende_a_emi_argentina
 .. _New Per Gessle single "Silly Really": http://www.dailyroxette.com/node/18204
 .. _Per talks about "Party Crasher": http://www.dailyroxette.com/node/18214
 .. _Radio promos for the new Gessle single: http://www.dailyroxette.com/node/18238

@@ -72,4 +72,4 @@ Historia Violenta`_.
  
 
 .. _El Laberinto del Fauno: http://www.imdb.com/title/tt0457430/
-.. _Una Historia Violenta: http://chaghi.com.ar/blog/post/2005/12/03/una_historia_violenta
+.. _Una Historia Violenta: link://slug/una_historia_violenta

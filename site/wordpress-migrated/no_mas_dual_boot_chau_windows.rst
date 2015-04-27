@@ -108,6 +108,6 @@ comunidad.
 
  
 
-.. _estaba experimentando con herramientas de virtualización: http://chaghi.com.ar/blog/post/2007/05/23/mundo_virtual
+.. _estaba experimentando con herramientas de virtualización: link://slug/mundo_virtual
 .. _Vulcano: http://notebookoutlet.com.ar/
 .. _LVM: http://es.wikipedia.org/wiki/Logical_Volume_Manager

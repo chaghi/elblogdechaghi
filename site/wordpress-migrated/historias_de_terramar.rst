@@ -58,7 +58,7 @@ sólido. Por lo que leí hasta ahora, "vertiginosas emociones" está un
 poquito desubicado... pero bueno, es una contratapa, es marketing, ¿no?
 ;)
 
-.. _La Saga de Los Confines: http://chaghi.com.ar/blog/post/2005/10/03/la_saga_de_los_confines
+.. _La Saga de Los Confines: link://slug/la_saga_de_los_confines
 .. _ha escrito mucho: http://en.wikipedia.org/wiki/Ursula_K._Le_Guin
 .. _Terramar: http://en.wikipedia.org/wiki/Earthsea
 .. _página oficial: http://www.ursulakleguin.com/

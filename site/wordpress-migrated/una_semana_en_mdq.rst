@@ -179,4 +179,4 @@ capítulos.
 .. _el programa de TV: http://www.mdq.com/
 .. _calle Güemes: http://www.mardelplata.com/guemes/fotos.asp
 .. _Torreón del Monje: http://www.torreondelmonje.com/
-.. _para ir al cine: http://chaghi.com.ar/blog/post/2009/04/05/knowing
+.. _para ir al cine: link://slug/knowing

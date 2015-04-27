@@ -47,4 +47,4 @@ Les Luthiers, feliz cumple, y gracias por el buen humor.
 
  
 .. _Les Luthiers: http://www.lesluthiers.com
-.. _Cerati: http://chaghi.com.ar/blog/post/2007/03/11/cerati-gratis-en-bs.-as.
+.. _Cerati: link://slug/cerati-gratis-en-bs-as

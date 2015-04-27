@@ -50,5 +50,5 @@ diferente. Próxima candidata: `Batman, The Dark Knight`_.
 
 .. _U2 3D: http://www.imdb.com/title/tt0892375/
 .. _IMAX Theatre Showcase: http://www.imaxcenter.com.ar/
-.. _revivir el concierto de U2: http://chaghi.com.ar/blog/post/2006/03/03/u2_en_buenos_aires
+.. _revivir el concierto de U2: link://slug/u2_en_buenos_aires
 .. _Batman, The Dark Knight: http://www.imdb.com/title/tt0468569/

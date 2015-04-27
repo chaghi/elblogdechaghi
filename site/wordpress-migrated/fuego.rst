@@ -33,7 +33,7 @@ ese fenómeno en otro contexto. Lo cual me recuerda que aún tengo
 pendiente escribir algo mas sobre las enseñanzas que está dejando
 Firefox, no solo en el terreno del desarrollo de software.
 
-.. _Firefox fue descargado 1.000.000 de veces el día del debut: http://www.chaghi.com.ar/blog/post/2004/11/12/firefox_1000000_de_descargas_el_dia_del_debut
+.. _Firefox fue descargado 1.000.000 de veces el día del debut: link://slug/firefox_1000000_de_descargas_el_dia_del_debut
 .. _Firefox ha superado los 10.000.000 de descargas: http://www.spreadfirefox.com/?q=node/view/8538
 .. _puede leerse acá: http://www.taniquetil.com.ar/plog/post/1/17
 

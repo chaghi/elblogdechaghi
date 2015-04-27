@@ -62,4 +62,4 @@ tomando el pelo.
 
  
 
-.. _una de cal y otra de arena...: http://chaghi.com.ar/blog/post/2007/06/24/sion_una_buena
+.. _una de cal y otra de arena...: link://slug/sion_una_buena

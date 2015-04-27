@@ -43,11 +43,11 @@ película.
  
 
 .. _El fin de los tiempos: http://www.imdb.com/title/tt0949731/
-.. _Get Smart: http://chaghi.com.ar/blog/post/2008/07/04/superagente_86
+.. _Get Smart: link://slug/superagente_86
 .. _Shyamalan: http://www.imdb.com/name/nm0796117/
 .. _Sexto Sentido: http://www.imdb.com/title/tt0167404/
 .. _Señales: http://www.imdb.com/title/tt0286106/
 .. _El protegido: http://www.imdb.com/title/tt0217869/
 .. _La Aldea: http://www.imdb.com/title/tt0368447/
 .. _La dama del agua: http://www.imdb.com/title/tt0452637/
-.. _no me pareció una mala película: http://chaghi.com.ar/blog/post/2006/09/11/y_seguimos_con_el_cine
+.. _no me pareció una mala película: link://slug/y_seguimos_con_el_cine

@@ -9,9 +9,8 @@
 .. author: cHagHi
 .. from_wp: True
 
-(Esta historia está precedida por tres capítulos, `acá`_,
-`acá <http://chaghi.com.ar/blog/post/2006/12/14/Buscando-laptop-II>`__ y
-`acá <http://chaghi.com.ar/blog/post/2006/12/21/Buscando-laptop-III>`__)
+(Esta historia está precedida por tres capítulos, `I <link://slug/buscando-laptop>`_,
+`II <link://slug/buscando-laptop-ii>`_ y `III <link://slug/buscando-laptop-iii>`_)
 
 Cuando ya me había resignado a esperar hasta fin de mes, el martes a
 la mañana Dell me sorprendió con la entrega. Tempranito. Fueron
@@ -106,4 +105,3 @@ dentro de Ubuntu vía VMWare, o si achicar la partición de Windows a un
 mínimo (¿cuánto? Estoy entre 10 y 20 giga, pero aún no decido cuánto), y
 hacer dual boot.
 
-.. _acá: http://chaghi.com.ar/blog/post/2006/12/10/Buscando-laptop

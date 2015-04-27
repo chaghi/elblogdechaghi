@@ -44,4 +44,4 @@ ser "migrado", avise... y vemos que hacemos.
 
 That's all folks!
 
-.. _implementé un nuevo diseño: http://chaghi.com.ar/blog/post/2007/04/30/nuevo-dise-o
+.. _implementé un nuevo diseño: link://slug/nuevo-dise-o

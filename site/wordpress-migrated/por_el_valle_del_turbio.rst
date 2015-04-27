@@ -195,7 +195,7 @@ chiste interno...)
 
 .. _Gaia: http://www.hostelz.com/hostel/61431-Albergue-Gaia
 .. _Jauja: http://www.heladosjauja.com/
-.. _otra historia: http://chaghi.com.ar/blog/post/2008/01/21/fiaca_en_bariloche
+.. _otra historia: link://slug/fiaca_en_bariloche
 .. _acá: http://flickr.com/photos/chaghi/sets/72157603764014277/
 .. _fagot: http://es.wikipedia.org/wiki/Fagot
 

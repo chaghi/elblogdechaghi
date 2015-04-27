@@ -37,4 +37,4 @@ aunque la historia sea diferente. 
 
  
 
-.. _La Saga de los Confines: http://chaghi.com.ar/blog/post/2005/10/03/la_saga_de_los_confines
+.. _La Saga de los Confines: link://slug/la_saga_de_los_confines

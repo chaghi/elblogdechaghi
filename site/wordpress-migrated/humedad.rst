@@ -29,13 +29,13 @@ distribución. La calidad de las paredes hace de las suyas también... ]]
 Volviendo a la foto. No se si se aprecia, pero lo que ven, es humedad.
 Casi "pared mojada" podríamos decir. Empezó inocentemente, como una
 manchita hace tres semanas. Y hace tres semanas que persigo al
-administrador y al encargado para que me den bola y hagan \_algo\_.
+administrador y al encargado para que me den bola y hagan *algo*.
 Nada. El 80% de lo que ven, se produjo entre el sábado a la tarde y el
 domingo a la noche. Rápido. Muy rápido.
 
 Mal por la administración, que no da bola; mal por el encargado, que
 pone buena voluntad pero sabe tanto de plomería como yo. Recién ayer, y
-porque \*yo\* me ocupé, logré contactarme con la persona idónea que
+porque **yo** me ocupé, logré contactarme con la persona idónea que
 supuestamente resolverá el problema. Todavía tiene que venir a verlo. Yo
 sospecho de un caño roto, eso no parece humedad externa, y por sobre
 todo, no crece al ritmo de humedad externa.
