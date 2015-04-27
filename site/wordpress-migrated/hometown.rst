@@ -58,38 +58,47 @@ Mikael, y la letra está co-escrita por él y Roy Colegate. 
 
 Después de muuuuuucho tiempo, sras. y sres., con Uds...
 
-| **Hometown**
-| Going back to my hometown,
-| is turning my head around.
-| Years since I saw you,
-| God, will I know you?
-| Are you still a friend of mine?
-| Going back to my home town,
-| been such a long time.
-| Don't know what I'll find
-| going back to my home town.
-| I knew when I left you,
-| that we're not gonna talk for a while.
-| And God how I missed you
-| each and every day without your smile.
-| Still feel what you gave me
-| living far away on my own.
-| Yes, I always remember,
-| now I need to see which way the wind has blown I'm...
-| Going back to my home town...
-| I heard from and old friend,
-| that crime is a part of your life.
-| It broke my heart into peaces,
-| seem to cut right thru me like a knife
-| Here alone on the night train
-| heading for an answer to my soul
-| with a tear on my pillow,
-| there can only be one way to know...
-| That's why I'm...
-| Going back to my home town...
-| If you could change my tears into wine,
-| I'm coming back to you, hometown
-| like treading on sacred ground.
+  |       **Hometown**
+  |
+  | Going back to my hometown,
+  | is turning my head around.
+  | Years since I saw you,
+  | God, will I know you?
+  | Are you still a friend of mine?
+  |
+  | Going back to my home town,
+  | been such a long time.
+  | Don't know what I'll find
+  | going back to my home town.
+  |
+  | I knew when I left you,
+  | that we're not gonna talk for a while.
+  | And God how I missed you
+  | each and every day without your smile.
+  |
+  | Still feel what you gave me
+  | living far away on my own.
+  | Yes, I always remember,
+  | now I need to see which way the wind has blown I'm...
+  |
+  | Going back to my home town...
+  |
+  | I heard from and old friend,
+  | that crime is a part of your life.
+  | It broke my heart into peaces,
+  | seem to cut right thru me like a knife
+  |
+  | Here alone on the night train
+  | heading for an answer to my soul
+  | with a tear on my pillow,
+  | there can only be one way to know...
+  | That's why I'm...
+  |
+  | Going back to my home town...
+  |
+  | If you could change my tears into wine,
+  | I'm coming back to you, hometown
+  | like treading on sacred ground.
 
  
 
