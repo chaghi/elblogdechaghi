@@ -1,6 +1,6 @@
 .. title: El rejunte online de todo lo que deseo compartir...
 .. slug: index
-.. date: 2015-04-22 19:36:14 UTC-03:00
+.. date: 1970-01-01 00:00:00
 .. tags: 
 .. category: 
 .. link: 
