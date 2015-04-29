@@ -42,13 +42,13 @@ sobre sus experiencias en Suecia, siempre aparecen esos detalles o
 anécdotas que uno no conocía, así que hubo cosas nuevas en la historia.
 Y la gente en general se enganchó bastante, e hizo preguntas piolas. Y
 ver una "primer clase" para el público, me produjo un poco de
-nostalgia...
+nostalgia. 
 
-  | Jonas pratar i telefon
-  |
-  | Clara sover
-  | 
-  | ...
+     Jonas pratar i telefon
+
+     Clara sover
+
+     ...
 
 Y me quedó picando el bichito de "pucha, podría hacer un esfuerzo y
 acomodar mis horarios y ver si aunque sea de vez en cuando, retomo un

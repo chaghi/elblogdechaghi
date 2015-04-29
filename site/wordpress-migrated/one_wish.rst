@@ -9,12 +9,12 @@
 .. author: cHagHi
 .. from_wp: True
 
-| *If you had one wish, what would it be?
-  If you had one wish, would it be about me?
-  Just one wish, could it be about me?
-  You might make a wish for money or peace
-  You'd make a wish for cosmic relief
-  shade by the trees and green summer leaves*
+  | If you had one wish, what would it be?
+  | If you had one wish, would it be about me?
+  | Just one wish, could it be about me?
+  | You might make a wish for money or peace
+  | You'd make a wish for cosmic relief
+  | shade by the trees and green summer leaves
 
 jeje... "shade by the trees and green summer leaves". 100% Per Gessle.
 Bubblegum & Flowers on the Moon :)

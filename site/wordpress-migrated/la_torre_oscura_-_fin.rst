@@ -82,7 +82,7 @@ tren, subte, bondi, tardes de lluvia y noches insomnes.
 Que mejor que cerrar este post despidiéndome como lo haría Rolando,
 deseándoles a su manera...
 
-...\ *largos días y placenteras noches*.
+    ... *largos días y placenteras noches*.
 
 .. _finalmente pude conseguir los libros anteriores: link://slug/syriana_y_la_torre_oscura
 
