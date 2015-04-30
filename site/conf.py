@@ -547,12 +547,11 @@ INDEXES_STATIC = False  # False
 # FAVICONS contains (name, file, size) tuples.
 # Used for create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-FAVICONS = {
-        ("icon", "/favicon.ico", "16x16"),
-        ("icon", "/mjollnir-32.png", "32x32"),
-        ("icon", "/mjollnir-152.png", "152x152"),
-        ("icon", "/mjollnir-256.png", "256x256"),
-}
+FAVICONS = (
+        ("shortcut icon", "http://chaghi.com.ar/favicon.ico", "16x16 32x32 48x48"),
+        ("apple-touch-icon", "http://chaghi.com.ar/mjollnir-180.png", "180x180"),
+        ("icon", "http://chaghi.com.ar/mjollnir-192.png", "192x192"),
+)
 
 # Show only teasers in the index pages? Defaults to False.
 # INDEX_TEASERS = False
