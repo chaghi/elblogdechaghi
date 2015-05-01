@@ -129,7 +129,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "chaghi-yeti" # bootstrap3
+THEME = "chaghi" # bootstrap3
 
 # Below this point, everything is optional
 
