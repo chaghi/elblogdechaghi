@@ -150,6 +150,7 @@ TIMEZONE = "America/Argentina/Buenos_Aires"
 # Date format used to display post dates.
 # (str used by datetime.datetime.strftime)
 # DATE_FORMAT = '%Y-%m-%d %H:%M'
+DATE_FORMAT = '%B %d de %Y'
 
 # Date format used to display post dates, if local dates are used.
 # (str used by moment.js)
@@ -289,7 +290,8 @@ TAG_PATH = "tags"
 # TAGLIST_MINIMUM_POSTS number of posts or more with every tag. Every tag
 # page is still generated, linked from posts, and included in the sitemap.
 # However, more obscure tags can be hidden from the tag index page.
-# TAGLIST_MINIMUM_POSTS = 1
+# Default: 1
+TAGLIST_MINIMUM_POSTS = 3
 
 # Final locations are:
 # output / TRANSLATION[lang] / CATEGORY_PATH / index.html (list of categories)
@@ -897,7 +899,7 @@ USE_BUNDLES = True
 # past.  Useful especially if your post titles are in <h1> tags too, for
 # example.
 # (defaults to 1.)
-# DEMOTE_HEADERS = 1
+DEMOTE_HEADERS = 2
 
 # If you don’t like slugified file names ([a-z0-9] and a literal dash),
 # and would prefer to use all the characters your file system allows.
