@@ -129,7 +129,7 @@ NAVIGATION_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "chaghi" # bootstrap3
+THEME = "chaghi"
 
 # Below this point, everything is optional
 
@@ -140,7 +140,7 @@ THEME = "chaghi" # bootstrap3
 # (e.g. 'Europe/Zurich')
 # Also, if you want to use a different time zone in some of your posts,
 # you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
-TIMEZONE = "America/Argentina/Buenos_Aires"  # UTC
+TIMEZONE = "America/Argentina/Buenos_Aires"
 
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
@@ -268,7 +268,7 @@ WRITE_TAG_CLOUD = True
 # output / TRANSLATION[lang] / TAG_PATH / index.html (list of tags)
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag.xml (RSS feed for a tag)
-# TAG_PATH = "categories"
+# Default: "categories"
 TAG_PATH = "tags"
 
 # If TAG_PAGES_ARE_INDEXES is set to True, each tag's page will contain
@@ -296,12 +296,13 @@ TAG_PATH = "tags"
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.xml (RSS feed for a category)
 # CATEGORY_PATH = "categories"
-CATEGORY_PREFIX = ""  # cat_
+# CATEGORY_PREFIX = "cat_"
+CATEGORY_PREFIX = ""
 
 # If CATEGORY_PAGES_ARE_INDEXES is set to True, each category's page will contain
-# If CATEGORY_PAGES_ARE_INDEXES is set to True, each category's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
-CATEGORY_PAGES_ARE_INDEXES = True  # False
+# Default: False 
+CATEGORY_PAGES_ARE_INDEXES = True
 
 # Set descriptions for category pages to make them more interesting. The
 # default is no description. The value is used in the meta description
@@ -315,7 +316,8 @@ CATEGORY_PAGES_ARE_INDEXES = True  # False
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-INDEX_PATH = "blog"  # ""
+# Default: ""
+INDEX_PATH = "blog"
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -479,6 +481,7 @@ FILTERS = {
 # to be visible on the site. The format is a dictionary of {source:
 # relative destination}.
 #
+# Default: {'images': ''}
 IMAGE_FOLDERS = {'images': 'images'}
 # IMAGE_THUMBNAIL_SIZE = 400
 
@@ -507,7 +510,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # If False, index-1.html has the second-newest posts, index-2.html the third-newest,
 # and index-n.html the oldest posts. When this is active, old posts can be moved
 # to other index pages when new posts are added.
-INDEXES_STATIC = False  # False
+INDEXES_STATIC = False
 #
 # (translatable) If PRETTY_URLS is set to True, this setting will be used to create
 # more pretty URLs for index pages, such as page/2/index.html instead of index-2.html.
@@ -671,7 +674,8 @@ COMMENT_SYSTEM_ID = "elblogdechaghi"
 # This can be disabled on a per-page/post basis by adding
 #    .. pretty_url: False
 # to the metadata
-PRETTY_URLS = True  # False
+# Default: False
+PRETTY_URLS = True
 
 # If True, publish future dated posts right away instead of scheduling them.
 # Defaults to False.
@@ -766,22 +770,22 @@ RSS_LINK = """<link rel="alternate" type="application/rss+xml" title="RSS" href=
 # Or a DuckDuckGo search: https://duckduckgo.com/search_box.html
 # Default is no search form.
 # (translatable)
-SEARCH_FORM = """
-<ul class="nav navbar-nav"><li>
-<!-- Custom search -->
-<form method="get" id="search" action="//duckduckgo.com/"
- class="navbar-form">
-<input type="hidden" name="sites" value="%s"/>
-<input type="hidden" name="k8" value="#444444"/>
-<input type="hidden" name="k9" value="#D51920"/>
-<input type="hidden" name="kt" value="h"/>
-<input type="text" name="q" maxlength="255"
- placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
-<input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
-</form>
-<!-- End of custom search -->
-</li></ul>
-""" % SITE_URL
+# SEARCH_FORM = """
+# <ul class="nav navbar-nav"><li>
+# <!-- Custom search -->
+# <form method="get" id="search" action="//duckduckgo.com/"
+#  class="navbar-form">
+# <input type="hidden" name="sites" value="%s"/>
+# <input type="hidden" name="k8" value="#444444"/>
+# <input type="hidden" name="k9" value="#D51920"/>
+# <input type="hidden" name="kt" value="h"/>
+# <input type="text" name="q" maxlength="255"
+#  placeholder="Search&hellip;" class="span2" style="margin-top: 4px;"/>
+# <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
+# </form>
+# <!-- End of custom search -->
+# </li></ul>
+# """ % SITE_URL
 
 # Use content distribution networks for jQuery, twitter-bootstrap css and js,
 # and html5shiv (for older versions of Internet Explorer)
@@ -789,13 +793,14 @@ SEARCH_FORM = """
 # Bootstrap is served from BootstrapCDN (provided by MaxCDN)
 # Set this to False if you want to host your site without requiring access to
 # external resources.
+# Default: False
 USE_CDN = True
 
 # Check for USE_CDN compatibility.
 # If you are using custom themes, have configured the CSS properly and are
 # receiving warnings about incompatibility but believe they are incorrect, you
 # can set this to False.
-USE_CDN_WARNING = False
+# USE_CDN_WARNING = True
 
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
@@ -865,6 +870,7 @@ TWITTER_CARD = {
 }
 
 # If webassets is installed, bundle JS and CSS to make site loading faster
+# Default: False
 USE_BUNDLES = True
 
 # Plugins you don't want to use. Be careful :-)
