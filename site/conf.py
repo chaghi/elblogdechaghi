@@ -733,11 +733,14 @@ PRETTY_URLS = True
 # PANDOC_OPTIONS = []
 
 # Social buttons (translatable)
-SOCIAL_BUTTONS_CODE = """
-<!-- Social buttons -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-553cf8cd46f3a8a1" async="async"></script>
-<!-- End of social buttons -->
-"""
+SOCIAL_BUTTONS_CODE = ""
+
+# AddThis: slooooooow as fuck!
+# SOCIAL_BUTTONS_CODE = """
+# <!-- Social buttons -->
+# <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-553cf8cd46f3a8a1" async="async"></script>
+# <!-- End of social buttons -->
+# """
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
