@@ -810,7 +810,11 @@ USE_CDN = True
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-EXTRA_HEAD_DATA = """<link rel="me" type="text/html" href="http://www.google.com/profiles/114907104723447996177"/>"""
+EXTRA_HEAD_DATA = """
+<link rel="me" type="text/html" href="http://www.google.com/profiles/114907104723447996177"/>
+<!-- Custom Fonts -->
+<link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css"></link>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css"></link>"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
