@@ -209,6 +209,7 @@ POSTS = (
 PAGES = (
             ("pages/*.rst", "", "story.tmpl"),
             ("pages/*.md", "", "story.tmpl"),
+            ("error-pages/*.rst", "", "story.tmpl"),
         )
 
 # One or more folders containing files to be copied as-is into the output.
