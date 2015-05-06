@@ -11,6 +11,7 @@
 
 .. figure:: http://duckduckgo.com/assets/logo_homepage.normal.v101.png
    :target: http://duckduckgo.com/
+   :class: islink
    :alt: DuckDuckGo logo
    :align: left
 

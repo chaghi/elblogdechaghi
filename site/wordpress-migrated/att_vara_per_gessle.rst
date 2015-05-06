@@ -11,6 +11,7 @@
 
 .. image:: http://farm3.static.flickr.com/2085/2050635753_57258c1b1c_m.jpg
    :target: http://www.flickr.com/photos/chaghi/2050635753/
+   :class: islink
    :alt: IMGP2646
    :align: left
 
@@ -40,6 +41,7 @@ El libro está en sueco, y me lo compré básicamente por 3 razones:
 
 .. image:: http://farm3.static.flickr.com/2277/2050635757_962b87c196_m.jpg
    :target: http://www.flickr.com/photos/chaghi/2050635757/
+   :class: islink
    :alt: IMGP2648
    :align: right
   

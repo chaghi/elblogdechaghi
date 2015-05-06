@@ -11,6 +11,7 @@
 
 .. figure:: http://farm7.static.flickr.com/6202/6043652347_241bfef35f.jpg
    :target: http://www.flickr.com/photos/reiven/6043652347/
+   :class: islink
    :alt: democracia by reiven
    :align: center
 

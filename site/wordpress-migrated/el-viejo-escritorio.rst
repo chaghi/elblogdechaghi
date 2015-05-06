@@ -11,6 +11,7 @@
 
 .. figure:: https://farm8.staticflickr.com/7156/6614709089_b46d18c78b.jpg
    :target: https://www.flickr.com/photos/chaghi/6614709089 
+   :class: islink
    :alt: El viejo escritorio
    :align: center
 

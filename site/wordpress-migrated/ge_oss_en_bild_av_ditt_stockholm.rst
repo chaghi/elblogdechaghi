@@ -24,6 +24,7 @@ Saca una foto con tu celular o cámara digital y danos tu Estocolmo.*\ "
 
 .. figure:: http://static.flickr.com/76/159534904_00f2e608d7.jpg
    :target: http://www.flickr.com/photos/chaghi/159534904/
+   :class: islink
    :alt: Mi Estocolmo
    :align: center
 

@@ -18,6 +18,7 @@ Bueno, gracias a Google, y a Pablo Zelaya (nuestro guí­a por parte de
 
 .. figure:: http://farm1.static.flickr.com/188/456884446_2c336a333b.jpg
    :target: http://www.flickr.com/photos/chaghi/456884446/
+   :class: islink
    :alt: Mapa 1ra etapa
    :align: center
 

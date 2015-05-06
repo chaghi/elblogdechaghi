@@ -11,6 +11,7 @@
 
 .. figure:: https://farm8.staticflickr.com/7007/6597707783_f99d3c9eda.jpg
    :target: https://www.flickr.com/photos/chaghi/6597707783
+   :class: islink
    :alt: Mi GorillaPod
    :align: center
 

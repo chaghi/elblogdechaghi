@@ -11,6 +11,7 @@
 
 .. figure:: https://farm1.staticflickr.com/176/428041211_009f451d70_o.jpg
    :target: https://www.flickr.com/photos/arenamontanus/428041211/
+   :class: islink
    :alt: Restart, human!
    :align: right
 

@@ -15,6 +15,7 @@ contémosla, total...)
 
 .. figure:: http://farm3.static.flickr.com/2261/1786636520_bba47eaf19_m.jpg
    :target: http://www.flickr.com/photos/mtlin/1786636520/
+   :class: islink
    :alt: SMS
    :align: right
 

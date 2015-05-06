@@ -11,6 +11,7 @@
 
 .. figure:: https://farm7.staticflickr.com/6129/5917910196_89179236f4.jpg
    :target: https://www.flickr.com/photos/photosingreen/5917910196
+   :class: islink
    :alt: Lord of the Rings love
    :align: left
 

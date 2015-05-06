@@ -42,6 +42,7 @@ maravillosa historia.
 
 .. figure:: http://farm4.static.flickr.com/3346/3509065476_28da7c07d3.jpg
    :target: http://www.flickr.com/photos/chaghi/3509065476/
+   :class: islink
    :alt: Dedicatoria de Liliana Bodoc
    :align: center
 

@@ -11,6 +11,7 @@
 
 .. figure:: https://farm1.staticflickr.com/212/487402614_40e7f88865.jpg
    :target: http://www.flickr.com/photos/chaghi/487402614/
+   :class: islink
    :alt: Mamá
    :align: center
 

@@ -11,6 +11,7 @@
 
 .. figure:: http://farm4.static.flickr.com/3521/3959050760_5f3a597ebb.jpg
    :target: http://www.flickr.com/photos/lucas_82/3959050760/
+   :class: islink
    :alt: NH Gran Hotel Provincial
    :align: center
 

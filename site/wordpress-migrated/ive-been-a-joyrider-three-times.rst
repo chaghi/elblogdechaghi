@@ -72,6 +72,7 @@ por el planeta. Damn...
 
 .. image:: http://farm6.static.flickr.com/5224/5604026824_8cbafc2eee.jpg
    :target: http://www.flickr.com/photos/chaghi/5604026824/
+   :class: islink
    :alt: Marie y Per
    :align: center
 
@@ -87,6 +88,7 @@ más tranqui, con posibilidad de sacar fotos y grabar algunos videitos.
 
 .. image:: http://farm6.static.flickr.com/5146/5604023554_cc8dcd7363.jpg
    :target: http://www.flickr.com/photos/chaghi/5604023554/
+   :class: islink
    :alt: Roxette
    :align: center
 
@@ -122,6 +124,7 @@ escenario.
 
 .. image:: http://farm6.static.flickr.com/5143/5603420203_fb88b8f534.jpg
    :target: http://www.flickr.com/photos/chaghi/5603420203/
+   :class: islink
    :alt: Roxette
    :align: center
 

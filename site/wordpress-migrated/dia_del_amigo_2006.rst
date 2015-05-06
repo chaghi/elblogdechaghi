@@ -19,6 +19,7 @@ vez los testigos cuentan que Vane cocinó como una burra, y preparó una
 cena de puta madre.
 
 .. image:: http://static.flickr.com/71/196279356_a63edfdd20_m.jpg
+   :class: islink
    :alt: Vane, la cocinera
    :align: right
    
@@ -37,6 +38,7 @@ encanta el estilo de muebles, todo con una onda bastante minimalista y
 "orientalosa" :)
 
 .. image:: http://static.flickr.com/67/196273939_c936ae7f1e_m.jpg
+   :class: islink
    :alt: Luca y Pablo
    :align: left
 

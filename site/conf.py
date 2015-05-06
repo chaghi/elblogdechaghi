@@ -131,7 +131,9 @@ NAVIGATION_LINKS = {
 # Name of the theme to use.
 THEME = "chaghi"
 
+##############################################
 # Below this point, everything is optional
+##############################################
 
 # Post's dates are considered in UTC by default, if you want to use
 # another time zone, please set TIMEZONE to match. Check the available
@@ -209,7 +211,10 @@ POSTS = (
 PAGES = (
             ("pages/*.rst", "", "story.tmpl"),
             ("pages/*.md", "", "story.tmpl"),
-            ("error-pages/*.rst", "", "story.tmpl"),
+# We enable this just when we need to update the error pages.
+# Then edit the html output to make all links absolute, and move it
+# to the files folder (so the html gets copied to the site root).
+#            ("error-pages/*.rst", "", "story.tmpl"),
         )
 
 # One or more folders containing files to be copied as-is into the output.
@@ -287,6 +292,12 @@ TAG_PATH = "tags"
 #    },
 #}
 
+
+# If you do not want to display a tag publicly, you can mark it as hidden.
+# The tag will not be displayed on the tag list page, the tag cloud and posts.
+# Tag pages will still be generated.
+HIDDEN_TAGS = ['mathjax']
+
 # Only include tags on the tag list/overview page if there are at least
 # TAGLIST_MINIMUM_POSTS number of posts or more with every tag. Every tag
 # page is still generated, linked from posts, and included in the sitemap.
@@ -316,6 +327,11 @@ CATEGORY_PAGES_ARE_INDEXES = True
 #        "open source": "My contributions to my many, varied, ever-changing, and eternal libre software projects."
 #    },
 #}
+
+# If you do not want to display a category publicly, you can mark it as hidden.
+# The category will not be displayed on the category list page.
+# Category pages will still be generated.
+HIDDEN_CATEGORIES = []
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
@@ -436,7 +452,7 @@ FILTERS = {
 # side optimization for very high traffic sites or low memory servers.
 # GZIP_FILES = False
 # File extensions that will be compressed
-# GZIP_EXTENSIONS = ('.txt', '.htm', '.html', '.css', '.js', '.json', '.xml')
+# GZIP_EXTENSIONS = ('.txt', '.htm', '.html', '.css', '.js', '.json', '.atom', '.xml')
 # Use an external gzip command? None means no.
 # Example: GZIP_COMMAND = "pigz -k {filename}"
 # GZIP_COMMAND = None
@@ -478,13 +494,12 @@ FILTERS = {
 # If set to False, it will sort by filename instead. Defaults to True
 # GALLERY_SORT_BY_DATE = True
 #
-# Folders containing images to be used in normal posts or
-# pages. Images will be scaled down according to IMAGE_THUMBNAIL_SIZE
-# and MAX_IMAGE_SIZE options, but will have to be referenced manually
-# to be visible on the site. The format is a dictionary of {source:
-# relative destination}.
-#
-# Default: {'images': ''}
+# Folders containing images to be used in normal posts or pages. Images will be
+# scaled down according to IMAGE_THUMBNAIL_SIZE and MAX_IMAGE_SIZE options, but
+# will have to be referenced manually to be visible on the site
+# (the thumbnail has ``.thumbnail`` added before the file extension).
+# The format is a dictionary of {source: relative destination}.
+
 IMAGE_FOLDERS = {'images': 'images'}
 # IMAGE_THUMBNAIL_SIZE = 400
 
@@ -551,7 +566,7 @@ INDEXES_STATIC = False
 # You can also use: page/concave/linear/none/default
 
 # FAVICONS contains (name, file, size) tuples.
-# Used for create favicon link like this:
+# Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
 FAVICONS = (
         ("shortcut icon", "http://chaghi.com.ar/favicon.ico", "16x16 32x32 48x48"),
@@ -579,10 +594,14 @@ INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
 # 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
 RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
-# Append a URL query to the RSS_READ_MORE_LINK and the //rss/item/link in
-# RSS feeds. Minimum example for Piwik "pk_campaign=rss" and Google Analytics
-# "utm_source=rss&utm_medium=rss&utm_campaign=rss". Advanced option used for
-# traffic source tracking.
+# Append a URL query to the RSS_READ_MORE_LINK in Atom and RSS feeds. Advanced
+# option used for traffic source tracking.
+# Minimum example for use with Piwik: "pk_campaign=feed"
+# The following tags exist and are replaced for you:
+# {feedRelUri}                  A relative link to the feed.
+# {feedFormat}                  The name of the syndication format.
+# Example using replacement for use with Google Analytics:
+# "utm_source={feedRelUri}&utm_medium=nikola_feed&utm_campaign={feedFormat}_feed"
 RSS_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
@@ -760,12 +779,21 @@ SOCIAL_BUTTONS_CODE = ""
 # links to it.  Set this to False to disable everything RSS-related.
 # GENERATE_RSS = True
 
+# By default, Nikola does not generates Atom files for indexes and links to
+# them. Generate Atom for tags by setting TAG_PAGES_ARE_INDEXES to True.
+# Atom feeds are built based on INDEX_DISPLAY_POST_COUNT and not FEED_LENGTH
+# Switch between plain-text summaries and full HTML content using the
+# RSS_TEASER option. RSS_LINKS_APPEND_QUERY is also respected. Atom feeds
+# are generated even for old indexes and have pagination link relations
+# between each other. Old Atom feeds with no changes are marked as archived.
+# GENERATE_ATOM = False
+
 # RSS_LINK is a HTML fragment to link the RSS or Atom feeds. If set to None,
 # the base.tmpl will use the feed Nikola generates. However, you may want to
 # change it for a FeedBurner feed or something else.
 RSS_LINK = """<link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/ElBlogDeChaghi">"""
 
-# Show only teasers in the RSS feed? Default to True
+# Show only teasers in the RSS and Atom feeds? Default to True
 # RSS_TEASERS = True
 
 # Strip HTML in the RSS feed? Default to False
@@ -776,11 +804,15 @@ RSS_LINK = """<link rel="alternate" type="application/rss+xml" title="RSS" href=
 # Or a DuckDuckGo search: https://duckduckgo.com/search_box.html
 # Default is no search form.
 # (translatable)
+# SEARCH_FORM = ""
+#
+# This search form works for any site and looks good in the "site" theme where
+# it appears on the navigation bar:
+#
 # SEARCH_FORM = """
-# <ul class="nav navbar-nav"><li>
 # <!-- Custom search -->
 # <form method="get" id="search" action="//duckduckgo.com/"
-#  class="navbar-form">
+#  class="navbar-form pull-left">
 # <input type="hidden" name="sites" value="%s"/>
 # <input type="hidden" name="k8" value="#444444"/>
 # <input type="hidden" name="k9" value="#D51920"/>
@@ -790,8 +822,17 @@ RSS_LINK = """<link rel="alternate" type="application/rss+xml" title="RSS" href=
 # <input type="submit" value="DuckDuckGo Search" style="visibility: hidden;" />
 # </form>
 # <!-- End of custom search -->
-# </li></ul>
 # """ % SITE_URL
+#
+# If you prefer a Google search form, here's an example that should just work:
+# SEARCH_FORM = """
+# <!-- Custom search with Google-->
+# <form id="search" action="//www.google.com/search" method="get" class="navbar-form pull-left">
+# <input type="hidden" name="q" value="site:%s" />
+# <input type="text" name="q" maxlength="255" results="0" placeholder="Search"/>
+# </form>
+# <!-- End of custom search -->
+#""" % SITE_URL
 
 # Use content distribution networks for jQuery, twitter-bootstrap css and js,
 # and html5shiv (for older versions of Internet Explorer)

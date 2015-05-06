@@ -12,6 +12,7 @@
 
 .. image:: http://farm4.static.flickr.com/3288/2718087468_881ced48d4_m.jpg
    :target: http://www.flickr.com/photos/vibrantspirit/2718087468/
+   :class: islink
    :align: right
 ..
 

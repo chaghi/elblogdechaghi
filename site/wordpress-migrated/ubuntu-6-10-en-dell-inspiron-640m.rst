@@ -163,6 +163,7 @@ nada.
 
 .. figure:: http://farm1.static.flickr.com/154/363692900_2282fa52f8.jpg
    :target: http://farm1.static.flickr.com/154/363692900_2282fa52f8_o.png
+   :class: islink
    :alt: Ubuntu 6.10 en Dell Inspiron 640m
    :align: center
 

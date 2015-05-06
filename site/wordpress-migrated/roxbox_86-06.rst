@@ -10,6 +10,7 @@
 .. from_wp: True
 
 .. image:: http://static.flickr.com/114/280285170_64a8c3e406_m.jpg
+   :class: islink
    :alt: RoxBox 1
    :align: left
 
@@ -24,6 +25,7 @@ nunca había escuchado, otras que tenía en PÉSIMA calidad), demos, y los
 dos temas nuevos: One Wish y Reveal.
 
 .. image:: http://static.flickr.com/121/280285171_4395f4bf1d_m.jpg
+   :class: islink
    :alt: RoxBox 2
    :align: right
 

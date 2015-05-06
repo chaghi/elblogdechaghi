@@ -49,16 +49,12 @@ G. Wells... lo lógico al escuchar la radio sería pensar que los
 marcianos nos estaban invadiendo y matando como moscas. Debió haber
 sido... aterrador.
 
-Si les interesa escuchar la transmisión, pídanmela, o intenten bajarla.
-El link eDonkey (para usar con eMule o compatibles) es:
+Si les interesa escuchar la transmisión, la pueden escuchar acá:
 
-`Audio Book - Orson Welles - War Of The Worlds, Original, Uncut.mp3`_
-
-Son 50Mb, y dura aproximadamente 1 hora.
+.. youtube:: ZPG7a2vZRV0
 
 .. _La Guerra de los Mundos: link://slug/la_guerra_de_los_mundos
 .. _comentario: link://slug/la_guerra_de_los_mundos#comments
 .. _blogger tucumano: http://www.tucumanga.com/
 .. _y escribió sobre ella: http://www.tucumanga.com/?p=35
 .. _que encontré acá: http://members.aol.com/jeff1070/wotw.html
-.. _Audio Book - Orson Welles - War Of The Worlds, Original, Uncut.mp3: //%7Cfile%7CAudio%20Book%20-%20Orson%20Welles%20-%20War%20Of%20The%20Worlds,%20Original,%20Uncut.mp3%7C54878208%7CB7E6517C258F0062832629718E91FFBC%7C/

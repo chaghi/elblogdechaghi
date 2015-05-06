@@ -17,6 +17,7 @@ no voy a tener que volver a por el otro en unos meses... pero depende.
 
 .. image:: http://farm1.static.flickr.com/33/47558324_72a19e2885_m.jpg
    :target: http://www.flickr.com/photos/clearlyambiguous/47558324/
+   :class: islink
    :alt: What Time Is It?
    :align: left
 

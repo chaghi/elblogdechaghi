@@ -11,6 +11,7 @@
 
 .. figure:: https://farm8.staticflickr.com/7065/7004740573_664010b077.jpg
    :target: https://www.flickr.com/photos/chaghi/7004740573
+   :class: islink
    :alt: Lagartija
    :align: center
 

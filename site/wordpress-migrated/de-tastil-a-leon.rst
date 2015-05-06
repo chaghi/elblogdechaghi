@@ -15,6 +15,7 @@ nunca.
 
 .. figure:: https://farm3.staticflickr.com/2928/14840811013_5756ba3ca7_n.jpg
    :target: https://www.flickr.com/photos/chaghi/14840811013/
+   :class: islink
    :alt: capilla
    :align: left
 
@@ -48,6 +49,7 @@ haya sido posible.
 
 .. image:: https://farm4.staticflickr.com/3906/14633570650_5394847872.jpg
    :target: https://www.flickr.com/photos/chaghi/14633570650/
+   :class: islink
    :align: center
 
 Me llevo otro poquito de NOA, y me voy contento.

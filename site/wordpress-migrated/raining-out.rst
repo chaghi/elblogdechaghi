@@ -11,6 +11,7 @@
 
 .. figure:: http://farm4.static.flickr.com/3203/3051786557_bc5ee7265f.jpg
    :target: http://www.flickr.com/photos/americanvirus/3051786557/
+   :class: islink
    :alt: Raining Out.
    :align: center
 

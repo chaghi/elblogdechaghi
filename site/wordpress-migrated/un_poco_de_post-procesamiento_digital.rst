@@ -78,6 +78,7 @@ Esta es una foto que tiene aplicadas estas dos técnicas:
 
 .. figure:: http://farm5.static.flickr.com/4052/4383751450_c31881f857.jpg
    :target: http://www.flickr.com/photos/chaghi/4383751450/
+   :class: islink
    :alt: Horses
    :align: center
 
@@ -111,6 +112,7 @@ resultado:
 
 .. figure:: http://farm3.static.flickr.com/2719/4383748992_e9f9f42c16.jpg
    :target: http://www.flickr.com/photos/chaghi/4383748992/
+   :class: islink
    :alt: Lonely notro
    :align: center
 
