@@ -611,7 +611,7 @@ Excepto donde se indique lo contrario, el contenido está publicado bajo licenci
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '&copy; 2004-{date} {author} &mdash; Funciona con <a href="http://getnikola.com" rel="nofollow">Nikola</a><p>{license}</p>'
+CONTENT_FOOTER = '&copy; 2004-{date} {author} &mdash; Funciona con <a href="http://getnikola.com" rel="nofollow">Nikola</a><br />{license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will

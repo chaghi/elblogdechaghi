@@ -55,7 +55,7 @@ ${comments.comment_link_script()}
 <%block name="sourcelink">
 % if show_sourcelink:
     <li>
-    <a href="${post.source_link()}" id="sourcelink">${messages("Source")}</a>
+    <a href="${post.source_link()}" id="sourcelink"><small>${messages("Source")}</small></a>
     </li>
 % endif
 </%block>
