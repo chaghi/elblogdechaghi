@@ -401,6 +401,12 @@ REDIRECTIONS = []
 #         "rsync -rav --delete output/ joe@my.site:/srv/www/site",
 #     ]
 # }
+DEPLOY_COMMANDS = {
+        'default': [
+            'rsync -rav --delete output/ mariano@arya.chaghi.com.ar:/var/www/elblogdechaghi',
+            'rdiff-backup --terminal-verbosity=3 output ~/bak/elblogdechaghi/snapshot',
+            ],
+        }
 
 # For user.github.io OR organization.github.io pages, the DEPLOY branch
 # MUST be 'master', and 'gh-pages' for other repositories.
