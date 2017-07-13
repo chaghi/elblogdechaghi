@@ -39,11 +39,11 @@ Fíjense, si no, a modo de ejemplo, que mal que lo pasan:
 
 .. _se fueron a vivir al sur: link://slug/festejo_y_despedida
 
-.. |Papá Pablo, Santi y mamá Denise| image:: http://static.flickr.com/43/104175283_d5a9e168b4_o.jpg
-   :target: http://www.flickr.com/photos/chaghi/104175283/
-.. |Santi I| image:: http://static.flickr.com/43/104175284_b803625f60_o.jpg
-   :target: http://www.flickr.com/photos/chaghi/104175284/
-.. |Santi II| image:: http://static.flickr.com/39/104175285_47729bbf65_o.jpg
-   :target: http://www.flickr.com/photos/chaghi/104175285/
-.. |Denise y Santi| image:: http://static.flickr.com/41/104175286_bdfc0ee7f5_o.jpg
-   :target: http://www.flickr.com/photos/chaghi/104175286/
+.. |Papá Pablo, Santi y mamá Denise| image:: https://static.flickr.com/43/104175283_d5a9e168b4_o.jpg
+   :target: https://www.flickr.com/photos/chaghi/104175283/
+.. |Santi I| image:: https://static.flickr.com/43/104175284_b803625f60_o.jpg
+   :target: https://www.flickr.com/photos/chaghi/104175284/
+.. |Santi II| image:: https://static.flickr.com/39/104175285_47729bbf65_o.jpg
+   :target: https://www.flickr.com/photos/chaghi/104175285/
+.. |Denise y Santi| image:: https://static.flickr.com/41/104175286_bdfc0ee7f5_o.jpg
+   :target: https://www.flickr.com/photos/chaghi/104175286/

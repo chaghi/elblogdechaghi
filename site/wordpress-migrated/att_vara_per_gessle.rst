@@ -9,8 +9,8 @@
 .. author: cHagHi
 .. from_wp: True
 
-.. image:: http://farm3.static.flickr.com/2085/2050635753_57258c1b1c_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2050635753/
+.. image:: https://farm3.static.flickr.com/2085/2050635753_57258c1b1c_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2050635753/
    :class: islink
    :alt: IMGP2646
    :align: left
@@ -39,8 +39,8 @@ El libro está en sueco, y me lo compré básicamente por 3 razones:
    medio olvidada, el conocer el tema que uno está leyendo ayuda
    muchísimo.
 
-.. image:: http://farm3.static.flickr.com/2277/2050635757_962b87c196_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2050635757/
+.. image:: https://farm3.static.flickr.com/2277/2050635757_962b87c196_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2050635757/
    :class: islink
    :alt: IMGP2648
    :align: right
@@ -81,5 +81,5 @@ Algunas fotos más del chiche, `acá`_. 
    esfuerzo por NOparecerse al personaje de la empleada pública de
    Gasalla... podríanponerse media pila. Creo. Estaría bueno. En fin
 
-.. _acá: http://www.flickr.com/photos/chaghi/archives/date-posted/2007/11/20/detail/
+.. _acá: https://www.flickr.com/photos/chaghi/archives/date-posted/2007/11/20/detail/
 .. _como diría Darío: http://kblok.blogspot.com/2007/07/le-hice-la-cruz-introduccin.html

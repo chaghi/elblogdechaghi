@@ -5,7 +5,7 @@
 .. category: 
 .. link: 
 .. description: Que cosa la música, como cambia la forma de percibirla con los años, la experiencia, el estado de ánimo, el clima, etc.
-.. previewimage: http://chaghi.com.ar/images/quebrado.jpg
+.. previewimage: https://chaghi.com.ar/images/quebrado.jpg
 .. type: text
 .. author: cHagHi
 

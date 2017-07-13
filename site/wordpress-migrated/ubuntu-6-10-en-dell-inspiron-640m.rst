@@ -161,8 +161,8 @@ laburando al 50%, el equipo trabaja re-silencioso (casi nunca se
 encienden los ventiladores), y apenas tibio. No calienta prácticamente
 nada.
 
-.. figure:: http://farm1.static.flickr.com/154/363692900_2282fa52f8.jpg
-   :target: http://farm1.static.flickr.com/154/363692900_2282fa52f8_o.png
+.. figure:: https://farm1.static.flickr.com/154/363692900_2282fa52f8.jpg
+   :target: https://farm1.static.flickr.com/154/363692900_2282fa52f8_o.png
    :class: islink
    :alt: Ubuntu 6.10 en Dell Inspiron 640m
    :align: center

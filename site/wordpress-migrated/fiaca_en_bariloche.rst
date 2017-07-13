@@ -55,4 +55,4 @@ Fotos, `acá`_. 
 
 .. _emociones de la semana anterior: link://slug/por_el_valle_del_turbio
 .. _Jauja: http://www.heladosjauja.com/
-.. _acá: http://www.flickr.com/photos/chaghi/sets/72157603763102718/
+.. _acá: https://www.flickr.com/photos/chaghi/sets/72157603763102718/

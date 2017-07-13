@@ -76,6 +76,6 @@ están actualizados, y las fotos pueden verse en la resolución original
 Flickr).
 
 .. _tener una cámara digital: link://slug/ingresando_al_mundo_de_la_fotografia_digital
-.. _Lolog/Laguna Verde '05: http://www.flickr.com/photos/chaghi/sets/72157600658392456/
-.. _Lacar/Lolog '05: http://www.flickr.com/photos/chaghi/sets/72157600658366240/
+.. _Lolog/Laguna Verde '05: https://www.flickr.com/photos/chaghi/sets/72157600658392456/
+.. _Lacar/Lolog '05: https://www.flickr.com/photos/chaghi/sets/72157600658366240/
 .. _acá: http://www.lanacion.com.ar/672575

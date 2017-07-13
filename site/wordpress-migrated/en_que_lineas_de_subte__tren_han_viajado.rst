@@ -27,11 +27,11 @@ Suecia.
 
 .. _b3co.com: http://metro.b3co.com
 
-.. |image0| image:: http://metro.b3co.com/logos/barcelona.gif
-.. |image1| image:: http://metro.b3co.com/logos/barcelona-s.gif
-.. |image2| image:: http://metro.b3co.com/logos/buenos-aires-m.gif
-.. |image3| image:: http://metro.b3co.com/logos/buenos-aires-s.gif
-.. |image4| image:: http://metro.b3co.com/logos/copenhagen-s.gif
-.. |image5| image:: http://metro.b3co.com/logos/madrid.gif
-.. |image6| image:: http://metro.b3co.com/logos/spain-c.gif
-.. |image7| image:: http://metro.b3co.com/logos/stockholm.gif
+.. |image0| image:: https://metro.b3co.com/logos/barcelona.gif
+.. |image1| image:: https://metro.b3co.com/logos/barcelona-s.gif
+.. |image2| image:: https://metro.b3co.com/logos/buenos-aires-m.gif
+.. |image3| image:: https://metro.b3co.com/logos/buenos-aires-s.gif
+.. |image4| image:: https://metro.b3co.com/logos/copenhagen-s.gif
+.. |image5| image:: https://metro.b3co.com/logos/madrid.gif
+.. |image6| image:: https://metro.b3co.com/logos/spain-c.gif
+.. |image7| image:: https://metro.b3co.com/logos/stockholm.gif

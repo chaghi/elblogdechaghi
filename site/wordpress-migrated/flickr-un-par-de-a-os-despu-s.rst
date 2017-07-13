@@ -90,12 +90,12 @@ respecto.
 
 Así que ya saben: Cuando quieran fotos de algún viaje, evento o reunión
 que me tenga como protagonista, no tienen más que ir a
-http://www.flickr.com/photos/chaghi/ 
+https://www.flickr.com/photos/chaghi/ 
 
  
 
 .. _Flickr: http://flickr.com
 .. _MG2: http://www.minigal.dk/
 .. _EXIF: http://es.wikipedia.org/wiki/Exif
-.. _Pro: http://www.flickr.com/upgrade/
+.. _Pro: https://www.flickr.com/upgrade/
 .. _Picasa Web: http://picasaweb.google.com

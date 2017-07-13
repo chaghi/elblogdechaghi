@@ -51,6 +51,6 @@ chicos de UNLUX también `publicaron fotos en su site`_, en el álbum *CDC
 .. _Grupo de Usuarios de Software Libre de la Universidad Nacional de Luján: http://unlux.com.ar/index.php
 .. _PyAr: http://www.python.com.ar/moin
 .. _este post: http://www.taniquetil.com.ar/plog/post/1/305
-.. _este álbum: http://www.flickr.com/photos/chaghi/sets/72157602947369434/
+.. _este álbum: https://www.flickr.com/photos/chaghi/sets/72157602947369434/
 .. _publicaron fotos en su site: http://unlux.com.ar/index.php?option=com_expose&Itemid=26
-.. _acá: http://www.flickr.com/photos/54757453@N00/sets/72157602915116788/
+.. _acá: https://www.flickr.com/photos/54757453@N00/sets/72157602915116788/

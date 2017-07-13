@@ -121,13 +121,13 @@ Confío en que Pau, Charly, Osvaldo y/o José hayan capturado esos
 instantes por mi...
 
 .. _esa es otra historia: link://slug/la-vuelta-a-los-hielos
-.. _El Chaltén 2012: http://www.flickr.com/photos/chaghi/sets/72157628974222831/
+.. _El Chaltén 2012: https://www.flickr.com/photos/chaghi/sets/72157628974222831/
 
-.. |El Chaltén| image:: http://farm8.staticflickr.com/7167/6739148111_0403493bf8.jpg
-   :target: http://www.flickr.com/photos/chaghi/6739148111/
-.. |Hostel Pioneros del Valle| image:: http://farm8.staticflickr.com/7141/6739151025_17eed77c37_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6739151025/
-.. |Laguna y Cerro Torre| image:: http://farm8.staticflickr.com/7169/6739110039_4970cda155_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6739110039/
-.. |Ritual del Fuego| image:: http://farm8.staticflickr.com/7008/6739158485_b4d75a7b13_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6739158485/
+.. |El Chaltén| image:: https://farm8.staticflickr.com/7167/6739148111_0403493bf8.jpg
+   :target: https://www.flickr.com/photos/chaghi/6739148111/
+.. |Hostel Pioneros del Valle| image:: https://farm8.staticflickr.com/7141/6739151025_17eed77c37_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6739151025/
+.. |Laguna y Cerro Torre| image:: https://farm8.staticflickr.com/7169/6739110039_4970cda155_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6739110039/
+.. |Ritual del Fuego| image:: https://farm8.staticflickr.com/7008/6739158485_b4d75a7b13_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6739158485/

@@ -58,11 +58,11 @@ Más fotos, `acá`_. 
 
 .. _el año pasado: link://slug/la_candelaria
 .. _Rodizio Campo: http://rodiziocampo.com.ar/
-.. _acá: http://www.flickr.com/photos/chaghi/archives/date-posted/2006/12/20/detail/
+.. _acá: https://www.flickr.com/photos/chaghi/archives/date-posted/2006/12/20/detail/
 
-.. |Gabriel, Dani, Martin y Luis| image:: http://farm1.static.flickr.com/140/328602952_08f716fedf_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/328602952/
-.. |Yo| image:: http://farm1.static.flickr.com/132/328596565_808395abe5_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/328596565/
-.. |Mateada con pastelitos| image:: http://farm1.static.flickr.com/137/328589483_c53731a3b5_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/328589483/
+.. |Gabriel, Dani, Martin y Luis| image:: https://farm1.static.flickr.com/140/328602952_08f716fedf_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/328602952/
+.. |Yo| image:: https://farm1.static.flickr.com/132/328596565_808395abe5_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/328596565/
+.. |Mateada con pastelitos| image:: https://farm1.static.flickr.com/137/328589483_c53731a3b5_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/328589483/

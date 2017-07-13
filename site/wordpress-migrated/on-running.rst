@@ -91,5 +91,5 @@ Así que acá estoy. Entrenando. Corriendo. Y encima, disfrutándolo.
 .. _Rodrigo Mazzola: http://www.rmdeportes.com.ar/
 .. _en Domuyo: link://slug/en_la_cordillera_del_viento
 
-.. |Running| image:: http://farm5.static.flickr.com/4015/4473716377_06d7c26d27.jpg
-   :target: http://www.flickr.com/photos/tomasfano/4473716377/
+.. |Running| image:: https://farm5.static.flickr.com/4015/4473716377_06d7c26d27.jpg
+   :target: https://www.flickr.com/photos/tomasfano/4473716377/

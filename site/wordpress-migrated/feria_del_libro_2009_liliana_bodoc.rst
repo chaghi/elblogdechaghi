@@ -40,8 +40,8 @@ trilogía`_, así que para mi tuvo mucho valor ese pequeño momento, y el
 tener la oportunidad de agradecerle en persona a Liliana por crear tan
 maravillosa historia.
 
-.. figure:: http://farm4.static.flickr.com/3346/3509065476_28da7c07d3.jpg
-   :target: http://www.flickr.com/photos/chaghi/3509065476/
+.. figure:: https://farm4.static.flickr.com/3346/3509065476_28da7c07d3.jpg
+   :target: https://www.flickr.com/photos/chaghi/3509065476/
    :class: islink
    :alt: Dedicatoria de Liliana Bodoc
    :align: center
@@ -90,5 +90,5 @@ bárbaro, y pasamos un rato más que agradable.
 .. _Liliana Bodoc: http://es.wikipedia.org/wiki/Liliana_Bodoc
 .. _Amo esa trilogía: link://slug/la_saga_de_los_confines
 .. _Facu: http://www.taniquetil.com.ar/plog/
-.. _más fotos del evento acá: http://www.flickr.com/photos/54757453@N00/sets/72157617754031100/
+.. _más fotos del evento acá: https://www.flickr.com/photos/54757453@N00/sets/72157617754031100/
 .. _Centro Okinawense: http://www.okiren.org.ar/

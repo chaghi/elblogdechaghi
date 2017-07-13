@@ -41,7 +41,7 @@ en un blog.
 ----------
 
 Para motivarme un poco, porque uno ante todo es nerd (?), decidí demoler el
-blog anterior y armarlo otra vez. Estoy usando `Nikola <http://getnikola.com>`_,
+blog anterior y armarlo otra vez. Estoy usando `Nikola <https://getnikola.com>`_,
 mascota de `Roberto Alsina <http://ralsina.me/weblog/>`_, que resulta que
 además de recomendar muy buenos libros, desarrolla muy buenos generadores
 de sitios estáticos ;-) (¡gracias Roberto!)

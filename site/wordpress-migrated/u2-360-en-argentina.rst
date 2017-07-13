@@ -91,5 +91,5 @@ próxima vez...
 .. _hace unos años: link://slug/u2_en_buenos_aires
 .. _Seba: http://www.sprsoft.com.ar/
 
-.. |U2 360 Tour Amsterdam| image:: http://farm3.static.flickr.com/2530/3750232518_de8c672b99.jpg
-   :target: http://www.flickr.com/photos/salomaonunes/3750232518/
+.. |U2 360 Tour Amsterdam| image:: https://farm3.static.flickr.com/2530/3750232518_de8c672b99.jpg
+   :target: https://www.flickr.com/photos/salomaonunes/3750232518/

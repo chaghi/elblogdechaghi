@@ -5,13 +5,13 @@
 .. category: 
 .. link: 
 .. description: 
-.. previewimage: http://farm4.static.flickr.com/3288/2718087468_881ced48d4_m.jpg
+.. previewimage: https://farm4.static.flickr.com/3288/2718087468_881ced48d4_m.jpg
 .. type: text
 .. author: cHagHi
 .. from_wp: True
 
-.. image:: http://farm4.static.flickr.com/3288/2718087468_881ced48d4_m.jpg
-   :target: http://www.flickr.com/photos/vibrantspirit/2718087468/
+.. image:: https://farm4.static.flickr.com/3288/2718087468_881ced48d4_m.jpg
+   :target: https://www.flickr.com/photos/vibrantspirit/2718087468/
    :class: islink
    :align: right
 ..

@@ -25,4 +25,4 @@ artículos que nunca escribo.
 **Actualización:** Subí fotos del cumple a Flickr. Pueden verlas
 `aquí`_.
 
-.. _aquí: http://www.flickr.com/photos/chaghi/archives/date-posted/2006/02/21/detail/
+.. _aquí: https://www.flickr.com/photos/chaghi/archives/date-posted/2006/02/21/detail/

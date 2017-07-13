@@ -9,8 +9,8 @@
 .. author: cHagHi
 .. from_wp: True
 
-.. figure:: http://farm6.staticflickr.com/5204/5240360344_4edfdf7909_m.jpg
-   :target: http://www.flickr.com/photos/grandgrrl/5240360344/
+.. figure:: https://farm6.staticflickr.com/5204/5240360344_4edfdf7909_m.jpg
+   :target: https://www.flickr.com/photos/grandgrrl/5240360344/
    :class: islink
    :alt: Book & Phone
    :align: left

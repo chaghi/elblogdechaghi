@@ -10,7 +10,7 @@
 .. from_wp: True
 
 .. figure:: https://farm1.staticflickr.com/212/487402614_40e7f88865.jpg
-   :target: http://www.flickr.com/photos/chaghi/487402614/
+   :target: https://www.flickr.com/photos/chaghi/487402614/
    :class: islink
    :alt: Mamá
    :align: center
@@ -29,4 +29,4 @@ Pero más hacía que no veía a mis abuelos, y a Noemí... DEMASIADO tiempo.
 
 Más fotos, `acá`_. 
 
-.. _acá: http://www.flickr.com/photos/chaghi/archives/date-taken/2007/05/06/detail/
+.. _acá: https://www.flickr.com/photos/chaghi/archives/date-taken/2007/05/06/detail/

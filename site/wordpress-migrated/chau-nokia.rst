@@ -70,4 +70,4 @@ caliente" de tus usuarios apuntan a lo mismo.
 Google debe estar de fiesta...
 
 .. |Nokia Balloon| image:: /blog/wp-content/uploads/2011/02/Nokia-300x217.jpg
-   :target: http://www.flickr.com/photos/question_everything/528336937/
+   :target: https://www.flickr.com/photos/question_everything/528336937/

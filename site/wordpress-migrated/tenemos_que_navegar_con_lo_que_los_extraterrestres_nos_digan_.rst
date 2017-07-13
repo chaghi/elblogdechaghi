@@ -11,5 +11,5 @@
 
 |Firefox Circle|
 
-.. |Firefox Circle| image:: http://lug.oregonstate.edu/albums/firefox-crop-circle/mg_5560.sized.jpg
-   :target: http://lug.oregonstate.edu/index.php/Projects/Firefox/Firefox_Circle
+.. |Firefox Circle| image:: https://lug.oregonstate.edu/albums/firefox-crop-circle/mg_5560.sized.jpg
+   :target: https://lug.oregonstate.edu/index.php/Projects/Firefox/Firefox_Circle

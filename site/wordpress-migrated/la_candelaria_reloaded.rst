@@ -37,5 +37,5 @@ Campo`_, no hay ardillas.
 .. _ya habíamos ido: link://slug/la_candelaria
 .. _a diferencia de Rodizio Campo: link://slug/d-a-de-campo
 
-.. |La Candelaria, reloaded| image:: http://farm3.static.flickr.com/2221/2129000003_0ddd2796fd.jpg
-   :target: http://www.flickr.com/photos/chaghi/2129000003/
+.. |La Candelaria, reloaded| image:: https://farm3.static.flickr.com/2221/2129000003_0ddd2796fd.jpg
+   :target: https://www.flickr.com/photos/chaghi/2129000003/

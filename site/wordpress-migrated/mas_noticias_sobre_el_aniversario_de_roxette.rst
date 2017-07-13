@@ -58,4 +58,4 @@ entre nosotros.
 .. _The Daily Roxette: http://www.dailyroxette.com
 .. _Jonas Linell: http://www.linell.se/
 
-.. |Roxette 2006 - Foto by Jonas Linell| image:: http://static.flickr.com/79/224833146_1843e359a6.jpg
+.. |Roxette 2006 - Foto by Jonas Linell| image:: https://static.flickr.com/79/224833146_1843e359a6.jpg

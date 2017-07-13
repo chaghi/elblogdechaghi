@@ -238,61 +238,61 @@ que en su momento volví de Perú.
 .. _Posada del Sol: http://www.alojar.com.ar/ficha_albergue_.asp?Codigo=18
 .. _Las Rejas: http://www.lasrejashostel.com.ar/
 .. _Nómade: http://www.hostels.org.ar/hostel.asp?hostel_id=61
-.. _Más fotos aquí: http://www.flickr.com/photos/chaghi/sets/72157600064633045/
+.. _Más fotos aquí: https://www.flickr.com/photos/chaghi/sets/72157600064633045/
 
-.. |Desentierro del Carnaval - 2| image:: http://farm1.static.flickr.com/179/410294638_1030026bb3_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410294638/
-.. |Tilcara - Feria de artesanías| image:: http://farm1.static.flickr.com/166/410293646_a59c87af47_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410293646/
-.. |Tilcara - Caminata| image:: http://farm1.static.flickr.com/183/410292677_4391dd525a_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410292677/
-.. |Tilcara - Cascada (2)| image:: http://farm1.static.flickr.com/154/410290966_c3fbd83dfd_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410290966/
-.. |Humahuaca - Peña de Fortunato| image:: http://farm1.static.flickr.com/184/410290484_d228b49a03_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410290484/
-.. |Quebrada de las Señoritas (1)| image:: http://farm1.static.flickr.com/161/410288035_08a2b537cb_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410288035/
-.. |Quebrada de las Señoritas (2)| image:: http://farm1.static.flickr.com/188/410287527_5db38431ce_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410287527/
-.. |Los Corazones de Puya Puya| image:: http://farm1.static.flickr.com/125/410286935_aad49234a3_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410286935/
-.. |Iturbe - Estación de trenes| image:: http://farm1.static.flickr.com/161/410285190_ccc99b8fdc_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410285190/
-.. |Abra del Cóndor| image:: http://farm1.static.flickr.com/174/410284406_471475320f_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410284406/
-.. |Iruya - Regresando al pueblo por el cause (1)| image:: http://farm1.static.flickr.com/131/410280333_3dc1ffbd60_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410280333/
-.. |Iruya - Grupal| image:: http://farm1.static.flickr.com/180/410279049_a7b4114bfc_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410279049/
-.. |El Pintado| image:: http://farm1.static.flickr.com/149/410278208_aa3d280477_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410278208/
-.. |Grupo junto a la familia Lamas| image:: http://farm1.static.flickr.com/152/410276939_88b5bbdb13_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410276939/
-.. |Comunidad de Hornaditas| image:: http://farm1.static.flickr.com/176/410277537_9f07fed041_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410277537/
-.. |El Huancar| image:: http://farm1.static.flickr.com/179/410273706_6fc644d6bc_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410273706/
-.. |Salinas Grandes - Geometría del suelo| image:: http://farm1.static.flickr.com/173/410272834_e7fe3b5c81_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410272834/
-.. |Salinas Grandes - piletones de extracción| image:: http://farm1.static.flickr.com/129/410272132_96c3b3c811_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410272132/
-.. |Purmamarca - paisaje| image:: http://farm1.static.flickr.com/177/410271076_3f9eb9b313_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410271076/
-.. |La Quiaca| image:: http://farm1.static.flickr.com/126/410269833_0a7db2b19d_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410269833/
-.. |Yavi - Calle principal| image:: http://farm1.static.flickr.com/165/410269242_52b7a80d4e_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410269242/
-.. |Salta - Cumbre del cerro| image:: http://farm1.static.flickr.com/158/410268665_7d1fc17dd7_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410268665/
-.. |Salta - Catedral al atardecer| image:: http://farm1.static.flickr.com/171/410267988_f96cc16b3e_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410267988/
-.. |Quebrada de Cafayate - Yeseras| image:: http://farm1.static.flickr.com/163/410267594_af8e664e88_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410267594/
-.. |Cafayate - Bodegas Etchart| image:: http://farm1.static.flickr.com/162/410266933_9cbfd24744_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410266933/
-.. |Tafi del Valle| image:: http://farm1.static.flickr.com/123/410266167_099e83a9c4_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410266167/
-.. |Hostel Nomade - Tafí del Valle (1)| image:: http://farm1.static.flickr.com/185/410265693_5557e7131a_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410265693/
-.. |Hostel Nomade - Tafí del Valle (2)| image:: http://farm1.static.flickr.com/178/410265196_98ba2504e9_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/410265196/
+.. |Desentierro del Carnaval - 2| image:: https://farm1.static.flickr.com/179/410294638_1030026bb3_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410294638/
+.. |Tilcara - Feria de artesanías| image:: https://farm1.static.flickr.com/166/410293646_a59c87af47_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410293646/
+.. |Tilcara - Caminata| image:: https://farm1.static.flickr.com/183/410292677_4391dd525a_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410292677/
+.. |Tilcara - Cascada (2)| image:: https://farm1.static.flickr.com/154/410290966_c3fbd83dfd_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410290966/
+.. |Humahuaca - Peña de Fortunato| image:: https://farm1.static.flickr.com/184/410290484_d228b49a03_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410290484/
+.. |Quebrada de las Señoritas (1)| image:: https://farm1.static.flickr.com/161/410288035_08a2b537cb_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410288035/
+.. |Quebrada de las Señoritas (2)| image:: https://farm1.static.flickr.com/188/410287527_5db38431ce_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410287527/
+.. |Los Corazones de Puya Puya| image:: https://farm1.static.flickr.com/125/410286935_aad49234a3_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410286935/
+.. |Iturbe - Estación de trenes| image:: https://farm1.static.flickr.com/161/410285190_ccc99b8fdc_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410285190/
+.. |Abra del Cóndor| image:: https://farm1.static.flickr.com/174/410284406_471475320f_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410284406/
+.. |Iruya - Regresando al pueblo por el cause (1)| image:: https://farm1.static.flickr.com/131/410280333_3dc1ffbd60_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410280333/
+.. |Iruya - Grupal| image:: https://farm1.static.flickr.com/180/410279049_a7b4114bfc_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410279049/
+.. |El Pintado| image:: https://farm1.static.flickr.com/149/410278208_aa3d280477_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410278208/
+.. |Grupo junto a la familia Lamas| image:: https://farm1.static.flickr.com/152/410276939_88b5bbdb13_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410276939/
+.. |Comunidad de Hornaditas| image:: https://farm1.static.flickr.com/176/410277537_9f07fed041_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410277537/
+.. |El Huancar| image:: https://farm1.static.flickr.com/179/410273706_6fc644d6bc_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410273706/
+.. |Salinas Grandes - Geometría del suelo| image:: https://farm1.static.flickr.com/173/410272834_e7fe3b5c81_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410272834/
+.. |Salinas Grandes - piletones de extracción| image:: https://farm1.static.flickr.com/129/410272132_96c3b3c811_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410272132/
+.. |Purmamarca - paisaje| image:: https://farm1.static.flickr.com/177/410271076_3f9eb9b313_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410271076/
+.. |La Quiaca| image:: https://farm1.static.flickr.com/126/410269833_0a7db2b19d_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410269833/
+.. |Yavi - Calle principal| image:: https://farm1.static.flickr.com/165/410269242_52b7a80d4e_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410269242/
+.. |Salta - Cumbre del cerro| image:: https://farm1.static.flickr.com/158/410268665_7d1fc17dd7_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410268665/
+.. |Salta - Catedral al atardecer| image:: https://farm1.static.flickr.com/171/410267988_f96cc16b3e_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410267988/
+.. |Quebrada de Cafayate - Yeseras| image:: https://farm1.static.flickr.com/163/410267594_af8e664e88_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410267594/
+.. |Cafayate - Bodegas Etchart| image:: https://farm1.static.flickr.com/162/410266933_9cbfd24744_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410266933/
+.. |Tafi del Valle| image:: https://farm1.static.flickr.com/123/410266167_099e83a9c4_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410266167/
+.. |Hostel Nomade - Tafí del Valle (1)| image:: https://farm1.static.flickr.com/185/410265693_5557e7131a_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410265693/
+.. |Hostel Nomade - Tafí del Valle (2)| image:: https://farm1.static.flickr.com/178/410265196_98ba2504e9_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/410265196/

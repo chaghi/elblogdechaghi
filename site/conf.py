@@ -21,10 +21,10 @@ BLOG_AUTHOR = "Mariano Draghi"  # (translatable)
 BLOG_TITLE = "el blog de cHagHi"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
-SITE_URL = "http://chaghi.com.ar/"
+SITE_URL = "https://chaghi.com.ar/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://chaghi.com.ar/blog/"
+# BASE_URL = "https://chaghi.com.ar/blog/"
 BLOG_EMAIL = "mariano AT chaghi.com.ar"
 BLOG_DESCRIPTION = "(el rejunte on-line de todo aquello que deseo compartir)"  # (translatable)
 
@@ -575,9 +575,9 @@ INDEXES_STATIC = False
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
 FAVICONS = (
-        ("shortcut icon", "http://chaghi.com.ar/favicon.ico", "16x16 32x32 48x48"),
-        ("apple-touch-icon", "http://chaghi.com.ar/mjollnir-180.png", "180x180"),
-        ("icon", "http://chaghi.com.ar/mjollnir-192.png", "192x192"),
+        ("shortcut icon", "//chaghi.com.ar/favicon.ico", "16x16 32x32 48x48"),
+        ("apple-touch-icon", "//chaghi.com.ar/mjollnir-180.png", "180x180"),
+        ("icon", "//chaghi.com.ar/mjollnir-192.png", "192x192"),
 )
 
 # Show only teasers in the index pages? Defaults to False.
@@ -598,7 +598,7 @@ FAVICONS = (
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
 # 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
-RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
+FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
 # Append a URL query to the RSS_READ_MORE_LINK in Atom and RSS feeds. Advanced
 # option used for traffic source tracking.
@@ -608,7 +608,7 @@ RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_rea
 # {feedFormat}                  The name of the syndication format.
 # Example using replacement for use with Google Analytics:
 # "utm_source={feedRelUri}&utm_medium=nikola_feed&utm_campaign={feedFormat}_feed"
-RSS_LINKS_APPEND_QUERY = False
+FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
@@ -617,7 +617,7 @@ Excepto donde se indique lo contrario, el contenido está publicado bajo licenci
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '<p class="text-muted"><small>&copy; 2004-{date} {author} &mdash; Funciona con <a href="http://getnikola.com" rel="nofollow">Nikola</a><br />{license}</small></p>'
+CONTENT_FOOTER = '<p class="text-muted"><small>&copy; 2004-{date} {author} &mdash; Funciona con <a href="https://getnikola.com" rel="nofollow">Nikola</a><br />{license}</small></p>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -859,10 +859,10 @@ USE_CDN = True
 # before </head>
 # (translatable)
 EXTRA_HEAD_DATA = """
-<link rel="me" type="text/html" href="http://www.google.com/profiles/114907104723447996177"/>
+<link rel="me" type="text/html" href="https://www.google.com/profiles/114907104723447996177"/>
 <!-- Custom Fonts -->
-<link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css"></link>
-<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css"></link>"""
+<link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css"></link>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css"></link>"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)

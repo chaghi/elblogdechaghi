@@ -52,7 +52,7 @@ través de internet, me parece que así está bien. Obviamente hay MUCHAS
 más fotos... pero es imposible subirlas todas.
 
 Espero que disfruten la selección que armé. El link para acceder al
-album es http://www.flickr.com/photos/chaghi/sets/72157600064629189/
+album es https://www.flickr.com/photos/chaghi/sets/72157600064629189/
 
  
 
@@ -63,5 +63,5 @@ después, parte de las fotos que no subieron, empezaron a aparecer. Ya
 hay unas 10 más que al principio... así que con un poco de suerte, se va
 arreglando solo.
 
-.. |Estocolmo al atardecer| image:: http://static.flickr.com/76/159534904_00f2e608d7_o.jpg
-   :target: http://www.flickr.com/photos/chaghi/sets/72157600064629189/
+.. |Estocolmo al atardecer| image:: https://static.flickr.com/76/159534904_00f2e608d7_o.jpg
+   :target: https://www.flickr.com/photos/chaghi/sets/72157600064629189/

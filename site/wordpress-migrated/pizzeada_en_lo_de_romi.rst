@@ -30,9 +30,9 @@ Algunas fotos del evento:
 
  
 
-.. |Romi, Sofi y Diana| image:: http://farm2.static.flickr.com/1371/683934057_a53b0a2247_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/683934057/
-.. |Sofi, Romi, Luca, Cristian y Josefina| image:: http://farm2.static.flickr.com/1302/683934117_ab1abd6b16_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/683934117/
-.. |Todos juntos| image:: http://farm2.static.flickr.com/1368/683934163_86781ef935_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/683934163/
+.. |Romi, Sofi y Diana| image:: https://farm2.static.flickr.com/1371/683934057_a53b0a2247_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/683934057/
+.. |Sofi, Romi, Luca, Cristian y Josefina| image:: https://farm2.static.flickr.com/1302/683934117_ab1abd6b16_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/683934117/
+.. |Todos juntos| image:: https://farm2.static.flickr.com/1368/683934163_86781ef935_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/683934163/

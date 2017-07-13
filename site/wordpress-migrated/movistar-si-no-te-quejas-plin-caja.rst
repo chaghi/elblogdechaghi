@@ -104,5 +104,5 @@ también, ya que estamos) le den a todos los usuarios algún mecanismo
 *gratuito y permanentemente actualizado* para medir y controlar los
 consumos.
 
-.. |Golden Cashier| image:: http://farm3.staticflickr.com/2369/1811796114_b800c1d9fe.jpg
-   :target: http://www.flickr.com/photos/nightxiter/1811796114/
+.. |Golden Cashier| image:: https://farm3.staticflickr.com/2369/1811796114_b800c1d9fe.jpg
+   :target: https://www.flickr.com/photos/nightxiter/1811796114/

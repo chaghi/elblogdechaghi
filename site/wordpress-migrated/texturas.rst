@@ -11,5 +11,5 @@
 
 |Texturas|
 
-.. |Texturas| image:: http://farm3.static.flickr.com/2543/5747402633_39ca3f7c5c.jpg
-   :target: http://www.flickr.com/photos/chaghi/5747402633/
+.. |Texturas| image:: https://farm3.static.flickr.com/2543/5747402633_39ca3f7c5c.jpg
+   :target: https://www.flickr.com/photos/chaghi/5747402633/

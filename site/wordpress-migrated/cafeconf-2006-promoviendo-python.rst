@@ -38,8 +38,8 @@ Socialmente, pude conocer a Sebastián Bassi, a John y Antony Lenton, a
 Manuel Kaufman, gente de Córdoba y Santa Fé que yo hasta ahora conocía
 solo por la lista.
 
-.. figure:: http://static.flickr.com/111/295999326_924608ee9f_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/295999326/
+.. figure:: https://static.flickr.com/111/295999326_924608ee9f_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/295999326/
    :class: islink
    :alt: CaFeCONF 2006 - Stand de PyAr
    :align: center
@@ -50,8 +50,8 @@ Organizamos la reunión 19, aka "La Internacional", con varias personas
 que se pudieron acercar por primera vez a una reunión, aprovechando que
 estaba en Baires. Y obviamente celebramos la reunión con Alex y Anna.
 
-.. figure:: http://static.flickr.com/102/295999327_cf566a6c88_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/295999327/
+.. figure:: https://static.flickr.com/102/295999327_cf566a6c88_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/295999327/
    :class: islink
    :alt: PyAr - Reunión 19
    :align: center
@@ -64,8 +64,8 @@ amigos que otra cosa) para homenajear a Alex y Anna, y que no se fueran
 de Argentina sin probar un asado, y sin ver, más allá de comer buena
 carne, como es toda la "liturgia" del asadito.
 
-.. figure:: http://static.flickr.com/115/295999330_358e227d1c_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/295999330/
+.. figure:: https://static.flickr.com/115/295999330_358e227d1c_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/295999330/
    :class: islink
    :alt: Asado para Alex y Anna
    :align: center

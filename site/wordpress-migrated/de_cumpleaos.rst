@@ -21,11 +21,11 @@ Mauri no se esperaba llegar al restaurante y encontrar (oh! qué
 casualidad!) a sus compadres, mis tíos, mi madrina y unos cuantos
 amigos.
 
-.. image:: http://static.flickr.com/73/214094949_dd88878823_m.jpg
+.. image:: https://static.flickr.com/73/214094949_dd88878823_m.jpg
    :class: islink
    :alt: Charla
 
-.. image:: http://static.flickr.com/83/214100613_5f7580817e_m.jpg
+.. image:: https://static.flickr.com/83/214100613_5f7580817e_m.jpg
    :class: islink
    :alt: Cena de cumpleaños Mauri
 
@@ -33,7 +33,7 @@ Pasamos un rato muy agradable, y a Mauri se lo veía realmente contento.
 A pesar de que en estos últimos días, cuando mi vieja estaba ultimando
 los detalles más de uno casi mete la pata, la sorpresa logró ser tal.
 
-.. image:: http://static.flickr.com/57/214098367_5f41698c5c_m.jpg
+.. image:: https://static.flickr.com/57/214098367_5f41698c5c_m.jpg
    :class: islink
    :alt: Que los cumplas feliz...
 
@@ -42,5 +42,5 @@ Hay algunas fotos más (y las que se ven más arriba en otros tamaños) en
 sacando fotos sin flash, no teniendo un trípode y teniendo un pulso de
 mierda... pero lo hecho, hecho está.
 
-.. _este link: http://www.flickr.com/photos/chaghi/archives/date-posted/2006/08/detail/
+.. _este link: https://www.flickr.com/photos/chaghi/archives/date-posted/2006/08/detail/
 

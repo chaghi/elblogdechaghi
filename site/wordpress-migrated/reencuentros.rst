@@ -41,5 +41,5 @@ perdimos el contacto, y siempre es grato encontrarnos cada tanto.
 .. _Bitácora de Vuelo: http://www.taniquetil.com.ar/plog/post/1/156
 .. _la reunión: http://www.python.com.ar/moin/Eventos/Reuniones/Reunion13
 
-.. |Reencuentro| image:: http://static.flickr.com/41/94730419_eb316c8087.jpg
-   :target: http://www.flickr.com/photos/chaghi/94730419/
+.. |Reencuentro| image:: https://static.flickr.com/41/94730419_eb316c8087.jpg
+   :target: https://www.flickr.com/photos/chaghi/94730419/

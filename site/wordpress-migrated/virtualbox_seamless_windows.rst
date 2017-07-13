@@ -61,5 +61,5 @@ CTRL-L conmuto entre el modo seamless y el normal.
 
 .. _VirtualBox: http://www.virtualbox.org/
 
-.. |VirtualBox 1.5 Seamless windows| image:: http://farm2.static.flickr.com/1174/1298214399_c514b68175.jpg
-   :target: http://www.flickr.com/photos/chaghi/1298214399/
+.. |VirtualBox 1.5 Seamless windows| image:: https://farm2.static.flickr.com/1174/1298214399_c514b68175.jpg
+   :target: https://www.flickr.com/photos/chaghi/1298214399/

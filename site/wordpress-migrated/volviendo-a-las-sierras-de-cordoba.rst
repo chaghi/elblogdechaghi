@@ -103,21 +103,21 @@ Todas las fotos, acá: `Quebrada del Condorito 2011`_
 
 .. _octubre de 2005: link://slug/travesia_de_las_dos_cumbres
 .. _Quebrada del Condorito: http://www.parquesnacionales.gov.ar/03_ap/31_qcondorito_PN/31_qcondorito_PN.htm
-.. _Quebrada del Condorito 2011: http://www.flickr.com/photos/chaghi/sets/72157628253492627
+.. _Quebrada del Condorito 2011: https://www.flickr.com/photos/chaghi/sets/72157628253492627
 
-.. |Pampa del Hospital| image:: http://farm8.staticflickr.com/7159/6443899271_e393c6ac3b_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6443899271/
-.. |Balcón Sur| image:: http://farm8.staticflickr.com/7160/6443954723_f2178e4c61_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6443954723/
-.. |Balcón Sur 2| image:: http://farm8.staticflickr.com/7144/6443960179_6e3737f30d_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6443960179/
-.. |Río Condorito| image:: http://farm8.staticflickr.com/7163/6443984145_430a790cd6_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6443984145/
-.. |Esto es vida...| image:: http://farm8.staticflickr.com/7016/6444001887_9aa033a54b_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6444001887/
-.. |La magia de las sierras| image:: http://farm8.staticflickr.com/7171/6444010643_340d721373_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6444010643/
-.. |En el río| image:: http://farm8.staticflickr.com/7012/6444035065_cdcb420fab_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6444035065/
-.. |En el río 2| image:: http://farm8.staticflickr.com/7166/6444058291_a941d0c544_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6444058291/
+.. |Pampa del Hospital| image:: https://farm8.staticflickr.com/7159/6443899271_e393c6ac3b_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6443899271/
+.. |Balcón Sur| image:: https://farm8.staticflickr.com/7160/6443954723_f2178e4c61_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6443954723/
+.. |Balcón Sur 2| image:: https://farm8.staticflickr.com/7144/6443960179_6e3737f30d_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6443960179/
+.. |Río Condorito| image:: https://farm8.staticflickr.com/7163/6443984145_430a790cd6_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6443984145/
+.. |Esto es vida...| image:: https://farm8.staticflickr.com/7016/6444001887_9aa033a54b_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6444001887/
+.. |La magia de las sierras| image:: https://farm8.staticflickr.com/7171/6444010643_340d721373_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6444010643/
+.. |En el río| image:: https://farm8.staticflickr.com/7012/6444035065_cdcb420fab_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6444035065/
+.. |En el río 2| image:: https://farm8.staticflickr.com/7166/6444058291_a941d0c544_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6444058291/

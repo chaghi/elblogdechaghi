@@ -9,7 +9,7 @@
 .. author: cHagHi
 .. from_wp: True
 
-.. image:: http://www.mozilla.org/products/firefox/buttons/header.png
+.. image:: https://www.mozilla.org/products/firefox/buttons/header.png
    :alt: ¡Bajá Firefox 1.0!
    :align: left
    

@@ -11,7 +11,7 @@
 
 Listo, migré a Flickr las fotos de la travesía combinada Lolog/Laguna
 Verde - Lacar/Lolog del 2005. Están `acá`_ y
-`acá <http://www.flickr.com/photos/chaghi/sets/72157600658366240/>`__
+`acá <https://www.flickr.com/photos/chaghi/sets/72157600658366240/>`__
 respectivamente.
 
 Estuve dandole vueltas al asunto, y no voy a migrar las fotos de Valdes
@@ -64,5 +64,5 @@ los viajes están muy bien ilustrados por las fotos que ya están
 publicadas. Así y todo, no termino de decidir.
 
 
-.. _acá: http://www.flickr.com/photos/chaghi/sets/72157600658392456/
-.. _sets: http://www.flickr.com/photos/chaghi/sets/
+.. _acá: https://www.flickr.com/photos/chaghi/sets/72157600658392456/
+.. _sets: https://www.flickr.com/photos/chaghi/sets/

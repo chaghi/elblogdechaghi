@@ -70,8 +70,8 @@ si no fuera porque es caro, y porque uno tiene que trabajar,
 lamentablemente, en lugar de dedicarse a seguir a sus músicos favoritos
 por el planeta. Damn...
 
-.. image:: http://farm6.static.flickr.com/5224/5604026824_8cbafc2eee.jpg
-   :target: http://www.flickr.com/photos/chaghi/5604026824/
+.. image:: https://farm6.static.flickr.com/5224/5604026824_8cbafc2eee.jpg
+   :target: https://www.flickr.com/photos/chaghi/5604026824/
    :class: islink
    :alt: Marie y Per
    :align: center
@@ -86,8 +86,8 @@ campo. Apretujado, saltando, gritando, con otros muchos fans. El martes
 5 estuve en el super pullman, sentadito por momentos, lejos, pero mucho
 más tranqui, con posibilidad de sacar fotos y grabar algunos videitos.
 
-.. image:: http://farm6.static.flickr.com/5146/5604023554_cc8dcd7363.jpg
-   :target: http://www.flickr.com/photos/chaghi/5604023554/
+.. image:: https://farm6.static.flickr.com/5146/5604023554_cc8dcd7363.jpg
+   :target: https://www.flickr.com/photos/chaghi/5604023554/
    :class: islink
    :alt: Roxette
    :align: center
@@ -122,8 +122,8 @@ respuesta del público fue espectacular, lo noté especialmente la primer
 fecha en el Luna. Increíble. Mucha mucha emoción, arriba y abajo del
 escenario.
 
-.. image:: http://farm6.static.flickr.com/5143/5603420203_fb88b8f534.jpg
-   :target: http://www.flickr.com/photos/chaghi/5603420203/
+.. image:: https://farm6.static.flickr.com/5143/5603420203_fb88b8f534.jpg
+   :target: https://www.flickr.com/photos/chaghi/5603420203/
    :class: islink
    :alt: Roxette
    :align: center
@@ -194,7 +194,7 @@ unos cuantos años más...
 .. _Ya hablé un poquito antes de eso: link://slug/roxette-reloaded
 .. _The Daily Roxette: http://www.dailyroxette.com/
 .. _Run To Roxette: http://www.runtoroxette.com/
-.. _algunas fotos: http://www.flickr.com/photos/chaghi/sets/72157626462442092/
+.. _algunas fotos: https://www.flickr.com/photos/chaghi/sets/72157626462442092/
 .. _Perfect Day: http://www.youtube.com/watch?v=MIXUbGEKqOg
 .. _Watercolours in the Rain: http://www.youtube.com/watch?v=Qdr1Pq8elSI
 

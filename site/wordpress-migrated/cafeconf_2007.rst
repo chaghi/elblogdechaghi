@@ -100,4 +100,4 @@ Independencia y Perú.
 .. _Leito Monk: http://audiolibre.com.ar/
 .. _Tío Felipe: http://www.guiaoleo.com.ar/detail.php?ID=1139
 .. _Zapi: http://www.pizzazapi.com.ar/
-.. _Fotos, fotos y más fotos: http://www.flickr.com/photos/chaghi/sets/72157602297920638/
+.. _Fotos, fotos y más fotos: https://www.flickr.com/photos/chaghi/sets/72157602297920638/

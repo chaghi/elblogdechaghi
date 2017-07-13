@@ -22,5 +22,5 @@ homenajeado, Santi, ya dormía en su habitación desde hacía rato.
 
 .. _cumple de Santi: link://slug/festejo_y_despedida
 
-.. |Cumple Santi| image:: http://static.flickr.com/28/64620134_11958c3dbf_o.jpg
-   :target: http://www.flickr.com/photos/chaghi/64620134/
+.. |Cumple Santi| image:: https://static.flickr.com/28/64620134_11958c3dbf_o.jpg
+   :target: https://www.flickr.com/photos/chaghi/64620134/

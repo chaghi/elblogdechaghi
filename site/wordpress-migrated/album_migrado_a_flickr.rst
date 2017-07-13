@@ -21,4 +21,4 @@ El album de dicha travesía ya está en Flickr, acá: `Dos Cumbres 2005`_.
 
 .. _Para inaugurar un mayor ancho de banda: link://slug/sion_una_mala
 .. _mini-travesía que hice en Córdoba en el 2005: link://slug/fin_de_semana_largo
-.. _Dos Cumbres 2005: http://www.flickr.com/photos/chaghi/sets/72157600592429785/
+.. _Dos Cumbres 2005: https://www.flickr.com/photos/chaghi/sets/72157600592429785/

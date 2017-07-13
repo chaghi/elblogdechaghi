@@ -30,7 +30,7 @@ Algunas fotitos más, `acá`_.
 
  
 
-.. _acá: http://www.flickr.com/photos/chaghi/archives/date-taken/2008/08/18/
+.. _acá: https://www.flickr.com/photos/chaghi/archives/date-taken/2008/08/18/
 
-.. |Caminito| image:: http://farm3.static.flickr.com/2115/2790617272_6beef10667.jpg
-   :target: http://www.flickr.com/photos/chaghi/2790617272/
+.. |Caminito| image:: https://farm3.static.flickr.com/2115/2790617272_6beef10667.jpg
+   :target: https://www.flickr.com/photos/chaghi/2790617272/

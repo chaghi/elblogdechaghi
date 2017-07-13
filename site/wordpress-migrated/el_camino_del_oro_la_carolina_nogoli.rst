@@ -78,23 +78,23 @@ antes en una bolsa mejor, soy un pelotudo. He dicho.
 .. _Hielo Azul: http://www.hieloazulaventura.com/
 .. _Eze: http://flickr.com/photos/erugiero/
 .. _mí cámara: link://slug/ingresando_al_mundo_de_la_fotografia_digital
-.. _siguiendo este enlace: http://www.flickr.com/photos/chaghi/sets/72157601591526493/
+.. _siguiendo este enlace: https://www.flickr.com/photos/chaghi/sets/72157601591526493/
 
-.. |IMGP2438.JPG| image:: http://farm2.static.flickr.com/1261/1194278428_0bc9675555_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/1194278428/
-.. |IMGP2447.JPG| image:: http://farm2.static.flickr.com/1236/1193517075_fbd46208c8_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/1193517075/
-.. |IMGP2442.JPG| image:: http://farm2.static.flickr.com/1232/1194324576_2673b366a7_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/1194324576/
-.. |IMGP2480.JPG| image:: http://farm2.static.flickr.com/1227/1193838251_ec20c3e1a5_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/1193838251/
-.. |IMGP2488.JPG| image:: http://farm2.static.flickr.com/1051/1193926747_47f6bd51d2_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/1193926747/
-.. |IMGP2526.JPG| image:: http://farm2.static.flickr.com/1320/1194309971_7ca8e2d48c_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/1194309971/
-.. |IMGP2529.JPG| image:: http://farm2.static.flickr.com/1324/1195215802_a6c961bd68_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/1195215802/
-.. |IMGP2538.JPG| image:: http://farm2.static.flickr.com/1105/1194392859_577011bbc5_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/1194392859/
-.. |IMGP2552.JPG| image:: http://farm2.static.flickr.com/1233/1195388694_64fe9553aa_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/1195388694/
+.. |IMGP2438.JPG| image:: https://farm2.static.flickr.com/1261/1194278428_0bc9675555_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/1194278428/
+.. |IMGP2447.JPG| image:: https://farm2.static.flickr.com/1236/1193517075_fbd46208c8_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/1193517075/
+.. |IMGP2442.JPG| image:: https://farm2.static.flickr.com/1232/1194324576_2673b366a7_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/1194324576/
+.. |IMGP2480.JPG| image:: https://farm2.static.flickr.com/1227/1193838251_ec20c3e1a5_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/1193838251/
+.. |IMGP2488.JPG| image:: https://farm2.static.flickr.com/1051/1193926747_47f6bd51d2_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/1193926747/
+.. |IMGP2526.JPG| image:: https://farm2.static.flickr.com/1320/1194309971_7ca8e2d48c_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/1194309971/
+.. |IMGP2529.JPG| image:: https://farm2.static.flickr.com/1324/1195215802_a6c961bd68_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/1195215802/
+.. |IMGP2538.JPG| image:: https://farm2.static.flickr.com/1105/1194392859_577011bbc5_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/1194392859/
+.. |IMGP2552.JPG| image:: https://farm2.static.flickr.com/1233/1195388694_64fe9553aa_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/1195388694/

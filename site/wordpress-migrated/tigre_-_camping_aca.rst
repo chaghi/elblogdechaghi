@@ -41,5 +41,5 @@ la siguiente foto:
 
 .. _cerveza de ayer: link://slug/karaoke_en_kai_men
 
-.. |Diego y Jose| image:: http://static.flickr.com/38/74978620_ce171e88c0.jpg
-   :target: http://www.flickr.com/photos/chaghi/sets/1609106/
+.. |Diego y Jose| image:: https://static.flickr.com/38/74978620_ce171e88c0.jpg
+   :target: https://www.flickr.com/photos/chaghi/sets/1609106/

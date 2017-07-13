@@ -186,9 +186,9 @@ buscaba:
 
 .. _mi cámara: link://slug/ingresando_al_mundo_de_la_fotografia_digital
 .. _viaje a Europa: link://slug/primera_transmision_desde_europa
-.. _algunas fotos buenísimas: http://www.flickr.com/photos/chaghi/159534904/sizes/l/in/set-72157600064629189/
+.. _algunas fotos buenísimas: https://www.flickr.com/photos/chaghi/159534904/sizes/l/in/set-72157600064629189/
 .. _Facu: http://www.taniquetil.com.ar/plog/
 .. _Canon PowerShot S5 IS: http://www.dpreview.com/reviews/CanonS5is/
-.. _la conozco de primera mano por Eze: http://www.flickr.com/photos/erugiero/
+.. _la conozco de primera mano por Eze: https://www.flickr.com/photos/erugiero/
 
 .. |Canon PowerShot S5 IS| image:: /images/canon_s5is.jpg

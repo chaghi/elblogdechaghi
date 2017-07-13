@@ -101,19 +101,19 @@ Especialmente en lo que respecta a la movida cultural.
 |Puerta de la Ciudadela|
 
 Finalmente no saqué muchas fotos, pero las que saqué, están
-acá: \ http://www.flickr.com/photos/chaghi/sets/72157626622075528/.
+acá: \ https://www.flickr.com/photos/chaghi/sets/72157626622075528/.
 
 .. _Planet Montevideo Hostel: http://www.planetmontevideohostel.com/nosotros.htm
 
-.. |Plaza Constitución| image:: http://farm6.static.flickr.com/5183/5676208712_316673ab06.jpg
-   :target: http://www.flickr.com/photos/chaghi/5676208712/
-.. |Colores en Ciudad Vieja| image:: http://farm6.static.flickr.com/5104/5675607763_c51ece56ff.jpg
-   :target: http://www.flickr.com/photos/chaghi/5675607763/
-.. |Palacio Salvo| image:: http://farm6.static.flickr.com/5266/5675660251_2821b82951.jpg
-   :target: http://www.flickr.com/photos/chaghi/5675660251/
-.. |Peatonal Sarandí| image:: http://farm6.static.flickr.com/5223/5675624229_2e27e211b4.jpg
-   :target: http://www.flickr.com/photos/chaghi/5675624229/
-.. |Plaza Independencia: monumento a Artigas y Torre Ejecutiva| image:: http://farm6.static.flickr.com/5106/5675600741_6bb3319c58.jpg
-   :target: http://www.flickr.com/photos/chaghi/5675600741/
-.. |Puerta de la Ciudadela| image:: http://farm6.static.flickr.com/5022/5676165570_bbe9e3dc77.jpg
-   :target: http://www.flickr.com/photos/chaghi/5676165570/
+.. |Plaza Constitución| image:: https://farm6.static.flickr.com/5183/5676208712_316673ab06.jpg
+   :target: https://www.flickr.com/photos/chaghi/5676208712/
+.. |Colores en Ciudad Vieja| image:: https://farm6.static.flickr.com/5104/5675607763_c51ece56ff.jpg
+   :target: https://www.flickr.com/photos/chaghi/5675607763/
+.. |Palacio Salvo| image:: https://farm6.static.flickr.com/5266/5675660251_2821b82951.jpg
+   :target: https://www.flickr.com/photos/chaghi/5675660251/
+.. |Peatonal Sarandí| image:: https://farm6.static.flickr.com/5223/5675624229_2e27e211b4.jpg
+   :target: https://www.flickr.com/photos/chaghi/5675624229/
+.. |Plaza Independencia: monumento a Artigas y Torre Ejecutiva| image:: https://farm6.static.flickr.com/5106/5675600741_6bb3319c58.jpg
+   :target: https://www.flickr.com/photos/chaghi/5675600741/
+.. |Puerta de la Ciudadela| image:: https://farm6.static.flickr.com/5022/5676165570_bbe9e3dc77.jpg
+   :target: https://www.flickr.com/photos/chaghi/5676165570/

@@ -199,43 +199,43 @@ chiste interno...)
 .. _acá: http://flickr.com/photos/chaghi/sets/72157603764014277/
 .. _fagot: http://es.wikipedia.org/wiki/Fagot
 
-.. |IMGP3313.JPG| image:: http://farm3.static.flickr.com/2349/2207900916_baf81c33ee_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207900916/
-.. |IMGP3184.JPG| image:: http://farm3.static.flickr.com/2204/2206987730_e8927cfbe9_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2206987730/
-.. |IMGP3197.JPG| image:: http://farm3.static.flickr.com/2176/2206279667_b621ab2f9e_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2206279667/
-.. |IMGP3213.JPG| image:: http://farm3.static.flickr.com/2402/2207169912_c0953b3797_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207169912/
-.. |IMGP3225.JPG| image:: http://farm3.static.flickr.com/2393/2206469173_8892dd857d_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2206469173/
-.. |IMGP3253.JPG| image:: http://farm3.static.flickr.com/2148/2207510742_789b67c4a6_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207510742/
-.. |IMGP3244.JPG| image:: http://farm3.static.flickr.com/2067/2207431134_dd2bc9bdb8_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207431134/
-.. |IMGP3267.JPG| image:: http://farm3.static.flickr.com/2150/2207605344_925265e486_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207605344/
-.. |IMGP3269.JPG| image:: http://farm3.static.flickr.com/2014/2207617758_31e13f6485_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207617758/
-.. |IMGP3275.JPG| image:: http://farm3.static.flickr.com/2306/2206853723_32f12f516c_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2206853723/
-.. |IMGP3284.JPG| image:: http://farm3.static.flickr.com/2344/2206893101_92cca130ee_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2206893101/
-.. |IMGP3285.JPG| image:: http://farm3.static.flickr.com/2259/2206901739_5202e3d665_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2206901739/
-.. |IMGP3309.JPG| image:: http://farm3.static.flickr.com/2374/2207081395_a7bacd24ab_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207081395/
-.. |IMGP3311.JPG| image:: http://farm3.static.flickr.com/2229/2207097001_b7c47c9eaf_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207097001/
-.. |IMGP3314.JPG| image:: http://farm3.static.flickr.com/2036/2207117055_c51a31e6dc_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207117055/
-.. |IMGP3319.JPG| image:: http://farm3.static.flickr.com/2296/2207932780_1f950815c8_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207932780/
-.. |IMGP3322.JPG| image:: http://farm3.static.flickr.com/2379/2207162257_c7b5e77fed_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207162257/
-.. |IMGP3331.JPG| image:: http://farm3.static.flickr.com/2131/2208006260_2ca80f7e75_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2208006260/
-.. |IMGP3328.JPG| image:: http://farm3.static.flickr.com/2319/2207193981_2f2061e946_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2207193981/
-.. |IMGP3346.JPG| image:: http://farm3.static.flickr.com/2114/2208095606_c340a31889_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/2208095606/
+.. |IMGP3313.JPG| image:: https://farm3.static.flickr.com/2349/2207900916_baf81c33ee_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207900916/
+.. |IMGP3184.JPG| image:: https://farm3.static.flickr.com/2204/2206987730_e8927cfbe9_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2206987730/
+.. |IMGP3197.JPG| image:: https://farm3.static.flickr.com/2176/2206279667_b621ab2f9e_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2206279667/
+.. |IMGP3213.JPG| image:: https://farm3.static.flickr.com/2402/2207169912_c0953b3797_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207169912/
+.. |IMGP3225.JPG| image:: https://farm3.static.flickr.com/2393/2206469173_8892dd857d_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2206469173/
+.. |IMGP3253.JPG| image:: https://farm3.static.flickr.com/2148/2207510742_789b67c4a6_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207510742/
+.. |IMGP3244.JPG| image:: https://farm3.static.flickr.com/2067/2207431134_dd2bc9bdb8_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207431134/
+.. |IMGP3267.JPG| image:: https://farm3.static.flickr.com/2150/2207605344_925265e486_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207605344/
+.. |IMGP3269.JPG| image:: https://farm3.static.flickr.com/2014/2207617758_31e13f6485_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207617758/
+.. |IMGP3275.JPG| image:: https://farm3.static.flickr.com/2306/2206853723_32f12f516c_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2206853723/
+.. |IMGP3284.JPG| image:: https://farm3.static.flickr.com/2344/2206893101_92cca130ee_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2206893101/
+.. |IMGP3285.JPG| image:: https://farm3.static.flickr.com/2259/2206901739_5202e3d665_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2206901739/
+.. |IMGP3309.JPG| image:: https://farm3.static.flickr.com/2374/2207081395_a7bacd24ab_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207081395/
+.. |IMGP3311.JPG| image:: https://farm3.static.flickr.com/2229/2207097001_b7c47c9eaf_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207097001/
+.. |IMGP3314.JPG| image:: https://farm3.static.flickr.com/2036/2207117055_c51a31e6dc_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207117055/
+.. |IMGP3319.JPG| image:: https://farm3.static.flickr.com/2296/2207932780_1f950815c8_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207932780/
+.. |IMGP3322.JPG| image:: https://farm3.static.flickr.com/2379/2207162257_c7b5e77fed_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207162257/
+.. |IMGP3331.JPG| image:: https://farm3.static.flickr.com/2131/2208006260_2ca80f7e75_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2208006260/
+.. |IMGP3328.JPG| image:: https://farm3.static.flickr.com/2319/2207193981_2f2061e946_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2207193981/
+.. |IMGP3346.JPG| image:: https://farm3.static.flickr.com/2114/2208095606_c340a31889_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/2208095606/

@@ -32,5 +32,5 @@ Fotos del evento, cortesía de Seba, `acá`_.
 .. _este hito: link://slug/implementamos
 .. _acá: http://flickr.com/photos/chaghi/archives/date-posted/2008/02/detail/
 
-.. |El equipo, en Buller| image:: http://farm3.static.flickr.com/2182/2264157851_2279d1b192.jpg
-   :target: http://www.flickr.com/photos/chaghi/2264157851/
+.. |El equipo, en Buller| image:: https://farm3.static.flickr.com/2182/2264157851_2279d1b192.jpg
+   :target: https://www.flickr.com/photos/chaghi/2264157851/

@@ -9,8 +9,8 @@
 .. author: cHagHi
 .. from_wp: True
 
-.. figure:: http://farm4.static.flickr.com/3203/3051786557_bc5ee7265f.jpg
-   :target: http://www.flickr.com/photos/americanvirus/3051786557/
+.. figure:: https://farm4.static.flickr.com/3203/3051786557_bc5ee7265f.jpg
+   :target: https://www.flickr.com/photos/americanvirus/3051786557/
    :class: islink
    :alt: Raining Out.
    :align: center
@@ -20,5 +20,5 @@
 Se largó a llover nomás. Mejor hoy, y no el viernes. Preferiría no
 escuchar a Clapton bajo la lluvia...
 
-.. _Raining Out.: http://www.flickr.com/photos/americanvirus/3051786557/
-.. _AMERICANVIRUS: http://www.flickr.com/photos/americanvirus/
+.. _Raining Out.: https://www.flickr.com/photos/americanvirus/3051786557/
+.. _AMERICANVIRUS: https://www.flickr.com/photos/americanvirus/

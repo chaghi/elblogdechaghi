@@ -10,7 +10,7 @@
 .. from_wp: True
 
 .. figure:: https://farm1.staticflickr.com/227/481350690_668a8c5423.jpg
-   :target: http://www.flickr.com/photos/chaghi/481350690/
+   :target: https://www.flickr.com/photos/chaghi/481350690/
    :class: islink
    :alt: Amigos
    :align: center

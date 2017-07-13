@@ -9,8 +9,8 @@
 .. author: cHagHi
 .. from_wp: True
 
-.. figure:: http://farm3.static.flickr.com/2684/4289385062_926df5c168.jpg
-   :target: http://www.flickr.com/photos/question_everything/4289385062/
+.. figure:: https://farm3.static.flickr.com/2684/4289385062_926df5c168.jpg
+   :target: https://www.flickr.com/photos/question_everything/4289385062/
    :class: islink
    :alt: Stockholm Sunset
    :align: center
@@ -19,5 +19,5 @@
 
 ... que ganas de volver alguna vez!
 
-.. _Stockholm Sunset: http://www.flickr.com/photos/question_everything/4289385062/
-.. _Let Ideas Compete: http://www.flickr.com/photos/question_everything/
+.. _Stockholm Sunset: https://www.flickr.com/photos/question_everything/4289385062/
+.. _Let Ideas Compete: https://www.flickr.com/photos/question_everything/

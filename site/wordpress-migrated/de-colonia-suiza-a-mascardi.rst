@@ -183,10 +183,10 @@ tiempo), y para disfrutar las lagunas y arroyos. Pero bueno, como decía
 al principio, habrá que volver :)
 
 Selección de fotos de la travesía, acá:
-http://www.flickr.com/photos/chaghi/sets/72157625943039792/
+https://www.flickr.com/photos/chaghi/sets/72157625943039792/
 
 O una presentación tipo diapositivas, acá:
-http://www.flickr.com/photos/chaghi/sets/72157625943039792/show/
+https://www.flickr.com/photos/chaghi/sets/72157625943039792/show/
 
 .. _Hielo Azul Aventura: http://www.hieloazulaventura.com/
 .. _te la conté acá: link://slug/en_la_cordillera_del_viento
@@ -195,45 +195,45 @@ http://www.flickr.com/photos/chaghi/sets/72157625943039792/show/
 .. _refugio Italia: http://www.refugiolagunanegra.com/
 .. _Concilio de Elrond: http://es.wikipedia.org/wiki/Concilio_de_Elrond
 
-.. |Arroyito| image:: http://farm6.static.flickr.com/5131/5402160151_d018c64a0c_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402160151/in/set-72157625943039792/
-.. |Todavía había sol!| image:: http://farm6.static.flickr.com/5018/5402769368_2eb0b1637d_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402769368/in/set-72157625943039792/
-.. |Caracol hacia Laguna Negra| image:: http://farm6.static.flickr.com/5253/5402193705_62dc4b3ab8_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402193705/in/set-72157625943039792/
-.. |Dardos| image:: http://farm6.static.flickr.com/5253/5402268243_56e2edc80e_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402268243/
-.. |Atrapasueños| image:: http://farm6.static.flickr.com/5293/5402261001_538922f6a5_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402261001/
-.. |Refugio Italia| image:: http://farm6.static.flickr.com/5216/5402249363_25d3946b0e_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402249363/
-.. |Laguna Negra| image:: http://farm6.static.flickr.com/5018/5402355007_91082670c9_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402355007/
-.. |Laguna CAB| image:: http://farm6.static.flickr.com/5176/5402365375_46722cdf35_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402365375/
-.. |Laguna CAB 2| image:: http://farm6.static.flickr.com/5053/5402381017_07fe2af28a_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402381017/
-.. |Fogón| image:: http://farm6.static.flickr.com/5091/5402984598_9875f2126b_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402984598/
-.. |Ollas| image:: http://farm6.static.flickr.com/5057/5402993700_3d5074e74d_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402993700/
-.. |Laguna CAB 3| image:: http://farm6.static.flickr.com/5136/5402998410_d06a900511_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402998410/
-.. |cHagHi| image:: http://farm6.static.flickr.com/5052/5403096496_cffe1b87ce_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5403096496/
-.. |Recital| image:: http://farm6.static.flickr.com/5011/5403143396_94cd500299_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5403143396/
-.. |Filo de los Cristales| image:: http://farm6.static.flickr.com/5251/5403177956_f3a6cef366_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5403177956/
-.. |Cascada| image:: http://farm6.static.flickr.com/5252/5403257992_1029c67d4a_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5403257992/
-.. |Laguna Creton| image:: http://farm6.static.flickr.com/5011/5402724409_4d433eb183_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402724409/
-.. |Fogón 2| image:: http://farm6.static.flickr.com/5296/5403360894_13bf588d1f_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5403360894/
-.. |Laguna Azul| image:: http://farm6.static.flickr.com/5093/5402777261_af8310469e.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402777261/
-.. |Picada| image:: http://farm6.static.flickr.com/5019/5403453468_44e9b458d8_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5403453468/
-.. |Arroyo| image:: http://farm6.static.flickr.com/5175/5402889917_72fc934075_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5402889917/
+.. |Arroyito| image:: https://farm6.static.flickr.com/5131/5402160151_d018c64a0c_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402160151/in/set-72157625943039792/
+.. |Todavía había sol!| image:: https://farm6.static.flickr.com/5018/5402769368_2eb0b1637d_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402769368/in/set-72157625943039792/
+.. |Caracol hacia Laguna Negra| image:: https://farm6.static.flickr.com/5253/5402193705_62dc4b3ab8_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402193705/in/set-72157625943039792/
+.. |Dardos| image:: https://farm6.static.flickr.com/5253/5402268243_56e2edc80e_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402268243/
+.. |Atrapasueños| image:: https://farm6.static.flickr.com/5293/5402261001_538922f6a5_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402261001/
+.. |Refugio Italia| image:: https://farm6.static.flickr.com/5216/5402249363_25d3946b0e_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402249363/
+.. |Laguna Negra| image:: https://farm6.static.flickr.com/5018/5402355007_91082670c9_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402355007/
+.. |Laguna CAB| image:: https://farm6.static.flickr.com/5176/5402365375_46722cdf35_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402365375/
+.. |Laguna CAB 2| image:: https://farm6.static.flickr.com/5053/5402381017_07fe2af28a_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402381017/
+.. |Fogón| image:: https://farm6.static.flickr.com/5091/5402984598_9875f2126b_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402984598/
+.. |Ollas| image:: https://farm6.static.flickr.com/5057/5402993700_3d5074e74d_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402993700/
+.. |Laguna CAB 3| image:: https://farm6.static.flickr.com/5136/5402998410_d06a900511_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402998410/
+.. |cHagHi| image:: https://farm6.static.flickr.com/5052/5403096496_cffe1b87ce_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5403096496/
+.. |Recital| image:: https://farm6.static.flickr.com/5011/5403143396_94cd500299_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5403143396/
+.. |Filo de los Cristales| image:: https://farm6.static.flickr.com/5251/5403177956_f3a6cef366_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5403177956/
+.. |Cascada| image:: https://farm6.static.flickr.com/5252/5403257992_1029c67d4a_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5403257992/
+.. |Laguna Creton| image:: https://farm6.static.flickr.com/5011/5402724409_4d433eb183_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402724409/
+.. |Fogón 2| image:: https://farm6.static.flickr.com/5296/5403360894_13bf588d1f_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5403360894/
+.. |Laguna Azul| image:: https://farm6.static.flickr.com/5093/5402777261_af8310469e.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402777261/
+.. |Picada| image:: https://farm6.static.flickr.com/5019/5403453468_44e9b458d8_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5403453468/
+.. |Arroyo| image:: https://farm6.static.flickr.com/5175/5402889917_72fc934075_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5402889917/

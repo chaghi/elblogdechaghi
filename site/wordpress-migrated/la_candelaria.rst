@@ -27,8 +27,8 @@ Los saltos ornamentales, merecen estar en primera plana:
 
 |Zambullidas|
 
-.. _pueden acceder acá: http://www.flickr.com/photos/chaghi/sets/1444991/
-.. _flickr: http://www.flickr.com
+.. _pueden acceder acá: https://www.flickr.com/photos/chaghi/sets/1444991/
+.. _flickr: https://www.flickr.com
 
-.. |Zambullidas| image:: http://static.flickr.com/31/66979598_e6f867c6c8_o.jpg
-   :target: http://www.flickr.com/photos/chaghi/66979598/
+.. |Zambullidas| image:: https://static.flickr.com/31/66979598_e6f867c6c8_o.jpg
+   :target: https://www.flickr.com/photos/chaghi/66979598/

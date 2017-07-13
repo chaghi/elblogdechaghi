@@ -18,7 +18,7 @@ cenar, lamentablemente yo estaba de viaje, así que me lo perdí. Aquella
 vez los testigos cuentan que Vane cocinó como una burra, y preparó una
 cena de puta madre.
 
-.. image:: http://static.flickr.com/71/196279356_a63edfdd20_m.jpg
+.. image:: https://static.flickr.com/71/196279356_a63edfdd20_m.jpg
    :class: islink
    :alt: Vane, la cocinera
    :align: right
@@ -37,7 +37,7 @@ No conocía el depto de los chicos, y la verdad lo tienen muy lindo. Me
 encanta el estilo de muebles, todo con una onda bastante minimalista y
 "orientalosa" :)
 
-.. image:: http://static.flickr.com/67/196273939_c936ae7f1e_m.jpg
+.. image:: https://static.flickr.com/67/196273939_c936ae7f1e_m.jpg
    :class: islink
    :alt: Luca y Pablo
    :align: left
@@ -58,4 +58,4 @@ Hay más fotos `acá`_.
 
    <div style="clear:both;"></div>
 
-.. _acá: http://www.flickr.com/photos/chaghi/archives/date-posted/2006/07/23/detail/
+.. _acá: https://www.flickr.com/photos/chaghi/archives/date-posted/2006/07/23/detail/

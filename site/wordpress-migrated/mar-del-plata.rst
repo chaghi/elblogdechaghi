@@ -9,8 +9,8 @@
 .. author: cHagHi
 .. from_wp: True
 
-.. figure:: http://farm4.static.flickr.com/3521/3959050760_5f3a597ebb.jpg
-   :target: http://www.flickr.com/photos/lucas_82/3959050760/
+.. figure:: https://farm4.static.flickr.com/3521/3959050760_5f3a597ebb.jpg
+   :target: https://www.flickr.com/photos/lucas_82/3959050760/
    :class: islink
    :alt: NH Gran Hotel Provincial
    :align: center
@@ -19,5 +19,5 @@
 
 Laburando un par de días desde MDQ... hacía rato que no venía :)
 
-.. _NH Gran Hotel Provincial - Mar del Plata: http://www.flickr.com/photos/lucas_82/3959050760/
-.. _< Lucas >: http://www.flickr.com/photos/lucas_82/
+.. _NH Gran Hotel Provincial - Mar del Plata: https://www.flickr.com/photos/lucas_82/3959050760/
+.. _< Lucas >: https://www.flickr.com/photos/lucas_82/

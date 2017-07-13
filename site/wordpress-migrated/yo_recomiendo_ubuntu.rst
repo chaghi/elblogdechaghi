@@ -11,4 +11,4 @@
 
 |I recommend Ubuntu|
 
-.. |I recommend Ubuntu| image:: http://static.flickr.com/96/281193199_519775b141_o.jpg
+.. |I recommend Ubuntu| image:: https://static.flickr.com/96/281193199_519775b141_o.jpg

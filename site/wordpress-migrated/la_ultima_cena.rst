@@ -23,4 +23,4 @@ apreciar por qué ;)
 
 .. _Facundo: http://www.taniquetil.com.ar/plog
 
-.. |La última cena...| image:: http://static.flickr.com/81/222358154_9069083db1_o.jpg
+.. |La última cena...| image:: https://static.flickr.com/81/222358154_9069083db1_o.jpg

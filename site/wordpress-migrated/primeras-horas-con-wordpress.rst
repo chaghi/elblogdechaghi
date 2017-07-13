@@ -96,5 +96,5 @@ gratis, va a llevar bastante más tiempo...
 .. _comentario de Marcos: ../mira-mira-ahora-uso-wordpress/#comment-600
 .. _vienen con sorpresita: http://wpmu.org/why-you-should-never-search-for-free-wordpress-themes-in-google-or-anywhere-else/
 
-.. |Writing por jjpacres| image:: http://farm4.static.flickr.com/3447/3293117576_05f43d8305.jpg
-   :target: http://www.flickr.com/photos/jjpacres/3293117576/
+.. |Writing por jjpacres| image:: https://farm4.static.flickr.com/3447/3293117576_05f43d8305.jpg
+   :target: https://www.flickr.com/photos/jjpacres/3293117576/

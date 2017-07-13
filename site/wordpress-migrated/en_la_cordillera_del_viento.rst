@@ -249,54 +249,54 @@ Mientras tanto, mi record de altura siguen siendo los 4500 msnm del abra
 Ronqui, en Jujuy...
 
 Selección de fotos del ascenso en Flickr:
-http://www.flickr.com/photos/chaghi/sets/72157625766068623/
+https://www.flickr.com/photos/chaghi/sets/72157625766068623/
 
 .. _viaje a Vallecitos: link://slug/vallecitos_2010
 .. _pero eso... eso es otra historia...: link://slug/de-colonia-suiza-a-mascardi
 
-.. |En Varvarco| image:: http://farm6.static.flickr.com/5166/5382176050_d1f5e96e88_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382176050/
-.. |Rumbo al Domuyo| image:: http://farm6.static.flickr.com/5170/5382192272_8f7e7d2fbd_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382192272/
-.. |El Domuyo| image:: http://farm6.static.flickr.com/5207/5382181780_6dbe4726a6_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382181780/
-.. |El Domuyo 2| image:: http://farm6.static.flickr.com/5090/5382186652_f6fb47dc77_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382186652/
-.. |Camino al campamento base| image:: http://farm6.static.flickr.com/5049/5382237712_642d604b68_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382237712/
-.. |Llegando al campamento base| image:: http://farm6.static.flickr.com/5209/5381644841_e98024434d_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5381644841/
-.. |Campamento base| image:: http://farm6.static.flickr.com/5088/5381676855_e8da891df0_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5381676855/
-.. |En el Domuyo| image:: http://farm6.static.flickr.com/5004/5381698767_1772465599_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5381698767/
-.. |Atardecer| image:: http://farm6.static.flickr.com/5203/5382345566_6a47b8a4a1_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382345566/
-.. |Rumbo al campamento 2| image:: http://farm6.static.flickr.com/5250/5382381350_3a37ce2169_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382381350/
-.. |Llegando al campamento 2| image:: http://farm6.static.flickr.com/5287/5381787083_04bdef29c8_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5381787083/
-.. |Campamento 2| image:: http://farm6.static.flickr.com/5047/5382407648_44e216db38_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382407648/
-.. |Atardecer 2| image:: http://farm6.static.flickr.com/5004/5381879077_faae8c04f0_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5381879077/
-.. |Atardecer 3| image:: http://farm6.static.flickr.com/5246/5382517734_52f8f36e40_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382517734/
-.. |Campamento 2, completo| image:: http://farm6.static.flickr.com/5288/5382538596_2d501aa3cc_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382538596/
-.. |Charla entre guías| image:: http://farm6.static.flickr.com/5284/5382546892_f6439384fe_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382546892/
-.. |Amanecer| image:: http://farm6.static.flickr.com/5043/5382550520_6169cf6880_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382550520/
-.. |Complicado...| image:: http://farm6.static.flickr.com/5163/5382559676_5e87f9707a_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382559676/
-.. |Crampones| image:: http://farm6.static.flickr.com/5084/5381960533_058be399c2_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5381960533/
-.. |Bajando...| image:: http://farm6.static.flickr.com/5085/5381967603_2f0ce93112_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5381967603/
-.. |Se vienen las nubes| image:: http://farm6.static.flickr.com/5209/5382607618_64f37968ba_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382607618/
-.. |Se vienen las nubes 2| image:: http://farm6.static.flickr.com/5050/5382011951_1067fbe36f_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382011951/
-.. |Paisano y nube| image:: http://farm6.static.flickr.com/5083/5382026133_039e544327.jpg
-   :target: http://www.flickr.com/photos/chaghi/5382026133/
+.. |En Varvarco| image:: https://farm6.static.flickr.com/5166/5382176050_d1f5e96e88_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382176050/
+.. |Rumbo al Domuyo| image:: https://farm6.static.flickr.com/5170/5382192272_8f7e7d2fbd_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382192272/
+.. |El Domuyo| image:: https://farm6.static.flickr.com/5207/5382181780_6dbe4726a6_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382181780/
+.. |El Domuyo 2| image:: https://farm6.static.flickr.com/5090/5382186652_f6fb47dc77_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382186652/
+.. |Camino al campamento base| image:: https://farm6.static.flickr.com/5049/5382237712_642d604b68_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382237712/
+.. |Llegando al campamento base| image:: https://farm6.static.flickr.com/5209/5381644841_e98024434d_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5381644841/
+.. |Campamento base| image:: https://farm6.static.flickr.com/5088/5381676855_e8da891df0_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5381676855/
+.. |En el Domuyo| image:: https://farm6.static.flickr.com/5004/5381698767_1772465599_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5381698767/
+.. |Atardecer| image:: https://farm6.static.flickr.com/5203/5382345566_6a47b8a4a1_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382345566/
+.. |Rumbo al campamento 2| image:: https://farm6.static.flickr.com/5250/5382381350_3a37ce2169_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382381350/
+.. |Llegando al campamento 2| image:: https://farm6.static.flickr.com/5287/5381787083_04bdef29c8_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5381787083/
+.. |Campamento 2| image:: https://farm6.static.flickr.com/5047/5382407648_44e216db38_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382407648/
+.. |Atardecer 2| image:: https://farm6.static.flickr.com/5004/5381879077_faae8c04f0_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5381879077/
+.. |Atardecer 3| image:: https://farm6.static.flickr.com/5246/5382517734_52f8f36e40_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382517734/
+.. |Campamento 2, completo| image:: https://farm6.static.flickr.com/5288/5382538596_2d501aa3cc_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382538596/
+.. |Charla entre guías| image:: https://farm6.static.flickr.com/5284/5382546892_f6439384fe_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382546892/
+.. |Amanecer| image:: https://farm6.static.flickr.com/5043/5382550520_6169cf6880_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382550520/
+.. |Complicado...| image:: https://farm6.static.flickr.com/5163/5382559676_5e87f9707a_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382559676/
+.. |Crampones| image:: https://farm6.static.flickr.com/5084/5381960533_058be399c2_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5381960533/
+.. |Bajando...| image:: https://farm6.static.flickr.com/5085/5381967603_2f0ce93112_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5381967603/
+.. |Se vienen las nubes| image:: https://farm6.static.flickr.com/5209/5382607618_64f37968ba_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382607618/
+.. |Se vienen las nubes 2| image:: https://farm6.static.flickr.com/5050/5382011951_1067fbe36f_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382011951/
+.. |Paisano y nube| image:: https://farm6.static.flickr.com/5083/5382026133_039e544327.jpg
+   :target: https://www.flickr.com/photos/chaghi/5382026133/

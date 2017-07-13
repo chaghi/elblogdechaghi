@@ -129,5 +129,5 @@ evolucionando muy rápidamente...
 .. _HTC Desire, con Android 2.2: http://www.htc.com/es/product/desire/overview.html
 .. _la interfaz "Sense": http://www.htc.com/www/htcsense/index.html
 
-.. |HTC Desire| image:: http://www.htc.com/uploadedImages/WWW/Product/HTC_Desire/image1.jpg
-   :target: http://www.htc.com/es/product/desire/overview.html
+.. |HTC Desire| image:: https://www.htc.com/uploadedImages/WWW/Product/HTC_Desire/image1.jpg
+   :target: https://www.htc.com/es/product/desire/overview.html

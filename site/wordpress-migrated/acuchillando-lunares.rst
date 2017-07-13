@@ -15,8 +15,8 @@ supuestamente yo estoy en un quirófano y me están haciendo una cirugía
 menor para extraer tres (o dos) lunares. Esperemos que tres, porque si
 no voy a tener que volver a por el otro en unos meses... pero depende.
 
-.. image:: http://farm1.static.flickr.com/33/47558324_72a19e2885_m.jpg
-   :target: http://www.flickr.com/photos/clearlyambiguous/47558324/
+.. image:: https://farm1.static.flickr.com/33/47558324_72a19e2885_m.jpg
+   :target: https://www.flickr.com/photos/clearlyambiguous/47558324/
    :class: islink
    :alt: What Time Is It?
    :align: left

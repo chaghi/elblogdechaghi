@@ -51,11 +51,11 @@ de sobra para charlar y cagarnos de risa. 
 Más fotos, `acá`_.
 
 .. _Jump Back: http://www.guiaoleo.com.ar/detail.php?ID=647
-.. _acá: http://www.flickr.com/photos/chaghi/archives/date-posted/2006/12/18/detail/
+.. _acá: https://www.flickr.com/photos/chaghi/archives/date-posted/2006/12/18/detail/
 
-.. |Platos de Jump Back| image:: http://static.flickr.com/141/326823434_a40d914ab3_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/326823434/
-.. |Postres de Jump Back| image:: http://static.flickr.com/136/326823128_5c83eaced7_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/326823128/
-.. |Darío, Fede, Lucas, Chelo, cHagHi| image:: http://static.flickr.com/142/326821781_98c8992d45.jpg
-   :target: http://www.flickr.com/photos/chaghi/326821781/
+.. |Platos de Jump Back| image:: https://static.flickr.com/141/326823434_a40d914ab3_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/326823434/
+.. |Postres de Jump Back| image:: https://static.flickr.com/136/326823128_5c83eaced7_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/326823128/
+.. |Darío, Fede, Lucas, Chelo, cHagHi| image:: https://static.flickr.com/142/326821781_98c8992d45.jpg
+   :target: https://www.flickr.com/photos/chaghi/326821781/

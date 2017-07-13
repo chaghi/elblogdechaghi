@@ -9,8 +9,8 @@
 .. author: cHagHi
 .. from_wp: True
 
-.. figure:: http://farm7.static.flickr.com/6202/6043652347_241bfef35f.jpg
-   :target: http://www.flickr.com/photos/reiven/6043652347/
+.. figure:: https://farm7.static.flickr.com/6202/6043652347_241bfef35f.jpg
+   :target: https://www.flickr.com/photos/reiven/6043652347/
    :class: islink
    :alt: democracia by reiven
    :align: center
@@ -23,5 +23,5 @@ siglo V a. C. a partir de los vocablos δημος («demos», que puede
 traducirse como «pueblo») y κρατος (krátos, que puede traducirse como
 «poder» o «gobierno»)
 
-.. _reiven: http://www.flickr.com/photos/reiven/
-.. _democracia: http://www.flickr.com/photos/reiven/6043652347/
+.. _reiven: https://www.flickr.com/photos/reiven/
+.. _democracia: https://www.flickr.com/photos/reiven/6043652347/

@@ -59,5 +59,5 @@ Genial. Siempre me gustó este tema.
 
 .. _Mad Max Beyond Thunderdome: http://www.imdb.com/title/tt0089530/
 
-.. |Thunderdome by Day| image:: http://farm2.static.flickr.com/1049/1343394930_5effa02c0c.jpg
-   :target: http://www.flickr.com/photos/laurendarling/1343394930/
+.. |Thunderdome by Day| image:: https://farm2.static.flickr.com/1049/1343394930_5effa02c0c.jpg
+   :target: https://www.flickr.com/photos/laurendarling/1343394930/

@@ -42,4 +42,4 @@ puedo fotografiar algo.
 
  
 
-.. _Algunas fotos, acá: http://www.flickr.com/photos/chaghi/archives/date-posted/2007/07/09/
+.. _Algunas fotos, acá: https://www.flickr.com/photos/chaghi/archives/date-posted/2007/07/09/

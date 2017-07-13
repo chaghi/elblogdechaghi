@@ -29,4 +29,4 @@ así la próxima están libres y no tienen excusas.
 `Dejo algunas fotitos`_ (yo, como siempre, con los ojos medio cerrados (o
 medio abiertos))
 
-.. _Dejo algunas fotitos: http://www.flickr.com/photos/chaghi/sets/1583336/
+.. _Dejo algunas fotitos: https://www.flickr.com/photos/chaghi/sets/1583336/

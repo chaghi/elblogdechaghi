@@ -178,47 +178,47 @@ Acá les dejo una `selección de fotos del viaje`_.
 .. _Humahuaca a Valle Grande: link://slug/humahuaca_valle_grande_julio2010
 .. _Hielo Azul: http://www.hieloazulaventura.com
 .. _otra historia: link://slug/mostaceros-ahora-tambien-en-retiro
-.. _selección de fotos del viaje: http://www.flickr.com/photos/chaghi/sets/72157627295759313/
+.. _selección de fotos del viaje: https://www.flickr.com/photos/chaghi/sets/72157627295759313/
 
-.. |Iruya| image:: http://farm7.static.flickr.com/6062/6037048006_277801fdf3.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037048006/
-.. |IMG_4477a| image:: http://farm7.static.flickr.com/6087/6037051948_d75185d2c3_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037051948/
-.. |IMG_4478a| image:: http://farm7.static.flickr.com/6084/6037054040_ec58cca228_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037054040/
-.. |IMG_4483a| image:: http://farm7.static.flickr.com/6121/6036504813_3b1a45276d_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6036504813/
-.. |IMG_4532| image:: http://farm7.static.flickr.com/6182/6037099296_f2f805dcf2_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037099296/
-.. |IMG_4533| image:: http://farm7.static.flickr.com/6129/6037102186_8a9a41d9df_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037102186/
-.. |IMG_4554| image:: http://farm7.static.flickr.com/6147/6036558383_e2f08ff265_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6036558383/
-.. |IMG_4628| image:: http://farm7.static.flickr.com/6185/6037153790_1ca5ac40eb_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037153790/
-.. |IMG_4630| image:: http://farm7.static.flickr.com/6208/6036600961_c4b946642a_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6036600961/
-.. |IMG_4642| image:: http://farm7.static.flickr.com/6150/6037166680_25abae440b_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037166680/
-.. |IMG_4649| image:: http://farm7.static.flickr.com/6193/6037171918_2198c94b82_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037171918/
-.. |IMG_4663| image:: http://farm7.static.flickr.com/6145/6037194444_90f56008fc_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037194444/
-.. |IMG_4665HDR| image:: http://farm7.static.flickr.com/6146/6036642383_7d915e3a8a_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6036642383/
-.. |IMG_4680| image:: http://farm7.static.flickr.com/6206/6037206148_e3b34ec8d4_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037206148/
-.. |IMG_4698a| image:: http://farm7.static.flickr.com/6202/6036667461_9ebdc48258_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6036667461/
-.. |IMG_4707a| image:: http://farm7.static.flickr.com/6139/6037224780_279058aa48_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037224780/
-.. |IMG_4716a| image:: http://farm7.static.flickr.com/6203/6036673541_9bc5a3f64f_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6036673541/
-.. |IMG_4724a| image:: http://farm7.static.flickr.com/6137/6037238806_a3a6647095_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6037238806/
-.. |IMG_4725| image:: http://farm7.static.flickr.com/6181/6036687789_2cbeb5fdcb_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6036687789/
-.. |IMG_4727a| image:: http://farm7.static.flickr.com/6207/6036690523_be2856f381_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6036690523/
-.. |IMG_4738| image:: http://farm7.static.flickr.com/6209/6036708189_f7566beabe_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/6036708189/
+.. |Iruya| image:: https://farm7.static.flickr.com/6062/6037048006_277801fdf3.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037048006/
+.. |IMG_4477a| image:: https://farm7.static.flickr.com/6087/6037051948_d75185d2c3_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037051948/
+.. |IMG_4478a| image:: https://farm7.static.flickr.com/6084/6037054040_ec58cca228_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037054040/
+.. |IMG_4483a| image:: https://farm7.static.flickr.com/6121/6036504813_3b1a45276d_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6036504813/
+.. |IMG_4532| image:: https://farm7.static.flickr.com/6182/6037099296_f2f805dcf2_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037099296/
+.. |IMG_4533| image:: https://farm7.static.flickr.com/6129/6037102186_8a9a41d9df_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037102186/
+.. |IMG_4554| image:: https://farm7.static.flickr.com/6147/6036558383_e2f08ff265_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6036558383/
+.. |IMG_4628| image:: https://farm7.static.flickr.com/6185/6037153790_1ca5ac40eb_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037153790/
+.. |IMG_4630| image:: https://farm7.static.flickr.com/6208/6036600961_c4b946642a_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6036600961/
+.. |IMG_4642| image:: https://farm7.static.flickr.com/6150/6037166680_25abae440b_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037166680/
+.. |IMG_4649| image:: https://farm7.static.flickr.com/6193/6037171918_2198c94b82_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037171918/
+.. |IMG_4663| image:: https://farm7.static.flickr.com/6145/6037194444_90f56008fc_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037194444/
+.. |IMG_4665HDR| image:: https://farm7.static.flickr.com/6146/6036642383_7d915e3a8a_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6036642383/
+.. |IMG_4680| image:: https://farm7.static.flickr.com/6206/6037206148_e3b34ec8d4_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037206148/
+.. |IMG_4698a| image:: https://farm7.static.flickr.com/6202/6036667461_9ebdc48258_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6036667461/
+.. |IMG_4707a| image:: https://farm7.static.flickr.com/6139/6037224780_279058aa48_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037224780/
+.. |IMG_4716a| image:: https://farm7.static.flickr.com/6203/6036673541_9bc5a3f64f_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6036673541/
+.. |IMG_4724a| image:: https://farm7.static.flickr.com/6137/6037238806_a3a6647095_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6037238806/
+.. |IMG_4725| image:: https://farm7.static.flickr.com/6181/6036687789_2cbeb5fdcb_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6036687789/
+.. |IMG_4727a| image:: https://farm7.static.flickr.com/6207/6036690523_be2856f381_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6036690523/
+.. |IMG_4738| image:: https://farm7.static.flickr.com/6209/6036708189_f7566beabe_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/6036708189/

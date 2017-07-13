@@ -15,5 +15,5 @@ Hoy, después de 10 años, en un rato nomás, estaré escuchando en vivo
 otra vez al gran Eric Clapton, en el Monumental. Durante 2011 fui a
 varios conciertos, pero este sin dudas es uno de los más esperados.
 
-.. |Eric Clapton In Vancouver| image:: http://farm6.static.flickr.com/5177/5483105135_05061184eb.jpg
-   :target: http://www.flickr.com/photos/shaynekaye/5483105135/
+.. |Eric Clapton In Vancouver| image:: https://farm6.static.flickr.com/5177/5483105135_05061184eb.jpg
+   :target: https://www.flickr.com/photos/shaynekaye/5483105135/

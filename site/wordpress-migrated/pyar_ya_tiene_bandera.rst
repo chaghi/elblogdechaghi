@@ -51,4 +51,4 @@ colgar en el recinto.
 .. _Alecu: http://www.alecu.com.ar/
 .. _PyAr: http://www.python.com.ar
 
-.. |Bandera PyAr| image:: http://static.flickr.com/87/281365302_0adda69ccd.jpg
+.. |Bandera PyAr| image:: https://static.flickr.com/87/281365302_0adda69ccd.jpg

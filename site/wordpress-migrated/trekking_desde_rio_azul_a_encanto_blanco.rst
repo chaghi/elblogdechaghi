@@ -306,33 +306,33 @@ Más fotos del viaje, acá: `Río Azul - Encanto Blanco '09`_
 .. _Valle del Encanto Blanco: http://www.bolsonweb.com/hospedaje/resenas/encantoblanco.htm
 .. _Cerro Perito Moreno: http://www.bolsonweb.com/aventura/peritomoreno.html
 .. _Facundo: http://www.taniquetil.com.ar/plog/
-.. _Río Azul - Encanto Blanco '09: http://www.flickr.com/photos/chaghi/sets/72157613006592232/
+.. _Río Azul - Encanto Blanco '09: https://www.flickr.com/photos/chaghi/sets/72157613006592232/
 
-.. |IMG_0830.JPG| image:: http://farm4.static.flickr.com/3382/3227345332_88fc3d5c7e.jpg
-   :target: http://www.flickr.com/photos/chaghi/3227345332/
-.. |IMG_0867.JPG| image:: http://farm4.static.flickr.com/3485/3227617812_478139a997_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/3227617812/
-.. |IMG_0865.JPG| image:: http://farm4.static.flickr.com/3536/3227600056_5d95ed8ebe_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/3227600056/
-.. |IMG_0944.JPG| image:: http://farm4.static.flickr.com/3339/3227174549_9dacc2bdee.jpg
-   :target: http://www.flickr.com/photos/chaghi/3227174549/
-.. |IMG_0978.JPG| image:: http://farm4.static.flickr.com/3353/3228135330_ddb384e8ef.jpg
-   :target: http://www.flickr.com/photos/chaghi/3228135330/
-.. |IMG_0994.JPG| image:: http://farm4.static.flickr.com/3510/3228182200_5128963e76.jpg
-   :target: http://www.flickr.com/photos/chaghi/3228182200/
-.. |IMG_1032.JPG| image:: http://farm4.static.flickr.com/3349/3228316272_f54b22732a_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/3228316272/
-.. |IMG_1034.JPG| image:: http://farm4.static.flickr.com/3529/3228325650_7a7c8310f0_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/3228325650/
-.. |IMG_1065.JPG| image:: http://farm4.static.flickr.com/3104/3228410190_a22a939a09_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/3228410190/
-.. |IMG_1064.JPG| image:: http://farm4.static.flickr.com/3094/3227551883_e2b8b9ca60_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/3227551883/
-.. |IMG_1130.JPG| image:: http://farm4.static.flickr.com/3105/3228591374_b0acb5ea2c.jpg
-   :target: http://www.flickr.com/photos/chaghi/3228591374/
-.. |IMG_1140.JPG| image:: http://farm4.static.flickr.com/3519/3228600970_38994a02c0_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/3228600970/
-.. |IMG_1097.JPG| image:: http://farm4.static.flickr.com/3509/3227675325_b2384362b0_m.jpg
-   :target: http://www.flickr.com/photos/chaghi/3227675325/
-.. |IMG_1159.JPG| image:: http://farm4.static.flickr.com/3442/3227816599_57fee452d6.jpg
-   :target: http://www.flickr.com/photos/chaghi/3227816599/
+.. |IMG_0830.JPG| image:: https://farm4.static.flickr.com/3382/3227345332_88fc3d5c7e.jpg
+   :target: https://www.flickr.com/photos/chaghi/3227345332/
+.. |IMG_0867.JPG| image:: https://farm4.static.flickr.com/3485/3227617812_478139a997_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/3227617812/
+.. |IMG_0865.JPG| image:: https://farm4.static.flickr.com/3536/3227600056_5d95ed8ebe_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/3227600056/
+.. |IMG_0944.JPG| image:: https://farm4.static.flickr.com/3339/3227174549_9dacc2bdee.jpg
+   :target: https://www.flickr.com/photos/chaghi/3227174549/
+.. |IMG_0978.JPG| image:: https://farm4.static.flickr.com/3353/3228135330_ddb384e8ef.jpg
+   :target: https://www.flickr.com/photos/chaghi/3228135330/
+.. |IMG_0994.JPG| image:: https://farm4.static.flickr.com/3510/3228182200_5128963e76.jpg
+   :target: https://www.flickr.com/photos/chaghi/3228182200/
+.. |IMG_1032.JPG| image:: https://farm4.static.flickr.com/3349/3228316272_f54b22732a_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/3228316272/
+.. |IMG_1034.JPG| image:: https://farm4.static.flickr.com/3529/3228325650_7a7c8310f0_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/3228325650/
+.. |IMG_1065.JPG| image:: https://farm4.static.flickr.com/3104/3228410190_a22a939a09_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/3228410190/
+.. |IMG_1064.JPG| image:: https://farm4.static.flickr.com/3094/3227551883_e2b8b9ca60_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/3227551883/
+.. |IMG_1130.JPG| image:: https://farm4.static.flickr.com/3105/3228591374_b0acb5ea2c.jpg
+   :target: https://www.flickr.com/photos/chaghi/3228591374/
+.. |IMG_1140.JPG| image:: https://farm4.static.flickr.com/3519/3228600970_38994a02c0_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/3228600970/
+.. |IMG_1097.JPG| image:: https://farm4.static.flickr.com/3509/3227675325_b2384362b0_m.jpg
+   :target: https://www.flickr.com/photos/chaghi/3227675325/
+.. |IMG_1159.JPG| image:: https://farm4.static.flickr.com/3442/3227816599_57fee452d6.jpg
+   :target: https://www.flickr.com/photos/chaghi/3227816599/

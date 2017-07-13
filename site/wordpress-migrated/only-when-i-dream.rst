@@ -11,5 +11,5 @@
 
 |Only When I Dream|
 
-.. |Only When I Dream| image:: http://farm8.staticflickr.com/7057/6906421447_96d8fb2eb4.jpg
-   :target: http://www.flickr.com/photos/chaghi/6906421447/
+.. |Only When I Dream| image:: https://farm8.staticflickr.com/7057/6906421447_96d8fb2eb4.jpg
+   :target: https://www.flickr.com/photos/chaghi/6906421447/

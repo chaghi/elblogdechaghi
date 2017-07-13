@@ -140,12 +140,12 @@ conocer más detalles sobre algo de todo esto, preguntá, y vemos...
 
 .. _Canon PowerShot S5 IS: link://slug/mi_selecci_n_de_camara_digital_bridge
 .. _`Photo Statistics: Aggregating EXIF data to see how I shoot photos`: http://www.filosophy.org/2011/06/photo-statistics-aggregating-exif-data-to-see-how-i-shoot-photos/
-.. _Flickr: http://www.flickr.com/photos/chaghi/
-.. _expone los datos EXIF: http://www.flickr.com/photos/chaghi/6036708189/meta/in/photostream
-.. _tiene una API: http://www.flickr.com/services/api/
+.. _Flickr: https://www.flickr.com/photos/chaghi/
+.. _expone los datos EXIF: https://www.flickr.com/photos/chaghi/6036708189/meta/in/photostream
+.. _tiene una API: https://www.flickr.com/services/api/
 .. _FlickrAPI: http://stuvel.eu/flickrapi
 .. _matplotlib: http://matplotlib.sourceforge.net/
-.. _fotos de la luna: http://www.flickr.com/photos/chaghi/4331616464/lightbox/
+.. _fotos de la luna: https://www.flickr.com/photos/chaghi/4331616464/lightbox/
 
 .. |(gráfico de Apertura vs Longitud Focal)| image:: /blog/wp-content/uploads/2011/09/Aperture-vs-Focal-Length-1024x1024.png
    :target: /blog/wp-content/uploads/2011/09/Aperture-vs-Focal-Length.png
